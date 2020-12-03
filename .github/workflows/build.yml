@@ -1,7 +1,7 @@
 name: Build .ics files
 
-#on:
-#  push:
+on:
+  push:
 #    branches:
 #      - master
 
