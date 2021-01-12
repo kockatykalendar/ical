@@ -67,7 +67,9 @@ events = kkapi.get_events(dataset)
 print(PREFIX_WORK, "Generating iCal file...", file=sys.stderr)
 
 
-def format_contestant(contestant: EventContestant):
+def format_contestant(contestant: EventContestant, prev_contestant=None):
+    if prev_contestant and prev_contestant.type == contestant.type:
+        return str(contestant.year)
     return "%s %d" % (LANG["contestant_types"][contestant.type], contestant.year)
 
 
@@ -77,7 +79,7 @@ def science_filter(event):
         return True
 
     for science in args.science:
-        if science in event["sciences"]:
+        if EventScience(science) in event.sciences:
             return True
     return False
 
@@ -86,12 +88,29 @@ def science_filter(event):
 def school_filter(event):
     if args.school == "any":
         return True
-    event_schools = set()
-    event_schools.add(event["contestants"]["min"][0:2])
-    if "max" in event["contestants"]:
-        event_schools.add(event["contestants"]["max"][0:2])
 
-    return args.school in event_schools
+    # Events for everyone should be always visible.
+    if event.contestants.min.type is None and event.contestants.max.type is None:
+        return True
+
+    # If we only have max limit
+    if event.contestants.min.type is None and event.contestants.max.type is not None:
+        if event.contestants.max.type == EventContestant.SchoolType.STREDNA:
+            return True
+        else:
+            return args.school == "zs"
+
+    # If we only have min limit
+    if event.contestants.min.type is not None and event.contestants.max.type is None:
+        if event.contestants.min.type == EventContestant.SchoolType.ZAKLADNA:
+            return True
+        else:
+            return args.school == "ss"
+
+    return EventContestant.SchoolType(args.school) in [
+        event.contestants.min.type,
+        event.contestants.max.type,
+    ]
 
 
 filtered_events = filter(school_filter, events)
@@ -102,9 +121,8 @@ ical.add("prodid", "-//KockatyKalendar.sk//v0.1//")
 ical.add("version", "2.0")  # ical version
 
 for event in filtered_events:
-    event: Event = event    # TODO: Remove this line.
     ical_event = icalendar.Event()
-    ical_event.add("summary", ("(Zrušený)" if event.cancelled else "") + event.name)
+    ical_event.add("summary", ("(Zrušený) " if event.cancelled else "") + event.name)
     ical_event.add("dtstart", TZ.localize(datetime.combine(event.date.start, datetime.min.time())).date())
 
     if event.date.end:
@@ -116,8 +134,10 @@ for event in filtered_events:
         contestants = format_contestant(event.contestants.max) + " a mladší"
     elif event.contestants.max.type is None:
         contestants = format_contestant(event.contestants.min) + " a starší"
+    elif event.contestants.min == event.contestants.max:
+        contestants = format_contestant(event.contestants.min)
     else:
-        contestants = format_contestant(event.contestants.min) + " – " + format_contestant(event.contestants.max)
+        contestants = format_contestant(event.contestants.min) + " – " + format_contestant(event.contestants.max, event.contestants.min)
 
     type = LANG["types"][event.type]
     sciences = ", ".join(map(lambda x: LANG["sciences"][x], event.sciences))
