@@ -1,14 +1,11 @@
 import argparse
-import icalendar
 import sys
-import kockatykalendar.api as kkapi
-from datetime import date, datetime
-import requests
-import json
+from datetime import datetime
 
+import icalendar
+import kockatykalendar.api as kkapi
 from kockatykalendar.events import Event, EventContestant, EventType, EventScience
 from pytz import timezone
-
 
 PREFIX_OK = "\u001b[32m✔\u001b[0m"
 PREFIX_WORK = "\u001b[33m⚒\u001b[0m"
