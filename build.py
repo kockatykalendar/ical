@@ -4,7 +4,7 @@ from datetime import datetime
 
 import icalendar
 import kockatykalendar.api as kkapi
-from kockatykalendar.events import Event, EventContestant, EventType, EventScience
+from kockatykalendar.events import EventContestant, EventType, EventScience
 from pytz import timezone
 
 PREFIX_OK = "\u001b[32m✔\u001b[0m"
