@@ -73,7 +73,7 @@ def format_contestant(contestant: EventContestant, prev_contestant=None):
     return "%s %d" % (LANG["contestant_types"][contestant.type], contestant.year)
 
 
-# School filter:
+# Science filter:
 def science_filter(event):
     if args.science == ["any"]:
         return True
@@ -84,7 +84,7 @@ def science_filter(event):
     return False
 
 
-# Science filter:
+# School filter:
 def school_filter(event):
     if args.school == "any":
         return True
