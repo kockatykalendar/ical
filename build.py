@@ -94,14 +94,14 @@ def school_filter(event):
         return True
 
     # If we only have max limit
-    if event.contestants.min.type is None and event.contestants.max.type is not None:
+    if event.contestants.min.type is None:
         if event.contestants.max.type == EventContestant.SchoolType.STREDNA:
             return True
         else:
             return args.school == "zs"
 
     # If we only have min limit
-    if event.contestants.min.type is not None and event.contestants.max.type is None:
+    if event.contestants.max.type is None:
         if event.contestants.min.type == EventContestant.SchoolType.ZAKLADNA:
             return True
         else:
