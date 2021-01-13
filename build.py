@@ -6,6 +6,7 @@ import icalendar
 import kockatykalendar.api as kkapi
 from kockatykalendar.events import EventContestant, EventType, EventScience
 from pytz import timezone
+from hashlib import sha1
 
 PREFIX_OK = "\u001b[32m✔\u001b[0m"
 PREFIX_WORK = "\u001b[33m⚒\u001b[0m"
@@ -123,7 +124,9 @@ ical.add("version", "2.0")  # ical version
 for event in filtered_events:
     ical_event = icalendar.Event()
     ical_event.add("summary", ("(Zrušený) " if event.cancelled else "") + event.name)
-    ical_event.add("dtstart", TZ.localize(datetime.combine(event.date.start, datetime.min.time())).date())
+    start = TZ.localize(datetime.combine(event.date.start, datetime.min.time()))
+    ical_event.add("dtstamp", start)
+    ical_event.add("dtstart", start.date())
 
     if event.date.end:
         ical_event.add("dtend", TZ.localize(datetime.combine(event.date.end, datetime.max.time())).date())
@@ -154,6 +157,8 @@ for event in filtered_events:
         description += f"\n{event.link}"
 
     ical_event.add("description", description)
+    hash_val = event.name + "_" + event.date.start.strftime("%Y%m%d")
+    ical_event.add("uid", sha1(hash_val.encode()).hexdigest() + "@kockatykalendar.sk")
     ical.add_component(ical_event)
 
 with args.output as file:
