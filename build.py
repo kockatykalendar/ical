@@ -124,9 +124,9 @@ ical.add("version", "2.0")  # ical version
 for event in filtered_events:
     ical_event = icalendar.Event()
     ical_event.add("summary", ("(Zrušený) " if event.cancelled else "") + event.name)
-    start = TZ.localize(datetime.combine(event.date.start, datetime.min.time())).date()
+    start = TZ.localize(datetime.combine(event.date.start, datetime.min.time()))
     ical_event.add("dtstamp", start)
-    ical_event.add("dtstart", start)
+    ical_event.add("dtstart", start.date())
 
     if event.date.end:
         ical_event.add("dtend", TZ.localize(datetime.combine(event.date.end, datetime.max.time())).date())
