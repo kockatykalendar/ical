@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:iBobor
+DTSTART;VALUE=DATE:20201110
+DTEND;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201109T230000Z
+UID:39e39263f40f7ff4f659be683e5d38982a5dd1a9@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 – SŠ 4\n\nOrganizátor(i): FMFI UK\n
+ http://www.ibobor.sk/
+URL:http://www.ibobor.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Akadémia Trojstenu
+DTSTART;VALUE=DATE:20210312
+DTSTAMP;VALUE=DATE-TIME:20210311T230000Z
+UID:d966c5239e018cc8c4dfc1d817e7c6e4f988db0a@kockatykalendar.sk
+DESCRIPTION:prednášky | INF\, MAT\, FYZ | ZŠ 7 – SŠ 4\n\nAkadémia T
+ rojstenu sú každoročne organizované prednášky pre študentov stredn
+ ých škôl (a iných vzdelania a zábavy chtivých poslucháčov). Tento 
+ rok sa budú konať v online priestore.\n\nOrganizátor(i): Trojsten\nhttp
+ s://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Termín 1. kola zimnej časti PRASK
+DTSTART;VALUE=DATE:20210125
+DTSTAMP;VALUE=DATE-TIME:20210124T230000Z
+UID:c29a3f339ba264d3da205ca049c9048fa16b3769@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 7 – SŠ 1\n\nPRASK je súťaž určená
+  pre všetkých základoškolákov\, ktorých zaujíma matematika\, inform
+ atika\, chceli by sa naučiť programovať alebo len radi rozmýšľajú a
+  prijímajú výzvy.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/
+URL:https://prask.ksp.sk/
+END:VEVENT
+END:VCALENDAR

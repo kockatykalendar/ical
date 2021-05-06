@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:1. séria Suši
+DTSTART;VALUE=DATE:20201109
+DTSTAMP;VALUE=DATE-TIME:20201108T230000Z
+UID:1d64d215c29864bcaad0b651ae4f8b33b23b3d91@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nht
+ tps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brieždenie
+DTSTART;VALUE=DATE:20210605
+DTSTAMP;VALUE=DATE-TIME:20210604T220000Z
+UID:90d2d6038071ddc5ffce2ea8ea473db225c9e277@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | SŠ 1 – 4\n\nOrganizátor(i): \nhttp://sif
+ rovacka.sk
+URL:http://sifrovacka.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Suši
+DTSTART;VALUE=DATE:20201207
+DTSTAMP;VALUE=DATE-TIME:20201206T230000Z
+UID:bab618f7d54245d94e492cb71a2a12e548ce9e62@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nht
+ tps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo Suši
+DTSTART;VALUE=DATE:20210405
+DTSTAMP;VALUE=DATE-TIME:20210404T220000Z
+UID:13678f63b9d90f7bf5f608b3c67eea6e13ebc4c1@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNarozdiel od tradičnýc
+ h šifrovačiek je Súťaž v Šifrovaní určená pre jednotlivcov. Podľ
+ a skúseností môžeš riešiť šifry v jednej z troch kategórií Agát
+ \, Blýskavica a Cíferský cech. V každom kole riešiš 5 zo 7 šifier\,
+  ktoré stránka automaticky opraví.\n\nOrganizátor(i): Trojsten\nhttps:
+ //susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo Suši
+DTSTART;VALUE=DATE:20210503
+DTSTAMP;VALUE=DATE-TIME:20210502T220000Z
+UID:43b8bbbec1a50d1f756e12d98290bb415c94404e@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNarozdiel od tradičnýc
+ h šifrovačiek je Súťaž v Šifrovaní určená pre jednotlivcov. Podľ
+ a skúseností môžeš riešiť šifry v jednej z troch kategórií Agát
+ \, Blýskavica a Cíferský cech. V každom kole riešiš 5 zo 7 šifier\,
+  ktoré stránka automaticky opraví.\n\nOrganizátor(i): Trojsten\nhttps:
+ //susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor kolo Suši
+DTSTART;VALUE=DATE:20210524
+DTSTAMP;VALUE=DATE-TIME:20210523T220000Z
+UID:d61ea866373d01413f4cbaaa543271f0303f780c@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNarozdiel od tradičnýc
+ h šifrovačiek je Súťaž v Šifrovaní určená pre jednotlivcov. V out
+ doorovom kole je 5 spoločných šifier pre všetky kategórie. Šifry v t
+ omto kolo sú vždy nejak špecifické\, napríklad môžu mať spoločnú
+  tému.\n\nOrganizátor(i): Trojsten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Suši sústredenie
+DTSTART;VALUE=DATE:20210107
+DTEND;VALUE=DATE:20210110
+DTSTAMP;VALUE=DATE-TIME:20210106T230000Z
+UID:4507c34dcc86402fe8a4bf8624f461803c686f74@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten
+ \nhttps://susi.trojsten.sk/akcie/sustredenia/
+URL:https://susi.trojsten.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskusia so Suši organizátormi
+DTSTART;VALUE=DATE:20210109
+DTSTAMP;VALUE=DATE-TIME:20210108T230000Z
+UID:0018da9da110980b4184695b9149feb342c2134b@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | iné | ktokoľvek\n\nAko náhradu za zrušen
+ é sústredenie sme si pripravili taký neformálny “call”\, kde sa n
+ ás budeš môcť popýtať nejaké otázky\, pokecať s nami\, dozvedieť
+  sa informácie zo zákulisia a bližšie nás spoznať (a my bližšie sp
+ oznať teba).\n\nOrganizátor(i): Trojsten\nhttps://meet.google.com/rdc-yd
+ qv-gdp
+URL:https://meet.google.com/rdc-ydqv-gdp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši sústredenie
+DTSTART;VALUE=DATE:20210703
+DTEND;VALUE=DATE:20210706
+DTSTAMP;VALUE=DATE-TIME:20210702T220000Z
+UID:cdb1c21cd1645853c5af315de25994b94dd25f91@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten
+ \nhttps://susi.trojsten.sk/akcie/sustredenia/
+URL:https://susi.trojsten.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košická šifrovačka
+DTSTART;VALUE=DATE:20201024
+DTSTAMP;VALUE=DATE-TIME:20201023T220000Z
+UID:3d0aaea838a32130bf1054a2810df4b0564a867e@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 7 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://seminar.strom.sk/sifrovacka/info/
+URL:https://seminar.strom.sk/sifrovacka/info/
+END:VEVENT
+END:VCALENDAR

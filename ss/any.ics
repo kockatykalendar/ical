@@ -1,0 +1,983 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:1. séria Suši
+DTSTART;VALUE=DATE:20201109
+DTSTAMP;VALUE=DATE-TIME:20201108T230000Z
+UID:1d64d215c29864bcaad0b651ae4f8b33b23b3d91@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nht
+ tps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria KMS
+DTSTART;VALUE=DATE:20201102
+DTSTAMP;VALUE=DATE-TIME:20201101T230000Z
+UID:f61907877ab24b7b2ec043c01e32b5c43e640f58@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iBobor
+DTSTART;VALUE=DATE:20201110
+DTEND;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201109T230000Z
+UID:39e39263f40f7ff4f659be683e5d38982a5dd1a9@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 – SŠ 4\n\nOrganizátor(i): FMFI UK\n
+ http://www.ibobor.sk/
+URL:http://www.ibobor.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo OI-B
+DTSTART;VALUE=DATE:20201130
+DTSTAMP;VALUE=DATE-TIME:20201129T230000Z
+UID:f5bd2583abb295084bc5149da86b22442f1534f2@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria KMS
+DTSTART;VALUE=DATE:20201130
+DTSTAMP;VALUE=DATE-TIME:20201129T230000Z
+UID:350d14022416ed00c474adba910e1c0314ecf4c1@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria STROM
+DTSTART;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201115T230000Z
+UID:a31c90a24c560899afc8011d8cc4401345dd1334@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálny Náboj
+DTSTART;VALUE=DATE:20201113
+DTSTAMP;VALUE=DATE-TIME:20201112T230000Z
+UID:62b82659d290f6ac11065dbc99271dff2bffab98@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://physics.naboj.org/
+URL:https://physics.naboj.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria FKS
+DTSTART;VALUE=DATE:20201123
+DTSTAMP;VALUE=DATE-TIME:20201122T230000Z
+UID:2a98fd6ccd8776a1b155ffec700f9715902ac245@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo OI-A
+DTSTART;VALUE=DATE:20201115
+DTSTAMP;VALUE=DATE-TIME:20201114T230000Z
+UID:8f801346d573cffd9fcf076c9e0df5f293d6db86@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. séria iKS
+DTSTART;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201115T230000Z
+UID:2e6f5d6566c18c071c77522ec12b0eccd8d7896a@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://iksko.org/
+URL:https://iksko.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit krajské kolo
+DTSTART;VALUE=DATE:20201126
+DTSTAMP;VALUE=DATE-TIME:20201125T230000Z
+UID:9990507ace623e84b2d8e6b9fdf1d213d2851b41@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): ŠIOV\nhttps:
+ //zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letný tábor Trojstenu
+DTSTART;VALUE=DATE:20210809
+DTEND;VALUE=DATE:20210818
+DTSTAMP;VALUE=DATE-TIME:20210808T220000Z
+UID:157e834f47fb5951e7538ca3a84336529af3f66f@kockatykalendar.sk
+DESCRIPTION:tábor | MAT\, FYZ\, INF | SŠ 1 – 4\n\nNa LTT ťa čaká od
+ borný i neodborný program\, športové aktivity\, voľný čas stráven
+ ý s novými (alebo starými) kamarátmi a málo spánku :) Ak sa cez leto
+  nudíš a niečo z toho ťa oslovilo\, prihlás sa a zaži neopakovateľn
+ é momenty s partiou uletených ľudí.\n\nOrganizátor(i): Trojsten\nhttp
+ s://ltt.trojsten.sk/
+URL:https://ltt.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TMM - Tábor mladých matematikov
+DTSTART;VALUE=DATE:20210823
+DTEND;VALUE=DATE:20210830
+DTSTAMP;VALUE=DATE-TIME:20210822T220000Z
+UID:5b239bec7173a3077cd75869cf550db62ec17368@kockatykalendar.sk
+DESCRIPTION:tábor | MAT | ZŠ 6 – SŠ 1\n\nOrganizátor(i): Strom\nhttp
+ s://seminar.strom.sk/tmm
+URL:https://seminar.strom.sk/tmm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM sústredenie
+DTSTART;VALUE=DATE:20210815
+DTEND;VALUE=DATE:20210820
+DTSTAMP;VALUE=DATE-TIME:20210814T220000Z
+UID:b3f0debd295aa8201e952a760a1db1c366fc6e44@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nht
+ tps://seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doprogramovanie 2. kola zimnej časti KSP
+DTSTART;VALUE=DATE:20210215
+DTSTAMP;VALUE=DATE-TIME:20210214T230000Z
+UID:40f074748b7795fc9785d89bfb9cda4d43860a73@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nPo riadnom termíne nastáva f
+ áza doprogramovávania. Počas tejto fázy sa nedajú odovzdávať slovn
+ é popisy. Stále sa však dajú získať body za program. Navyše sú zve
+ rejnené vzorové riešenia\, ktoré vedia pomôcť úlohu vyriešiť a ú
+ spešne naprogramovať.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) KSP sústredenie
+DTSTART;VALUE=DATE:20201213
+DTEND;VALUE=DATE:20201220
+DTSTAMP;VALUE=DATE-TIME:20201212T230000Z
+UID:2f4e68bda95c9304ea7d6c293c3ab20c44b06146@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://ksp.sk/akcie/sustredenia/
+URL:https://ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo zimnej časti KSP
+DTSTART;VALUE=DATE:20201102
+DTSTAMP;VALUE=DATE-TIME:20201101T230000Z
+UID:f7314d2ff93155f29ae18556e15afb3f7ef02515@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nKorešpondenčný seminár z p
+ rogramovania je súťaž v riešení algoritmických úloh. Riešiš 5 z 
+ ôsmich úloh podľa tvojho levelu skúseností. Riešenie obvykle pozost
+ áva z funkčného programu\, ktorý stránka automaticky otestuje a texto
+ vého popisu čo program robí.\n\nOrganizátor(i): Trojsten\nhttps://ksp.
+ sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo zimnej časti KSP
+DTSTART;VALUE=DATE:20210201
+DTSTAMP;VALUE=DATE-TIME:20210131T230000Z
+UID:82969a6dfb936bcf5bfbcd636c072e24de781d7a@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nKorešpondenčný seminár z p
+ rogramovania je súťaž v riešení algoritmických úloh. Riešiš 5 z 
+ ôsmich úloh podľa tvojho levelu skúseností. Riešenie obvykle pozost
+ áva z funkčného programu\, ktorý stránka automaticky otestuje a texto
+ vého popisu čo program robí.\n\nOrganizátor(i): Trojsten\nhttps://ksp.
+ sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doprogramovanie 1. kola zimnej časti KSP
+DTSTART;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201115T230000Z
+UID:1e2464de05cd7eff21c74e62691e7153bb4c9043@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nPo riadnom termíne nastáva f
+ áza doprogramovávania. Počas tejto fázy sa nedajú odovzdávať slovn
+ é popisy. Stále sa však dajú získať body za program. Navyše sú zve
+ rejnené vzorové riešenia\, ktoré vedia pomôcť úlohu vyriešiť a ú
+ spešne naprogramovať.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IOI online
+DTSTART;VALUE=DATE:20210620
+DTEND;VALUE=DATE:20210627
+DTSTAMP;VALUE=DATE-TIME:20210619T220000Z
+UID:07dbd03b1dca148d2d07772c27d78c572f14d538@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): \nhttps://ioi
+ 2021.sg/
+URL:https://ioi2021.sg/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brieždenie
+DTSTART;VALUE=DATE:20210605
+DTSTAMP;VALUE=DATE-TIME:20210604T220000Z
+UID:90d2d6038071ddc5ffce2ea8ea473db225c9e277@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | SŠ 1 – 4\n\nOrganizátor(i): \nhttp://sif
+ rovacka.sk
+URL:http://sifrovacka.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celoštátne kolo MO A
+DTSTART;VALUE=DATE:20210321
+DTEND;VALUE=DATE:20210324
+DTSTAMP;VALUE=DATE-TIME:20210320T230000Z
+UID:0143183d2a4215df4945cc46723c878a7055d679@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria KMS
+DTSTART;VALUE=DATE:20210329
+DTSTAMP;VALUE=DATE-TIME:20210328T220000Z
+UID:6237ed2ec53cb54743172f26d7b3b4d418f58955@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo MO C
+DTSTART;VALUE=DATE:20210330
+DTSTAMP;VALUE=DATE-TIME:20210329T220000Z
+UID:1b231be337ad181c4cd0c42a93d14171111fab78@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO A
+DTSTART;VALUE=DATE:20210309
+DTSTAMP;VALUE=DATE-TIME:20210308T230000Z
+UID:b896f29d2ddf658c1b535d0c54bf14edc660a2cf@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria STROM
+DTSTART;VALUE=DATE:20210322
+DTSTAMP;VALUE=DATE-TIME:20210321T230000Z
+UID:5aaf605f61760b181c4c39c714282fb66f124ec1@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celoštátne kolo OI-A
+DTSTART;VALUE=DATE:20210324
+DTEND;VALUE=DATE:20210327
+DTSTAMP;VALUE=DATE-TIME:20210323T230000Z
+UID:cf536c1209cf7c0606a3e0b9ac40a6d961884a63@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celoštátne kolo TMF
+DTSTART;VALUE=DATE:20210329
+DTEND;VALUE=DATE:20210330
+DTSTAMP;VALUE=DATE-TIME:20210328T220000Z
+UID:de91d3eeee8efa7983c73fd9a1a4414abf81c34a@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://www.tmfsr.sk/sk/aktuality/216
+URL:http://www.tmfsr.sk/sk/aktuality/216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS online prednáška
+DTSTART;VALUE=DATE:20210306
+DTSTAMP;VALUE=DATE-TIME:20210305T230000Z
+UID:fe6505b98e291139e6bc47ba4737022e7f88bbf1@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT | SŠ 1 – 4\n\nOnline prednáška nielen p
+ re riešteľov KMS\, ale aj pre akýchkoľvek záujemcov o matematiku. Dne
+ s prednáška o 18:00 od Mareka na tému: Matematická indukcia\n\nOrganiz
+ átor(i): Trojsten\nhttps://kms.sk/online_prednasky/
+URL:https://kms.sk/online_prednasky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria KMS
+DTSTART;VALUE=DATE:20210301
+DTSTAMP;VALUE=DATE-TIME:20210228T230000Z
+UID:59a47406ac83f38ce66a8c4a408119488b51feef@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo MO B
+DTSTART;VALUE=DATE:20210330
+DTSTAMP;VALUE=DATE-TIME:20210329T220000Z
+UID:b50866e8e0aa10763f7706353cafd63b11b5a273@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROMácky víkend
+DTSTART;VALUE=DATE:20210326
+DTEND;VALUE=DATE:20210328
+DTSTAMP;VALUE=DATE-TIME:20210325T230000Z
+UID:78f8335f262e20b3cf356dc174c9a70f3bff5929@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 9 – SŠ 4\n\nZohnať na víkend Dani
+ šovce a dostať do nich vedúcich nie je len tak. Naopak\, zohnať na ví
+ kend Zoom a dostať naň vedúcich je malina! Prihláste sa do 21.3. Zúč
+ astniť sa môže ktokoľvek bez ohľadu na to\, či náš seminár rieši
+ l doteraz alebo nie.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/o
+ nlinestrom/
+URL:https://seminar.strom.sk/onlinestrom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit celoštátne kolo
+DTSTART;VALUE=DATE:20210308
+DTEND;VALUE=DATE:20210311
+DTSTAMP;VALUE=DATE-TIME:20210307T230000Z
+UID:d9c4c6e0147b4c9549cede424d0ea522aa956c66@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): ŠIOV\nhttps:
+ //zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Akadémia Trojstenu
+DTSTART;VALUE=DATE:20210312
+DTSTAMP;VALUE=DATE-TIME:20210311T230000Z
+UID:d966c5239e018cc8c4dfc1d817e7c6e4f988db0a@kockatykalendar.sk
+DESCRIPTION:prednášky | INF\, MAT\, FYZ | ZŠ 7 – SŠ 4\n\nAkadémia T
+ rojstenu sú každoročne organizované prednášky pre študentov stredn
+ ých škôl (a iných vzdelania a zábavy chtivých poslucháčov). Tento 
+ rok sa budú konať v online priestore.\n\nOrganizátor(i): Trojsten\nhttp
+ s://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS online prednáška
+DTSTART;VALUE=DATE:20210307
+DTSTAMP;VALUE=DATE-TIME:20210306T230000Z
+UID:c699989f8d81242186f90134d999489b7b34bac1@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT | SŠ 1 – 4\n\nOnline prednáška nielen p
+ re riešteľov KMS\, ale aj pre akýchkoľvek záujemcov o matematiku. Dne
+ s prednáška o 18:00 od Joža na tému: Goniometrické vzorce\n\nOrganiz
+ átor(i): Trojsten\nhttps://kms.sk/online_prednasky/
+URL:https://kms.sk/online_prednasky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Suši
+DTSTART;VALUE=DATE:20201207
+DTSTAMP;VALUE=DATE-TIME:20201206T230000Z
+UID:bab618f7d54245d94e492cb71a2a12e548ce9e62@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nht
+ tps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO A
+DTSTART;VALUE=DATE:20201201
+DTSTAMP;VALUE=DATE-TIME:20201130T230000Z
+UID:e5d3de72fe03a46c035052e0bc9955f9e2154b64@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. séria iKS
+DTSTART;VALUE=DATE:20201221
+DTSTAMP;VALUE=DATE-TIME:20201220T230000Z
+UID:47a07607428c006ac85684aa52e90b6da89ace65@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://iksko.org/
+URL:https://iksko.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematický Náboj
+DTSTART;VALUE=DATE:20201211
+DTSTAMP;VALUE=DATE-TIME:20201210T230000Z
+UID:99ad4d1adf22c53a6921bacb261b08f35b259d62@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://math.naboj.org/
+URL:https://math.naboj.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventný kalendár KMS
+DTSTART;VALUE=DATE:20201129
+DTEND;VALUE=DATE:20201224
+DTSTAMP;VALUE=DATE-TIME:20201128T230000Z
+UID:96da1527a18ed12f6cbd2a1590a0cf3d86d4f2b3@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 a starší\n\nKaždý adventný deň o 
+ 8:00 zverejníme jednu matematickú úlohu. Zapojiť sa môže ktokoľvek.
+  Pri odovzdávaní môžte povedať či úloha bola pre vás príliš ľah
+ ká\, ťažká alebo akurát. Ak bude veľa odpovedí jedného typu uprav
+ íme obťažnosť nasledujúcich dní.\n\nOrganizátor(i): Trojsten\nhttps
+ ://kms.sk/adventny_kalendar/
+URL:https://kms.sk/adventny_kalendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Školské kolo MO A
+DTSTART;VALUE=DATE:20201208
+DTSTAMP;VALUE=DATE-TIME:20201207T230000Z
+UID:e91fda6b4a95aa3bdc4c9f4b83ffd14b9656f5dd@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Termín 1. kola zimnej časti PRASK
+DTSTART;VALUE=DATE:20210125
+DTSTAMP;VALUE=DATE-TIME:20210124T230000Z
+UID:c29a3f339ba264d3da205ca049c9048fa16b3769@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 7 – SŠ 1\n\nPRASK je súťaž určená
+  pre všetkých základoškolákov\, ktorých zaujíma matematika\, inform
+ atika\, chceli by sa naučiť programovať alebo len radi rozmýšľajú a
+  prijímajú výzvy.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/
+URL:https://prask.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IOI online
+DTSTART;VALUE=DATE:20200913
+DTEND;VALUE=DATE:20200919
+DTSTAMP;VALUE=DATE-TIME:20200912T220000Z
+UID:ca11795b1bc34977b338457c04f66f6c64974fcc@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): \nhttps://ioi
+ 2020.sg/
+URL:https://ioi2020.sg/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS spojené sústredenie
+DTSTART;VALUE=DATE:20200901
+DTEND;VALUE=DATE:20200906
+DTSTAMP;VALUE=DATE-TIME:20200831T220000Z
+UID:c07812fd89fb4ff0424ddc78e4821c0d30d7a618@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMO online
+DTSTART;VALUE=DATE:20200921
+DTEND;VALUE=DATE:20200922
+DTSTAMP;VALUE=DATE-TIME:20200920T220000Z
+UID:376503b343fcc0a54d06853056d7d3b194aa8bfe@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): \nhttps://imo
+ 2020.ru/
+URL:https://imo2020.ru/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO D
+DTSTART;VALUE=DATE:20210423
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:dfef9afca78e42dc8d8cb058fa2c12178567f436@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1\n\nOrganizátor(i): Iuventa\nhttps://
+ www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematický Náboj
+DTSTART;VALUE=DATE:20210423
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:ac6accf9d407c4f4ec8d0a5f0ef7824a6d96cdfb@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://math.naboj.org/
+URL:https://math.naboj.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO C
+DTSTART;VALUE=DATE:20210423
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:b7db32f3a0e965ea3c1fbb77a91332c663dbe93f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria KMS
+DTSTART;VALUE=DATE:20210426
+DTSTAMP;VALUE=DATE-TIME:20210425T220000Z
+UID:87df0954784ce09d586d1c46d0483f66e5ac869d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGMO
+DTSTART;VALUE=DATE:20210409
+DTEND;VALUE=DATE:20210415
+DTSTAMP;VALUE=DATE-TIME:20210408T220000Z
+UID:17dcf63f12247c6d493ae4383031af8d38775fb8@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nEuropean Girls' Mathematical O
+ lympiad\n\nOrganizátor(i): \nhttps://egmo2021.atsu.edu.ge
+URL:https://egmo2021.atsu.edu.ge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria STROM
+DTSTART;VALUE=DATE:20210426
+DTSTAMP;VALUE=DATE-TIME:20210425T220000Z
+UID:1ca2f5e808b858f32be3ad143143c95b46d40bca@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria FKS
+DTSTART;VALUE=DATE:20210406
+DTSTAMP;VALUE=DATE-TIME:20210405T220000Z
+UID:90503c72f8ffdd658923062adc117e93741e7cf7@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO B
+DTSTART;VALUE=DATE:20210423
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:dcf1e0b7e28a666bd8b34881a7607960d94bd3b4@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 3\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo Suši
+DTSTART;VALUE=DATE:20210405
+DTSTAMP;VALUE=DATE-TIME:20210404T220000Z
+UID:13678f63b9d90f7bf5f608b3c67eea6e13ebc4c1@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNarozdiel od tradičnýc
+ h šifrovačiek je Súťaž v Šifrovaní určená pre jednotlivcov. Podľ
+ a skúseností môžeš riešiť šifry v jednej z troch kategórií Agát
+ \, Blýskavica a Cíferský cech. V každom kole riešiš 5 zo 7 šifier\,
+  ktoré stránka automaticky opraví.\n\nOrganizátor(i): Trojsten\nhttps:
+ //susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. domáce kolo PALMA
+DTSTART;VALUE=DATE:20210420
+DTSTAMP;VALUE=DATE-TIME:20210419T220000Z
+UID:224544747e21fc6330dd4206985b193183a5a14e@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nCieľom PALMA (Programovanie A
+ lgoritmy Matematika) je dať príležitosť všetkým\, ktorí si chcú za
+ súťažiť\, otestovať svoje schopnosti analyzovať problémy\, hľadať
+  algoritmy na ich riešenie a vedieť ich rýchlo\, efektívne a korektne 
+ naprogramovať.\n\nOrganizátor(i): Strom\nhttps://palma.strom.sk/
+URL:https://palma.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celoštátne kolo FO A
+DTSTART;VALUE=DATE:20210415
+DTEND;VALUE=DATE:20210418
+DTSTAMP;VALUE=DATE-TIME:20210414T220000Z
+UID:cc8011bc6db6703eaac5dbfa9f03329f68108a7b@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo Suši
+DTSTART;VALUE=DATE:20210503
+DTSTAMP;VALUE=DATE-TIME:20210502T220000Z
+UID:43b8bbbec1a50d1f756e12d98290bb415c94404e@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNarozdiel od tradičnýc
+ h šifrovačiek je Súťaž v Šifrovaní určená pre jednotlivcov. Podľ
+ a skúseností môžeš riešiť šifry v jednej z troch kategórií Agát
+ \, Blýskavica a Cíferský cech. V každom kole riešiš 5 zo 7 šifier\,
+  ktoré stránka automaticky opraví.\n\nOrganizátor(i): Trojsten\nhttps:
+ //susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor kolo Suši
+DTSTART;VALUE=DATE:20210524
+DTSTAMP;VALUE=DATE-TIME:20210523T220000Z
+UID:d61ea866373d01413f4cbaaa543271f0303f780c@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNarozdiel od tradičnýc
+ h šifrovačiek je Súťaž v Šifrovaní určená pre jednotlivcov. V out
+ doorovom kole je 5 spoločných šifier pre všetky kategórie. Šifry v t
+ omto kolo sú vždy nejak špecifické\, napríklad môžu mať spoločnú
+  tému.\n\nOrganizátor(i): Trojsten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO D
+DTSTART;VALUE=DATE:20210512
+DTSTAMP;VALUE=DATE-TIME:20210511T220000Z
+UID:350e97d96981250ca451651a237e1c0eea1904c8@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1\n\nOrganizátor(i): Iuventa\nhttps://
+ www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO C
+DTSTART;VALUE=DATE:20210512
+DTSTAMP;VALUE=DATE-TIME:20210511T220000Z
+UID:4b6b853d6f3945b5698793a31b41d2ae86ff4c26@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO B
+DTSTART;VALUE=DATE:20210512
+DTSTAMP;VALUE=DATE-TIME:20210511T220000Z
+UID:3d33a5765859d0cf41b5ed5e1375dbe960f2e14f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 3\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria FKS
+DTSTART;VALUE=DATE:20210503
+DTSTAMP;VALUE=DATE-TIME:20210502T220000Z
+UID:6511c692e363b2ec5470382552737f6b35ce874d@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Suši sústredenie
+DTSTART;VALUE=DATE:20210107
+DTEND;VALUE=DATE:20210110
+DTSTAMP;VALUE=DATE-TIME:20210106T230000Z
+UID:4507c34dcc86402fe8a4bf8624f461803c686f74@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten
+ \nhttps://susi.trojsten.sk/akcie/sustredenia/
+URL:https://susi.trojsten.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM sústredenie
+DTSTART;VALUE=DATE:20210201
+DTEND;VALUE=DATE:20210207
+DTSTAMP;VALUE=DATE-TIME:20210131T230000Z
+UID:1a7bd50714c7298adb9d49fd1a9498ff9a5c4b9d@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nht
+ tps://seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS online prednáška
+DTSTART;VALUE=DATE:20210131
+DTSTAMP;VALUE=DATE-TIME:20210130T230000Z
+UID:f06572b8f30d56b599667956622b38fac96ff51c@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT | SŠ 1 – 4\n\nOnline prednáška nielen p
+ re riešteľov KMS\, ale aj pre akýchkoľvek záujemcov o matematiku. Dne
+ s prednáška o 16:00 od Joža na tému: Zbrane vs. chmáry a. k. a. Limit
+ y I\n\nOrganizátor(i): Trojsten\nhttps://kms.sk/online_prednasky/
+URL:https://kms.sk/online_prednasky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO C
+DTSTART;VALUE=DATE:20210118
+DTSTAMP;VALUE=DATE-TIME:20210117T230000Z
+UID:0eb4ad3bba0fe8af2b657a32b58c1d3f45ff661a@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo OI-B
+DTSTART;VALUE=DATE:20210119
+DTSTAMP;VALUE=DATE-TIME:20210118T230000Z
+UID:f80ac5bcc713db15d77390dfc4e4fb538bb55e0f@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Školské kolo MO B
+DTSTART;VALUE=DATE:20210126
+DTSTAMP;VALUE=DATE-TIME:20210125T230000Z
+UID:5b4170f7c57c2207169e237fae93c269c066914e@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskusia so Suši organizátormi
+DTSTART;VALUE=DATE:20210109
+DTSTAMP;VALUE=DATE-TIME:20210108T230000Z
+UID:0018da9da110980b4184695b9149feb342c2134b@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | iné | ktokoľvek\n\nAko náhradu za zrušen
+ é sústredenie sme si pripravili taký neformálny “call”\, kde sa n
+ ás budeš môcť popýtať nejaké otázky\, pokecať s nami\, dozvedieť
+  sa informácie zo zákulisia a bližšie nás spoznať (a my bližšie sp
+ oznať teba).\n\nOrganizátor(i): Trojsten\nhttps://meet.google.com/rdc-yd
+ qv-gdp
+URL:https://meet.google.com/rdc-ydqv-gdp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) FKS sústredenie
+DTSTART;VALUE=DATE:20210124
+DTEND;VALUE=DATE:20210131
+DTSTAMP;VALUE=DATE-TIME:20210123T230000Z
+UID:8f401bcd5897fe5f21ad6b96fbc1b8af9db1ff4b@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. domáce kolo PALMA
+DTSTART;VALUE=DATE:20210128
+DTSTAMP;VALUE=DATE-TIME:20210127T230000Z
+UID:24c07a47fa7aa711cfec11bc44ac8ce72e964172@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nCieľom PALMA (Programovanie A
+ lgoritmy Matematika) je dať príležitosť všetkým\, ktorí si chcú za
+ súťažiť\, otestovať svoje schopnosti analyzovať problémy\, hľadať
+  algoritmy na ich riešenie a vedieť ich rýchlo\, efektívne a korektne 
+ naprogramovať.\n\nOrganizátor(i): Strom\nhttps://palma.strom.sk/
+URL:https://palma.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Školské kolo MO C
+DTSTART;VALUE=DATE:20210126
+DTSTAMP;VALUE=DATE-TIME:20210125T230000Z
+UID:18c9a6498bc373771ee75e424e1f90139fdd64cb@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koniec 2. kola FKS
+DTSTART;VALUE=DATE:20210104
+DTSTAMP;VALUE=DATE-TIME:20210103T230000Z
+UID:5d1e743aa9a963ac5a4844c242402f622cb1c326@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS online prednáška
+DTSTART;VALUE=DATE:20210130
+DTSTAMP;VALUE=DATE-TIME:20210129T230000Z
+UID:bde5370af37a0ccf5099900b08dea99966bc6ca0@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT | SŠ 1 – 4\n\nOnline prednáška nielen p
+ re riešteľov KMS\, ale aj pre akýchkoľvek záujemcov o matematiku. Dne
+ s prednáška o 16:00 od Joža na tému: Zisťovanie informácií\n\nOrgan
+ izátor(i): Trojsten\nhttps://kms.sk/online_prednasky/
+URL:https://kms.sk/online_prednasky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) KMS Alfa sústredenie
+DTSTART;VALUE=DATE:20210131
+DTEND;VALUE=DATE:20210207
+DTSTAMP;VALUE=DATE-TIME:20210130T230000Z
+UID:3758e878818f090d0e1eb05c1bf1d9874817c5cb@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 2\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo MO A
+DTSTART;VALUE=DATE:20210112
+DTSTAMP;VALUE=DATE-TIME:20210111T230000Z
+UID:006bdca92387992abafe1780686ec1b67f46e9db@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo OI-A
+DTSTART;VALUE=DATE:20210119
+DTSTAMP;VALUE=DATE-TIME:20210118T230000Z
+UID:43f74e2e67b52626587934eb9f287b0c3edb5ee0@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO B
+DTSTART;VALUE=DATE:20210118
+DTSTAMP;VALUE=DATE-TIME:20210117T230000Z
+UID:660cdcc34dcd604d98d31357dea3a7462e61fa4e@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši sústredenie
+DTSTART;VALUE=DATE:20210703
+DTEND;VALUE=DATE:20210706
+DTSTAMP;VALUE=DATE-TIME:20210702T220000Z
+UID:cdb1c21cd1645853c5af315de25994b94dd25f91@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten
+ \nhttps://susi.trojsten.sk/akcie/sustredenia/
+URL:https://susi.trojsten.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS sústredenie
+DTSTART;VALUE=DATE:20210731
+DTEND;VALUE=DATE:20210807
+DTSTAMP;VALUE=DATE-TIME:20210730T220000Z
+UID:643f3affb014a02b5b4e785d0cd6bbe670a00dca@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS sústredenie
+DTSTART;VALUE=DATE:20210707
+DTEND;VALUE=DATE:20210714
+DTSTAMP;VALUE=DATE-TIME:20210706T220000Z
+UID:10e3dbaf625ad5c34a6f181fef6dc2c29f0e1164@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPhO
+DTSTART;VALUE=DATE:20210717
+DTEND;VALUE=DATE:20210725
+DTSTAMP;VALUE=DATE-TIME:20210716T220000Z
+UID:4edb2184afb2309f7b2d4f5135b980a9a6a4159f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nMedzinárodná fyzikálna ol
+ ympiáda\n\nOrganizátor(i): \nhttps://www.ipho2020.lt/
+URL:https://www.ipho2020.lt/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMO
+DTSTART;VALUE=DATE:20210707
+DTEND;VALUE=DATE:20210716
+DTSTAMP;VALUE=DATE-TIME:20210706T220000Z
+UID:d98c31cdccccf8f91ab3de4cd163fa915fb1fefe@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): \nhttps://www
+ .imo-official.org/year_country_r.aspx?year=2021
+URL:https://www.imo-official.org/year_country_r.aspx?year=2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP sústredenie
+DTSTART;VALUE=DATE:20210715
+DTEND;VALUE=DATE:20210722
+DTSTAMP;VALUE=DATE-TIME:20210714T220000Z
+UID:72d29d5ac841e833e5e3fcba0cb7bb55270b3cf9@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://ksp.sk/akcie/sustredenia/
+URL:https://ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria iKS
+DTSTART;VALUE=DATE:20201005
+DTSTAMP;VALUE=DATE-TIME:20201004T220000Z
+UID:c78c2e113145ffd25f50bb0867abb82665436e4d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://iksko.org/
+URL:https://iksko.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria STROM
+DTSTART;VALUE=DATE:20201012
+DTSTAMP;VALUE=DATE-TIME:20201011T220000Z
+UID:12b4f328d3e322ba6fd52d1bbb73f784a3f3f32d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/
+URL:https://seminar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košická šifrovačka
+DTSTART;VALUE=DATE:20201024
+DTSTAMP;VALUE=DATE-TIME:20201023T220000Z
+UID:3d0aaea838a32130bf1054a2810df4b0564a867e@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 7 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://seminar.strom.sk/sifrovacka/info/
+URL:https://seminar.strom.sk/sifrovacka/info/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria FKS
+DTSTART;VALUE=DATE:20201012
+DTSTAMP;VALUE=DATE-TIME:20201011T220000Z
+UID:8f53e4daf08fd93b8fbe915287ce8bef645f479a@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košický Matboj
+DTSTART;VALUE=DATE:20201023
+DTSTAMP;VALUE=DATE-TIME:20201022T220000Z
+UID:5b4884e1cc1996706d4ef94f6ac4c695c111e0c1@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/sk/matboj/
+URL:https://seminar.strom.sk/sk/matboj/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria KMS
+DTSTART;VALUE=DATE:20201005
+DTSTAMP;VALUE=DATE-TIME:20201004T220000Z
+UID:85b1fcc4b27e4606e136437fdb2f40f29a8c0cc3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit školské kolo
+DTSTART;VALUE=DATE:20201020
+DTSTAMP;VALUE=DATE-TIME:20201019T220000Z
+UID:878714bfe8592ecd3a621d06a55d038aa0675de0@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): ŠIOV\nhttps:
+ //zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS online prednáška
+DTSTART;VALUE=DATE:20210227
+DTSTAMP;VALUE=DATE-TIME:20210226T230000Z
+UID:0771845147cc8253064bbcfc43d7f51133e519b9@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT | SŠ 1 – 4\n\nOnline prednáška nielen p
+ re riešteľov KMS\, ale aj pre akýchkoľvek záujemcov o matematiku. Dne
+ s prednáška o 18:00 od Joža na tému: Ako rýchlo počítať Fibonaccih
+ o čísla\n\nOrganizátor(i): Trojsten\nhttps://kms.sk/online_prednasky/
+URL:https://kms.sk/online_prednasky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6. séria iKS
+DTSTART;VALUE=DATE:20210201
+DTSTAMP;VALUE=DATE-TIME:20210131T230000Z
+UID:a1fe2a286606884db1bc6faedd3a3ecf5f1f9e54@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://iksko.org/
+URL:https://iksko.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS online prednáška
+DTSTART;VALUE=DATE:20210228
+DTSTAMP;VALUE=DATE-TIME:20210227T230000Z
+UID:56cb9538b836b699b42933f7aa214796fcdffecf@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT | SŠ 1 – 4\n\nOnline prednáška nielen p
+ re riešteľov KMS\, ale aj pre akýchkoľvek záujemcov o matematiku. Dne
+ s prednáška o 18:00 od Joža na tému: Počítanie spôsobov\n\nOrganiz
+ átor(i): Trojsten\nhttps://kms.sk/online_prednasky/
+URL:https://kms.sk/online_prednasky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyziklání
+DTSTART;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210211T230000Z
+UID:83914690ae387745413d0ec5104ea5a8c9a5dfe9@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nOrganizátor(i): fykos\nhttps:
+ //fyziklani.cz/
+URL:https://fyziklani.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) KMS Beta sústredenie
+DTSTART;VALUE=DATE:20210207
+DTEND;VALUE=DATE:20210214
+DTSTAMP;VALUE=DATE-TIME:20210206T230000Z
+UID:7ae06f53a0c302afc5f79bcac1bb465370749508@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 2 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS online prednáška
+DTSTART;VALUE=DATE:20210206
+DTSTAMP;VALUE=DATE-TIME:20210205T230000Z
+UID:e60eadb2f3112664672ad449350bc09dd4a4c1af@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT | SŠ 1 – 4\n\nOnline prednáška nielen p
+ re riešteľov KMS\, ale aj pre akýchkoľvek záujemcov o matematiku. Dne
+ s prednáška o 14:00 od Joža na tému: Spojme zbrane a. k. a. Limity II\
+ n\nOrganizátor(i): Trojsten\nhttps://kms.sk/online_prednasky/
+URL:https://kms.sk/online_prednasky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO A
+DTSTART;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210211T230000Z
+UID:2b3c943022b96fd4c88265e97a67681eafd63448@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+END:VCALENDAR

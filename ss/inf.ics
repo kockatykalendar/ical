@@ -1,0 +1,239 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:iBobor
+DTSTART;VALUE=DATE:20201110
+DTEND;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201109T230000Z
+UID:39e39263f40f7ff4f659be683e5d38982a5dd1a9@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 – SŠ 4\n\nOrganizátor(i): FMFI UK\n
+ http://www.ibobor.sk/
+URL:http://www.ibobor.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo OI-B
+DTSTART;VALUE=DATE:20201130
+DTSTAMP;VALUE=DATE-TIME:20201129T230000Z
+UID:f5bd2583abb295084bc5149da86b22442f1534f2@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo OI-A
+DTSTART;VALUE=DATE:20201115
+DTSTAMP;VALUE=DATE-TIME:20201114T230000Z
+UID:8f801346d573cffd9fcf076c9e0df5f293d6db86@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit krajské kolo
+DTSTART;VALUE=DATE:20201126
+DTSTAMP;VALUE=DATE-TIME:20201125T230000Z
+UID:9990507ace623e84b2d8e6b9fdf1d213d2851b41@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): ŠIOV\nhttps:
+ //zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letný tábor Trojstenu
+DTSTART;VALUE=DATE:20210809
+DTEND;VALUE=DATE:20210818
+DTSTAMP;VALUE=DATE-TIME:20210808T220000Z
+UID:157e834f47fb5951e7538ca3a84336529af3f66f@kockatykalendar.sk
+DESCRIPTION:tábor | MAT\, FYZ\, INF | SŠ 1 – 4\n\nNa LTT ťa čaká od
+ borný i neodborný program\, športové aktivity\, voľný čas stráven
+ ý s novými (alebo starými) kamarátmi a málo spánku :) Ak sa cez leto
+  nudíš a niečo z toho ťa oslovilo\, prihlás sa a zaži neopakovateľn
+ é momenty s partiou uletených ľudí.\n\nOrganizátor(i): Trojsten\nhttp
+ s://ltt.trojsten.sk/
+URL:https://ltt.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doprogramovanie 2. kola zimnej časti KSP
+DTSTART;VALUE=DATE:20210215
+DTSTAMP;VALUE=DATE-TIME:20210214T230000Z
+UID:40f074748b7795fc9785d89bfb9cda4d43860a73@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nPo riadnom termíne nastáva f
+ áza doprogramovávania. Počas tejto fázy sa nedajú odovzdávať slovn
+ é popisy. Stále sa však dajú získať body za program. Navyše sú zve
+ rejnené vzorové riešenia\, ktoré vedia pomôcť úlohu vyriešiť a ú
+ spešne naprogramovať.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) KSP sústredenie
+DTSTART;VALUE=DATE:20201213
+DTEND;VALUE=DATE:20201220
+DTSTAMP;VALUE=DATE-TIME:20201212T230000Z
+UID:2f4e68bda95c9304ea7d6c293c3ab20c44b06146@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://ksp.sk/akcie/sustredenia/
+URL:https://ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo zimnej časti KSP
+DTSTART;VALUE=DATE:20201102
+DTSTAMP;VALUE=DATE-TIME:20201101T230000Z
+UID:f7314d2ff93155f29ae18556e15afb3f7ef02515@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nKorešpondenčný seminár z p
+ rogramovania je súťaž v riešení algoritmických úloh. Riešiš 5 z 
+ ôsmich úloh podľa tvojho levelu skúseností. Riešenie obvykle pozost
+ áva z funkčného programu\, ktorý stránka automaticky otestuje a texto
+ vého popisu čo program robí.\n\nOrganizátor(i): Trojsten\nhttps://ksp.
+ sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo zimnej časti KSP
+DTSTART;VALUE=DATE:20210201
+DTSTAMP;VALUE=DATE-TIME:20210131T230000Z
+UID:82969a6dfb936bcf5bfbcd636c072e24de781d7a@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nKorešpondenčný seminár z p
+ rogramovania je súťaž v riešení algoritmických úloh. Riešiš 5 z 
+ ôsmich úloh podľa tvojho levelu skúseností. Riešenie obvykle pozost
+ áva z funkčného programu\, ktorý stránka automaticky otestuje a texto
+ vého popisu čo program robí.\n\nOrganizátor(i): Trojsten\nhttps://ksp.
+ sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doprogramovanie 1. kola zimnej časti KSP
+DTSTART;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201115T230000Z
+UID:1e2464de05cd7eff21c74e62691e7153bb4c9043@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 1 – 4\n\nPo riadnom termíne nastáva f
+ áza doprogramovávania. Počas tejto fázy sa nedajú odovzdávať slovn
+ é popisy. Stále sa však dajú získať body za program. Navyše sú zve
+ rejnené vzorové riešenia\, ktoré vedia pomôcť úlohu vyriešiť a ú
+ spešne naprogramovať.\n\nOrganizátor(i): Trojsten\nhttps://ksp.sk/
+URL:https://ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IOI online
+DTSTART;VALUE=DATE:20210620
+DTEND;VALUE=DATE:20210627
+DTSTAMP;VALUE=DATE-TIME:20210619T220000Z
+UID:07dbd03b1dca148d2d07772c27d78c572f14d538@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): \nhttps://ioi
+ 2021.sg/
+URL:https://ioi2021.sg/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celoštátne kolo OI-A
+DTSTART;VALUE=DATE:20210324
+DTEND;VALUE=DATE:20210327
+DTSTAMP;VALUE=DATE-TIME:20210323T230000Z
+UID:cf536c1209cf7c0606a3e0b9ac40a6d961884a63@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit celoštátne kolo
+DTSTART;VALUE=DATE:20210308
+DTEND;VALUE=DATE:20210311
+DTSTAMP;VALUE=DATE-TIME:20210307T230000Z
+UID:d9c4c6e0147b4c9549cede424d0ea522aa956c66@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): ŠIOV\nhttps:
+ //zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Akadémia Trojstenu
+DTSTART;VALUE=DATE:20210312
+DTSTAMP;VALUE=DATE-TIME:20210311T230000Z
+UID:d966c5239e018cc8c4dfc1d817e7c6e4f988db0a@kockatykalendar.sk
+DESCRIPTION:prednášky | INF\, MAT\, FYZ | ZŠ 7 – SŠ 4\n\nAkadémia T
+ rojstenu sú každoročne organizované prednášky pre študentov stredn
+ ých škôl (a iných vzdelania a zábavy chtivých poslucháčov). Tento 
+ rok sa budú konať v online priestore.\n\nOrganizátor(i): Trojsten\nhttp
+ s://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Termín 1. kola zimnej časti PRASK
+DTSTART;VALUE=DATE:20210125
+DTSTAMP;VALUE=DATE-TIME:20210124T230000Z
+UID:c29a3f339ba264d3da205ca049c9048fa16b3769@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 7 – SŠ 1\n\nPRASK je súťaž určená
+  pre všetkých základoškolákov\, ktorých zaujíma matematika\, inform
+ atika\, chceli by sa naučiť programovať alebo len radi rozmýšľajú a
+  prijímajú výzvy.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/
+URL:https://prask.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IOI online
+DTSTART;VALUE=DATE:20200913
+DTEND;VALUE=DATE:20200919
+DTSTAMP;VALUE=DATE-TIME:20200912T220000Z
+UID:ca11795b1bc34977b338457c04f66f6c64974fcc@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): \nhttps://ioi
+ 2020.sg/
+URL:https://ioi2020.sg/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. domáce kolo PALMA
+DTSTART;VALUE=DATE:20210420
+DTSTAMP;VALUE=DATE-TIME:20210419T220000Z
+UID:224544747e21fc6330dd4206985b193183a5a14e@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nCieľom PALMA (Programovanie A
+ lgoritmy Matematika) je dať príležitosť všetkým\, ktorí si chcú za
+ súťažiť\, otestovať svoje schopnosti analyzovať problémy\, hľadať
+  algoritmy na ich riešenie a vedieť ich rýchlo\, efektívne a korektne 
+ naprogramovať.\n\nOrganizátor(i): Strom\nhttps://palma.strom.sk/
+URL:https://palma.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo OI-B
+DTSTART;VALUE=DATE:20210119
+DTSTAMP;VALUE=DATE-TIME:20210118T230000Z
+UID:f80ac5bcc713db15d77390dfc4e4fb538bb55e0f@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. domáce kolo PALMA
+DTSTART;VALUE=DATE:20210128
+DTSTAMP;VALUE=DATE-TIME:20210127T230000Z
+UID:24c07a47fa7aa711cfec11bc44ac8ce72e964172@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nCieľom PALMA (Programovanie A
+ lgoritmy Matematika) je dať príležitosť všetkým\, ktorí si chcú za
+ súťažiť\, otestovať svoje schopnosti analyzovať problémy\, hľadať
+  algoritmy na ich riešenie a vedieť ich rýchlo\, efektívne a korektne 
+ naprogramovať.\n\nOrganizátor(i): Strom\nhttps://palma.strom.sk/
+URL:https://palma.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo OI-A
+DTSTART;VALUE=DATE:20210119
+DTSTAMP;VALUE=DATE-TIME:20210118T230000Z
+UID:43f74e2e67b52626587934eb9f287b0c3edb5ee0@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://oi.sk/
+URL:http://oi.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP sústredenie
+DTSTART;VALUE=DATE:20210715
+DTEND;VALUE=DATE:20210722
+DTSTAMP;VALUE=DATE-TIME:20210714T220000Z
+UID:72d29d5ac841e833e5e3fcba0cb7bb55270b3cf9@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://ksp.sk/akcie/sustredenia/
+URL:https://ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit školské kolo
+DTSTART;VALUE=DATE:20201020
+DTSTAMP;VALUE=DATE-TIME:20201019T220000Z
+UID:878714bfe8592ecd3a621d06a55d038aa0675de0@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): ŠIOV\nhttps:
+ //zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Testovanie piatakov
+DTSTART;VALUE=DATE:20210519
+DTSTAMP;VALUE=DATE-TIME:20210518T220000Z
+UID:5d9546741c760058227c345078e6314d5050d301@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | iné | ZŠ 5\n\nOrganizátor(i): nucem\nhttp
+ s://www.nucem.sk/sk/merania/narodne-merania/testovanie-5/roky/2020-2021
+URL:https://www.nucem.sk/sk/merania/narodne-merania/testovanie-5/roky/2020
+ -2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskusia so Suši organizátormi
+DTSTART;VALUE=DATE:20210109
+DTSTAMP;VALUE=DATE-TIME:20210108T230000Z
+UID:0018da9da110980b4184695b9149feb342c2134b@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | iné | ktokoľvek\n\nAko náhradu za zrušen
+ é sústredenie sme si pripravili taký neformálny “call”\, kde sa n
+ ás budeš môcť popýtať nejaké otázky\, pokecať s nami\, dozvedieť
+  sa informácie zo zákulisia a bližšie nás spoznať (a my bližšie sp
+ oznať teba).\n\nOrganizátor(i): Trojsten\nhttps://meet.google.com/rdc-yd
+ qv-gdp
+URL:https://meet.google.com/rdc-ydqv-gdp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košická šifrovačka
+DTSTART;VALUE=DATE:20201024
+DTSTAMP;VALUE=DATE-TIME:20201023T220000Z
+UID:3d0aaea838a32130bf1054a2810df4b0564a867e@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 7 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://seminar.strom.sk/sifrovacka/info/
+URL:https://seminar.strom.sk/sifrovacka/info/
+END:VEVENT
+END:VCALENDAR

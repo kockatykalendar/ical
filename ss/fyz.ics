@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Fyzikálny Náboj
+DTSTART;VALUE=DATE:20201113
+DTSTAMP;VALUE=DATE-TIME:20201112T230000Z
+UID:62b82659d290f6ac11065dbc99271dff2bffab98@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://physics.naboj.org/
+URL:https://physics.naboj.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria FKS
+DTSTART;VALUE=DATE:20201123
+DTSTAMP;VALUE=DATE-TIME:20201122T230000Z
+UID:2a98fd6ccd8776a1b155ffec700f9715902ac245@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letný tábor Trojstenu
+DTSTART;VALUE=DATE:20210809
+DTEND;VALUE=DATE:20210818
+DTSTAMP;VALUE=DATE-TIME:20210808T220000Z
+UID:157e834f47fb5951e7538ca3a84336529af3f66f@kockatykalendar.sk
+DESCRIPTION:tábor | MAT\, FYZ\, INF | SŠ 1 – 4\n\nNa LTT ťa čaká od
+ borný i neodborný program\, športové aktivity\, voľný čas stráven
+ ý s novými (alebo starými) kamarátmi a málo spánku :) Ak sa cez leto
+  nudíš a niečo z toho ťa oslovilo\, prihlás sa a zaži neopakovateľn
+ é momenty s partiou uletených ľudí.\n\nOrganizátor(i): Trojsten\nhttp
+ s://ltt.trojsten.sk/
+URL:https://ltt.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO A
+DTSTART;VALUE=DATE:20210309
+DTSTAMP;VALUE=DATE-TIME:20210308T230000Z
+UID:b896f29d2ddf658c1b535d0c54bf14edc660a2cf@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celoštátne kolo TMF
+DTSTART;VALUE=DATE:20210329
+DTEND;VALUE=DATE:20210330
+DTSTAMP;VALUE=DATE-TIME:20210328T220000Z
+UID:de91d3eeee8efa7983c73fd9a1a4414abf81c34a@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tp://www.tmfsr.sk/sk/aktuality/216
+URL:http://www.tmfsr.sk/sk/aktuality/216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Akadémia Trojstenu
+DTSTART;VALUE=DATE:20210312
+DTSTAMP;VALUE=DATE-TIME:20210311T230000Z
+UID:d966c5239e018cc8c4dfc1d817e7c6e4f988db0a@kockatykalendar.sk
+DESCRIPTION:prednášky | INF\, MAT\, FYZ | ZŠ 7 – SŠ 4\n\nAkadémia T
+ rojstenu sú každoročne organizované prednášky pre študentov stredn
+ ých škôl (a iných vzdelania a zábavy chtivých poslucháčov). Tento 
+ rok sa budú konať v online priestore.\n\nOrganizátor(i): Trojsten\nhttp
+ s://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO D
+DTSTART;VALUE=DATE:20210423
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:dfef9afca78e42dc8d8cb058fa2c12178567f436@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1\n\nOrganizátor(i): Iuventa\nhttps://
+ www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO C
+DTSTART;VALUE=DATE:20210423
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:b7db32f3a0e965ea3c1fbb77a91332c663dbe93f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria FKS
+DTSTART;VALUE=DATE:20210406
+DTSTAMP;VALUE=DATE-TIME:20210405T220000Z
+UID:90503c72f8ffdd658923062adc117e93741e7cf7@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO B
+DTSTART;VALUE=DATE:20210423
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:dcf1e0b7e28a666bd8b34881a7607960d94bd3b4@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 3\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celoštátne kolo FO A
+DTSTART;VALUE=DATE:20210415
+DTEND;VALUE=DATE:20210418
+DTSTAMP;VALUE=DATE-TIME:20210414T220000Z
+UID:cc8011bc6db6703eaac5dbfa9f03329f68108a7b@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO D
+DTSTART;VALUE=DATE:20210512
+DTSTAMP;VALUE=DATE-TIME:20210511T220000Z
+UID:350e97d96981250ca451651a237e1c0eea1904c8@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1\n\nOrganizátor(i): Iuventa\nhttps://
+ www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO C
+DTSTART;VALUE=DATE:20210512
+DTSTAMP;VALUE=DATE-TIME:20210511T220000Z
+UID:4b6b853d6f3945b5698793a31b41d2ae86ff4c26@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 2\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO B
+DTSTART;VALUE=DATE:20210512
+DTSTAMP;VALUE=DATE-TIME:20210511T220000Z
+UID:3d33a5765859d0cf41b5ed5e1375dbe960f2e14f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 3\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria FKS
+DTSTART;VALUE=DATE:20210503
+DTSTAMP;VALUE=DATE-TIME:20210502T220000Z
+UID:6511c692e363b2ec5470382552737f6b35ce874d@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) FKS sústredenie
+DTSTART;VALUE=DATE:20210124
+DTEND;VALUE=DATE:20210131
+DTSTAMP;VALUE=DATE-TIME:20210123T230000Z
+UID:8f401bcd5897fe5f21ad6b96fbc1b8af9db1ff4b@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koniec 2. kola FKS
+DTSTART;VALUE=DATE:20210104
+DTSTAMP;VALUE=DATE-TIME:20210103T230000Z
+UID:5d1e743aa9a963ac5a4844c242402f622cb1c326@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS sústredenie
+DTSTART;VALUE=DATE:20210731
+DTEND;VALUE=DATE:20210807
+DTSTAMP;VALUE=DATE-TIME:20210730T220000Z
+UID:643f3affb014a02b5b4e785d0cd6bbe670a00dca@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPhO
+DTSTART;VALUE=DATE:20210717
+DTEND;VALUE=DATE:20210725
+DTSTAMP;VALUE=DATE-TIME:20210716T220000Z
+UID:4edb2184afb2309f7b2d4f5135b980a9a6a4159f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nMedzinárodná fyzikálna ol
+ ympiáda\n\nOrganizátor(i): \nhttps://www.ipho2020.lt/
+URL:https://www.ipho2020.lt/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria FKS
+DTSTART;VALUE=DATE:20201012
+DTSTAMP;VALUE=DATE-TIME:20201011T220000Z
+UID:8f53e4daf08fd93b8fbe915287ce8bef645f479a@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\nhtt
+ ps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyziklání
+DTSTART;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210211T230000Z
+UID:83914690ae387745413d0ec5104ea5a8c9a5dfe9@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nOrganizátor(i): fykos\nhttps:
+ //fyziklani.cz/
+URL:https://fyziklani.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO A
+DTSTART;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210211T230000Z
+UID:2b3c943022b96fd4c88265e97a67681eafd63448@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:3. séria Pikofyz
+DTSTART;VALUE=DATE:20201130
+DTSTAMP;VALUE=DATE-TIME:20201129T230000Z
+UID:f7cb81fc11364733344f2c74296762e4e6b09e26@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikofyz
+DTSTART;VALUE=DATE:20201102
+DTSTAMP;VALUE=DATE-TIME:20201101T230000Z
+UID:69c216c725d7794cbfaf8f8df714507dc4db769a@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikofyz
+DTSTART;VALUE=DATE:20210308
+DTSTAMP;VALUE=DATE-TIME:20210307T230000Z
+UID:79c9239d310d9babd983125cde1fae1a387ab154@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poobedie s P-MATom
+DTSTART;VALUE=DATE:20210320
+DTSTAMP;VALUE=DATE-TIME:20210319T230000Z
+UID:27ce7c98c7187bb424196dff93d0af06a42ab58e@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOnline stretnutie pre
+  všetkých riešiteľov Pikomatu a Pikofyzu\, súčasťou je prednáška 
+ z matematiky/fyziky podľa výberu a tímová hra.\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/poobedie/
+URL:https://www.p-mat.sk/aktivity/poobedie/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo FO E
+DTSTART;VALUE=DATE:20210317
+DTSTAMP;VALUE=DATE-TIME:20210316T230000Z
+UID:0acb20050a92bb11447b33e4dc837ea3a9795ee5@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo FO F
+DTSTART;VALUE=DATE:20210317
+DTSTAMP;VALUE=DATE-TIME:20210316T230000Z
+UID:e27f3b81708d9e9f9a6555618d94dde73d5a871b@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 8\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Akadémia Trojstenu
+DTSTART;VALUE=DATE:20210312
+DTSTAMP;VALUE=DATE-TIME:20210311T230000Z
+UID:d966c5239e018cc8c4dfc1d817e7c6e4f988db0a@kockatykalendar.sk
+DESCRIPTION:prednášky | INF\, MAT\, FYZ | ZŠ 7 – SŠ 4\n\nAkadémia T
+ rojstenu sú každoročne organizované prednášky pre študentov stredn
+ ých škôl (a iných vzdelania a zábavy chtivých poslucháčov). Tento 
+ rok sa budú konať v online priestore.\n\nOrganizátor(i): Trojsten\nhttp
+ s://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Kockatý víkend
+DTSTART;VALUE=DATE:20210430
+DTEND;VALUE=DATE:20210502
+DTSTAMP;VALUE=DATE-TIME:20210429T220000Z
+UID:322300e2c392c851a95aaeaab83ed71bef0d23bf@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poobedie s P-MATom
+DTSTART;VALUE=DATE:20210424
+DTSTAMP;VALUE=DATE-TIME:20210423T220000Z
+UID:1bbe11872ca3f36d3235bf0dd87eee9b151b97fc@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOnline stretnutie pre
+  všetkých riešiteľov Pikomatu a Pikofyzu\, súčasťou je prednáška 
+ z matematiky/fyziky podľa výberu a tímová hra.\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/poobedie/
+URL:https://www.p-mat.sk/aktivity/poobedie/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO E
+DTSTART;VALUE=DATE:20210421
+DTSTAMP;VALUE=DATE-TIME:20210420T220000Z
+UID:80b9eb785bbec52671497b630e875d409f1700a6@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Kockatý víkend
+DTSTART;VALUE=DATE:20210423
+DTEND;VALUE=DATE:20210425
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:5a686f2b64e3553dac03db651d8de9f83be59af6@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikofyz
+DTSTART;VALUE=DATE:20210412
+DTSTAMP;VALUE=DATE-TIME:20210411T220000Z
+UID:7ecc87696456474db9ab0ffe751e8119c768cc10@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO G
+DTSTART;VALUE=DATE:20210430
+DTSTAMP;VALUE=DATE-TIME:20210429T220000Z
+UID:7f7f9804c6111fedd6632255f94aa3aaf0ac6bef@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 6 – 7\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikofyz sústredenie
+DTSTART;VALUE=DATE:20210428
+DTEND;VALUE=DATE:20210502
+DTSTAMP;VALUE=DATE-TIME:20210427T220000Z
+UID:29dc4c0cde8994b7c8b1af1890e6927618da7948@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikofyz
+DTSTART;VALUE=DATE:20210510
+DTSTAMP;VALUE=DATE-TIME:20210509T220000Z
+UID:693405ec1325605b1c67640c32a40e865e6cba67@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo FO G
+DTSTART;VALUE=DATE:20210517
+DTEND;VALUE=DATE:20210521
+DTSTAMP;VALUE=DATE-TIME:20210516T220000Z
+UID:6d5e1de03ba64b9bb383b8bc6adc8570200db255@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 6 – 7\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz sústredenie
+DTSTART;VALUE=DATE:20210701
+DTEND;VALUE=DATE:20210708
+DTSTAMP;VALUE=DATE-TIME:20210630T220000Z
+UID:bb9e9fb0a3dacb1d8aa6eccaad8ab2eb5d721861@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikofyz
+DTSTART;VALUE=DATE:20201005
+DTSTAMP;VALUE=DATE-TIME:20201004T220000Z
+UID:021ed8e9603793c757a8050224ac9c6941625fbe@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO E
+DTSTART;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210211T230000Z
+UID:f8f55d38e3b375a73bebb3fe7dcac213191791ef@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikofyz sústredenie
+DTSTART;VALUE=DATE:20210206
+DTEND;VALUE=DATE:20210211
+DTSTAMP;VALUE=DATE-TIME:20210205T230000Z
+UID:5987a6318e246a81febb7c6d47f9257246c5bc3f@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO F
+DTSTART;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210211T230000Z
+UID:6549628165db3b6dc6042ff7fe4da7715a9c0792@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 8\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,895 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:2. séria Malynár
+DTSTART;VALUE=DATE:20201123
+DTSTAMP;VALUE=DATE-TIME:20201122T230000Z
+UID:de7b0074303209d7e622d9e80f472fbbe485ea9d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/
+URL:https://malynar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikofyz
+DTSTART;VALUE=DATE:20201130
+DTSTAMP;VALUE=DATE-TIME:20201129T230000Z
+UID:f7cb81fc11364733344f2c74296762e4e6b09e26@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iBobor
+DTSTART;VALUE=DATE:20201110
+DTEND;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201109T230000Z
+UID:39e39263f40f7ff4f659be683e5d38982a5dd1a9@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 – SŠ 4\n\nOrganizátor(i): FMFI UK\n
+ http://www.ibobor.sk/
+URL:http://www.ibobor.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lomihlav
+DTSTART;VALUE=DATE:20201127
+DTSTAMP;VALUE=DATE-TIME:20201126T230000Z
+UID:da9d489e583947cd296ca071313e0ff038f7d7af@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/sk/lomihlav/
+URL:https://matik.strom.sk/sk/lomihlav/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO Z5
+DTSTART;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201115T230000Z
+UID:1ecfa441fade71b43ea627d8a7dd076a577d4c09@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 5\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria SEZAMKO
+DTSTART;VALUE=DATE:20201109
+DTSTAMP;VALUE=DATE-TIME:20201108T230000Z
+UID:27cc799b44c75b01342e98b0c698cb4bef6d09b6@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezamko/
+URL:https://www.sezam.sk/sezamko/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikomat
+DTSTART;VALUE=DATE:20201130
+DTSTAMP;VALUE=DATE-TIME:20201129T230000Z
+UID:a5d9b28a91e5ca837b44a28d2931134cc6095139@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Riešky
+DTSTART;VALUE=DATE:20201109
+DTSTAMP;VALUE=DATE-TIME:20201108T230000Z
+UID:c961b5ae745bb1d2a5cef5c1ca914dcff5808d93@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): Riešky\nhttp
+ s://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO Z9
+DTSTART;VALUE=DATE:20201116
+DTSTAMP;VALUE=DATE-TIME:20201115T230000Z
+UID:3c51ff9327f7b2c38a910c96f8dff7004085e10b@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 9\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikofyz
+DTSTART;VALUE=DATE:20201102
+DTSTAMP;VALUE=DATE-TIME:20201101T230000Z
+UID:69c216c725d7794cbfaf8f8df714507dc4db769a@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Matik
+DTSTART;VALUE=DATE:20201123
+DTSTAMP;VALUE=DATE-TIME:20201122T230000Z
+UID:0c04b7e46dc4ec5bc584c6eb1c5e8884aa2a7bfa@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/
+URL:https://matik.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikomat
+DTSTART;VALUE=DATE:20201102
+DTSTAMP;VALUE=DATE-TIME:20201101T230000Z
+UID:51fc10f5647767de1f01e7233ee28844b84996b3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria SEZAM
+DTSTART;VALUE=DATE:20201109
+DTSTAMP;VALUE=DATE-TIME:20201108T230000Z
+UID:ddc93eb9c9483d0d466c39f98ad20990056fda32@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezam/
+URL:https://www.sezam.sk/sezam/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TMM - Tábor mladých matematikov
+DTSTART;VALUE=DATE:20210823
+DTEND;VALUE=DATE:20210830
+DTSTAMP;VALUE=DATE-TIME:20210822T220000Z
+UID:5b239bec7173a3077cd75869cf550db62ec17368@kockatykalendar.sk
+DESCRIPTION:tábor | MAT | ZŠ 6 – SŠ 1\n\nOrganizátor(i): Strom\nhttp
+ s://seminar.strom.sk/tmm
+URL:https://seminar.strom.sk/tmm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celoštátne kolo Pytagoriády P6\, P7\, P8
+DTSTART;VALUE=DATE:20210602
+DTEND;VALUE=DATE:20210603
+DTSTAMP;VALUE=DATE-TIME:20210601T220000Z
+UID:a0f49b9cc108366814e4dd6a4d6b785e664fdb07@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/PYT.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/PYT.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik sústredenie
+DTSTART;VALUE=DATE:20210624
+DTEND;VALUE=DATE:20210629
+DTSTAMP;VALUE=DATE-TIME:20210623T220000Z
+UID:184a9ebfb5abf3680bf0501f343bd323cb9cc7c2@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nht
+ tps://matik.strom.sk/
+URL:https://matik.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár sústredenie
+DTSTART;VALUE=DATE:20210618
+DTEND;VALUE=DATE:20210623
+DTSTAMP;VALUE=DATE-TIME:20210617T220000Z
+UID:93ce9fc79fdc91e7efe313f9483711156ca330a3@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nht
+ tps://malynar.strom.sk/
+URL:https://malynar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Matik
+DTSTART;VALUE=DATE:20210329
+DTSTAMP;VALUE=DATE-TIME:20210328T220000Z
+UID:8414c6f8a333dc1fb75daa54d2a95c2ae0d2b455@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/
+URL:https://matik.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikofyz
+DTSTART;VALUE=DATE:20210308
+DTSTAMP;VALUE=DATE-TIME:20210307T230000Z
+UID:79c9239d310d9babd983125cde1fae1a387ab154@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo MO Z9
+DTSTART;VALUE=DATE:20210316
+DTSTAMP;VALUE=DATE-TIME:20210315T230000Z
+UID:7fbd0b7c8059baedcd91420e96ad32598b98261a@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 9\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Malynár
+DTSTART;VALUE=DATE:20210329
+DTSTAMP;VALUE=DATE-TIME:20210328T220000Z
+UID:729697ad99dbdd2e6bc26275d46afd0f1e0e2de9@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/
+URL:https://malynar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo MO Z6\, Z7\, Z8
+DTSTART;VALUE=DATE:20210331
+DTSTAMP;VALUE=DATE-TIME:20210330T220000Z
+UID:191357acbdce2963bec635b116acdc6c540d79e1@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poobedie s P-MATom
+DTSTART;VALUE=DATE:20210320
+DTSTAMP;VALUE=DATE-TIME:20210319T230000Z
+UID:27ce7c98c7187bb424196dff93d0af06a42ab58e@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOnline stretnutie pre
+  všetkých riešiteľov Pikomatu a Pikofyzu\, súčasťou je prednáška 
+ z matematiky/fyziky podľa výberu a tímová hra.\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/poobedie/
+URL:https://www.p-mat.sk/aktivity/poobedie/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo FO E
+DTSTART;VALUE=DATE:20210317
+DTSTAMP;VALUE=DATE-TIME:20210316T230000Z
+UID:0acb20050a92bb11447b33e4dc837ea3a9795ee5@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. kolo Riešky
+DTSTART;VALUE=DATE:20210308
+DTSTAMP;VALUE=DATE-TIME:20210307T230000Z
+UID:07a5847cc7e5f573214cc2de242991646912135d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): Riešky\nhttp
+ s://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikomat
+DTSTART;VALUE=DATE:20210308
+DTSTAMP;VALUE=DATE-TIME:20210307T230000Z
+UID:c3d1f04b9e69baab4cb202eeda00e09f4a6988a6@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik online výlet
+DTSTART;VALUE=DATE:20210320
+DTSTAMP;VALUE=DATE-TIME:20210319T230000Z
+UID:2c2925cde50e2fe36523d1904c063daa0e11fab1@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 4 – 9\n\nKeďže je doba\, aká je\,
+  možno by ste o tomto čase nečakali príspevok o Jarnom výlete. Máme 
+ však dobré správy – výlet bude. Hoci sa nemôžeme stretnúť naživ
+ o a ísť spolu niekam\, online priestor je bez možnosti nakazenia\, a pr
+ eto bude výlet online.\n\nOrganizátor(i): Strom\nhttps://matik.strom.sk/
+ sk/prispevky/online-vylet/
+URL:https://matik.strom.sk/sk/prispevky/online-vylet/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Máš problém?!
+DTSTART;VALUE=DATE:20210322
+DTSTAMP;VALUE=DATE-TIME:20210321T230000Z
+UID:10046d53845789fa5be9c09902b1847465447364@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 4 – 9\n\nJe súťaž jednotlivcov v rie
+ šení matematických problémov. Súťaží sa v dvoch kategóriách mlad
+ ší 4.-6. ročník a starší 7.-9. ročník. Súťaž prebehne v čase o
+ d 16:00 do 19:00\, pričom na samotné riešenie máte 60 minút odkedy za
+ čnete. Veľa šťastia.\n\nOrganizátor(i): Strom\nhttps://masproblem.str
+ om.sk/
+URL:https://masproblem.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo FO F
+DTSTART;VALUE=DATE:20210317
+DTSTAMP;VALUE=DATE-TIME:20210316T230000Z
+UID:e27f3b81708d9e9f9a6555618d94dde73d5a871b@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 8\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEZAM sústredenie
+DTSTART;VALUE=DATE:20210325
+DTEND;VALUE=DATE:20210328
+DTSTAMP;VALUE=DATE-TIME:20210324T230000Z
+UID:1d8390303a86bcfaffd7cffc3ccff925f7a6c843@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nht
+ tps://www.sezam.sk/
+URL:https://www.sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROMácky víkend
+DTSTART;VALUE=DATE:20210326
+DTEND;VALUE=DATE:20210328
+DTSTAMP;VALUE=DATE-TIME:20210325T230000Z
+UID:78f8335f262e20b3cf356dc174c9a70f3bff5929@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 9 – SŠ 4\n\nZohnať na víkend Dani
+ šovce a dostať do nich vedúcich nie je len tak. Naopak\, zohnať na ví
+ kend Zoom a dostať naň vedúcich je malina! Prihláste sa do 21.3. Zúč
+ astniť sa môže ktokoľvek bez ohľadu na to\, či náš seminár rieši
+ l doteraz alebo nie.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/o
+ nlinestrom/
+URL:https://seminar.strom.sk/onlinestrom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Akadémia Trojstenu
+DTSTART;VALUE=DATE:20210312
+DTSTAMP;VALUE=DATE-TIME:20210311T230000Z
+UID:d966c5239e018cc8c4dfc1d817e7c6e4f988db0a@kockatykalendar.sk
+DESCRIPTION:prednášky | INF\, MAT\, FYZ | ZŠ 7 – SŠ 4\n\nAkadémia T
+ rojstenu sú každoročne organizované prednášky pre študentov stredn
+ ých škôl (a iných vzdelania a zábavy chtivých poslucháčov). Tento 
+ rok sa budú konať v online priestore.\n\nOrganizátor(i): Trojsten\nhttp
+ s://akademia.trojsten.sk/
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO Z9\, 2.sada
+DTSTART;VALUE=DATE:20201214
+DTSTAMP;VALUE=DATE-TIME:20201213T230000Z
+UID:b593468c8d7439f9928f97e108d59b31538cbdbd@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 9\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Školské kolo Pytagoriády P3\, P4\, P5
+DTSTART;VALUE=DATE:20201209
+DTSTAMP;VALUE=DATE-TIME:20201208T230000Z
+UID:0b41690f54f78933a6911ae11068026a7787dd0f@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 3 – 5\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/PYT.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/PYT.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEZAMKO online stretnutie
+DTSTART;VALUE=DATE:20201205
+DTSTAMP;VALUE=DATE-TIME:20201204T230000Z
+UID:a6562677aa9be2ec3a1b7b3b8d918b70e7136211@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\
+ nhttps://www.sezam.sk/sezamko/
+URL:https://www.sezam.sk/sezamko/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO Z6\, Z7\, Z8
+DTSTART;VALUE=DATE:20201214
+DTSTAMP;VALUE=DATE-TIME:20201213T230000Z
+UID:8c7d8c890c786f91efcfe435241be7fa144b335b@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Školské kolo Pytagoriády P6\, P7\, P8
+DTSTART;VALUE=DATE:20201210
+DTSTAMP;VALUE=DATE-TIME:20201209T230000Z
+UID:e57caea6b03f947723f4370a7c2230133c8ab190@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/PYT.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/PYT.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO Z5\, 2.sada
+DTSTART;VALUE=DATE:20201214
+DTSTAMP;VALUE=DATE-TIME:20201213T230000Z
+UID:45ea377057eac200a1ca058fb4623b8e4610e46a@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 5\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Riešky
+DTSTART;VALUE=DATE:20201207
+DTSTAMP;VALUE=DATE-TIME:20201206T230000Z
+UID:2fa95884dc2fcc0fad7a82b6719053b5657ff790@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): Riešky\nhttp
+ s://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Termín 1. kola zimnej časti PRASK
+DTSTART;VALUE=DATE:20210125
+DTSTAMP;VALUE=DATE-TIME:20210124T230000Z
+UID:c29a3f339ba264d3da205ca049c9048fa16b3769@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 7 – SŠ 1\n\nPRASK je súťaž určená
+  pre všetkých základoškolákov\, ktorých zaujíma matematika\, inform
+ atika\, chceli by sa naučiť programovať alebo len radi rozmýšľajú a
+  prijímajú výzvy.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/
+URL:https://prask.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attomat
+DTSTART;VALUE=DATE:20200917
+DTSTAMP;VALUE=DATE-TIME:20200916T220000Z
+UID:76ded06d3b28b28b7c7a3f39421f0054fbf0c814@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //www.p-mat.sk/aktivity/attomat/
+URL:https://www.p-mat.sk/aktivity/attomat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria SEZAMKO
+DTSTART;VALUE=DATE:20200928
+DTSTAMP;VALUE=DATE-TIME:20200927T220000Z
+UID:ac33c33b5ec091e57e03e0d9685c1a4ea37071f2@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezamko/
+URL:https://www.sezam.sk/sezamko/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria SEZAM
+DTSTART;VALUE=DATE:20200928
+DTSTAMP;VALUE=DATE-TIME:20200927T220000Z
+UID:35356c22b63c21f9f254d9de051f89bf11fa927f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezam/
+URL:https://www.sezam.sk/sezam/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo Pytagoriády P6\, P7\, P8
+DTSTART;VALUE=DATE:20210414
+DTSTAMP;VALUE=DATE-TIME:20210413T220000Z
+UID:40143bf691a286f8fd9019771e87c5b7204257e3@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/PYT.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/PYT.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. kolo Riešky
+DTSTART;VALUE=DATE:20210405
+DTSTAMP;VALUE=DATE-TIME:20210404T220000Z
+UID:3ab505de5e78ba3ad43d8d4056b61216dbb12d70@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): Riešky\nhttp
+ s://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Kockatý víkend
+DTSTART;VALUE=DATE:20210430
+DTEND;VALUE=DATE:20210502
+DTSTAMP;VALUE=DATE-TIME:20210429T220000Z
+UID:322300e2c392c851a95aaeaab83ed71bef0d23bf@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria SEZAMKO
+DTSTART;VALUE=DATE:20210407
+DTSTAMP;VALUE=DATE-TIME:20210406T220000Z
+UID:ccf4271e88f73e7c59fe221bf69c883a8a28bd55@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezamko/
+URL:https://www.sezam.sk/sezamko/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikomat starší sústredenie
+DTSTART;VALUE=DATE:20210424
+DTEND;VALUE=DATE:20210428
+DTSTAMP;VALUE=DATE-TIME:20210423T220000Z
+UID:0de2561b6f2521836cfcd2299cd8e5cfa24ff722@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poobedie s P-MATom
+DTSTART;VALUE=DATE:20210424
+DTSTAMP;VALUE=DATE-TIME:20210423T220000Z
+UID:1bbe11872ca3f36d3235bf0dd87eee9b151b97fc@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOnline stretnutie pre
+  všetkých riešiteľov Pikomatu a Pikofyzu\, súčasťou je prednáška 
+ z matematiky/fyziky podľa výberu a tímová hra.\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/poobedie/
+URL:https://www.p-mat.sk/aktivity/poobedie/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajské kolo FO E
+DTSTART;VALUE=DATE:20210421
+DTSTAMP;VALUE=DATE-TIME:20210420T220000Z
+UID:80b9eb785bbec52671497b630e875d409f1700a6@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Kockatý víkend
+DTSTART;VALUE=DATE:20210423
+DTEND;VALUE=DATE:20210425
+DTSTAMP;VALUE=DATE-TIME:20210422T220000Z
+UID:5a686f2b64e3553dac03db651d8de9f83be59af6@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-m
+ at\nhttps://www.p-mat.sk/aktivity/kockaty/
+URL:https://www.p-mat.sk/aktivity/kockaty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikofyz
+DTSTART;VALUE=DATE:20210412
+DTSTAMP;VALUE=DATE-TIME:20210411T220000Z
+UID:7ecc87696456474db9ab0ffe751e8119c768cc10@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikomat mladší sústredenie
+DTSTART;VALUE=DATE:20210414
+DTEND;VALUE=DATE:20210418
+DTSTAMP;VALUE=DATE-TIME:20210413T220000Z
+UID:e6a7b154354bc90e9d22e25c4c90faf3f7cf6c5b@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO G
+DTSTART;VALUE=DATE:20210430
+DTSTAMP;VALUE=DATE-TIME:20210429T220000Z
+UID:7f7f9804c6111fedd6632255f94aa3aaf0ac6bef@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 6 – 7\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikofyz sústredenie
+DTSTART;VALUE=DATE:20210428
+DTEND;VALUE=DATE:20210502
+DTSTAMP;VALUE=DATE-TIME:20210427T220000Z
+UID:29dc4c0cde8994b7c8b1af1890e6927618da7948@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Pikomat
+DTSTART;VALUE=DATE:20210412
+DTSTAMP;VALUE=DATE-TIME:20210411T220000Z
+UID:0349c0d2cab9398125b49d849a5ec5025098a76d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online sústredenie Riešok
+DTSTART;VALUE=DATE:20210419
+DTEND;VALUE=DATE:20210425
+DTSTAMP;VALUE=DATE-TIME:20210418T220000Z
+UID:cda1e48888f8e68515c2e351ee719661246071bc@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 9\n\nOnline sústredenie pre Ri
+ eškarov. Každý deň od 16:00 do 18:30 sa môžte tešiť na hry\, či p
+ rednášky.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/novinky/clanok/
+ 21
+URL:https://riesky.sk/novinky/clanok/21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria SEZAM
+DTSTART;VALUE=DATE:20210407
+DTSTAMP;VALUE=DATE-TIME:20210406T220000Z
+UID:cdfdf1e3edaaf27ea3356d43b8465cdf70ca979b@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezam/
+URL:https://www.sezam.sk/sezam/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Malynár
+DTSTART;VALUE=DATE:20210503
+DTSTAMP;VALUE=DATE-TIME:20210502T220000Z
+UID:2fda8c6c00a385d12e05ec84238bb95d8f5f6005@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/
+URL:https://malynar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria SEZAM
+DTSTART;VALUE=DATE:20210517
+DTSTAMP;VALUE=DATE-TIME:20210516T220000Z
+UID:ffab636e5b3fbbbb2411e3cf9bd5dbe861a94fed@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezam/
+URL:https://www.sezam.sk/sezam/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikofyz
+DTSTART;VALUE=DATE:20210510
+DTSTAMP;VALUE=DATE-TIME:20210509T220000Z
+UID:693405ec1325605b1c67640c32a40e865e6cba67@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testovanie piatakov
+DTSTART;VALUE=DATE:20210519
+DTSTAMP;VALUE=DATE-TIME:20210518T220000Z
+UID:5d9546741c760058227c345078e6314d5050d301@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | iné | ZŠ 5\n\nOrganizátor(i): nucem\nhttp
+ s://www.nucem.sk/sk/merania/narodne-merania/testovanie-5/roky/2020-2021
+URL:https://www.nucem.sk/sk/merania/narodne-merania/testovanie-5/roky/2020
+ -2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamut
+DTSTART;VALUE=DATE:20210528
+DTSTAMP;VALUE=DATE-TIME:20210527T220000Z
+UID:6f09806c762f42cc853839d0f66ef0257719f342@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/sk/mamut/
+URL:https://malynar.strom.sk/sk/mamut/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEZAMKO sústredenie
+DTSTART;VALUE=DATE:20210528
+DTEND;VALUE=DATE:20210530
+DTSTAMP;VALUE=DATE-TIME:20210527T220000Z
+UID:00366fbc2af15220e4fc13e332a10b19ade872d5@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nht
+ tps://www.sezam.sk/sezamko/
+URL:https://www.sezam.sk/sezamko/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria Pikomat
+DTSTART;VALUE=DATE:20210510
+DTSTAMP;VALUE=DATE-TIME:20210509T220000Z
+UID:68c4566adaea09f645c2b6d4349975de9178a4e0@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo FO G
+DTSTART;VALUE=DATE:20210517
+DTEND;VALUE=DATE:20210521
+DTSTAMP;VALUE=DATE-TIME:20210516T220000Z
+UID:6d5e1de03ba64b9bb383b8bc6adc8570200db255@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 6 – 7\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. séria Matik
+DTSTART;VALUE=DATE:20210503
+DTSTAMP;VALUE=DATE-TIME:20210502T220000Z
+UID:9916aa855a85e673c8f6b4958d30372f40bdf380@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/
+URL:https://matik.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. séria SEZAM
+DTSTART;VALUE=DATE:20210111
+DTSTAMP;VALUE=DATE-TIME:20210110T230000Z
+UID:6db043ecdc07a5dc795fa85a779db936ff51db47@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezam/
+URL:https://www.sezam.sk/sezam/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo MO Z9
+DTSTART;VALUE=DATE:20210127
+DTSTAMP;VALUE=DATE-TIME:20210126T230000Z
+UID:df6ff753238f4aa11682fc597fcc5977fb7938b4@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 9\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diskusia so Suši organizátormi
+DTSTART;VALUE=DATE:20210109
+DTSTAMP;VALUE=DATE-TIME:20210108T230000Z
+UID:0018da9da110980b4184695b9149feb342c2134b@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | iné | ktokoľvek\n\nAko náhradu za zrušen
+ é sústredenie sme si pripravili taký neformálny “call”\, kde sa n
+ ás budeš môcť popýtať nejaké otázky\, pokecať s nami\, dozvedieť
+  sa informácie zo zákulisia a bližšie nás spoznať (a my bližšie sp
+ oznať teba).\n\nOrganizátor(i): Trojsten\nhttps://meet.google.com/rdc-yd
+ qv-gdp
+URL:https://meet.google.com/rdc-ydqv-gdp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Riešky sústredenie
+DTSTART;VALUE=DATE:20210117
+DTEND;VALUE=DATE:20210122
+DTSTAMP;VALUE=DATE-TIME:20210116T230000Z
+UID:ace7a1c88ed424a29bc226f20364f5a7df772d35@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 9\n\nOrganizátor(i): Riešky\n
+ https://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Okresné kolo MO Z5
+DTSTART;VALUE=DATE:20210127
+DTSTAMP;VALUE=DATE-TIME:20210126T230000Z
+UID:37e1cde30374e0a6c3c1b19a7274f40955349588@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 5\n\nOrganizátor(i): Iuventa\nhttp://s
+ kmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Malynár sústredenie
+DTSTART;VALUE=DATE:20210124
+DTEND;VALUE=DATE:20210129
+DTSTAMP;VALUE=DATE-TIME:20210123T230000Z
+UID:83c292c63ced394d37174bc18c14deb97dba8eab@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nht
+ tps://malynar.strom.sk/
+URL:https://malynar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat starší sústredenie
+DTSTART;VALUE=DATE:20210708
+DTEND;VALUE=DATE:20210717
+DTSTAMP;VALUE=DATE-TIME:20210707T220000Z
+UID:f52afc9a19c1b2b4f1a75c991269c53caca9a9c9@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat mladší sústredenie
+DTSTART;VALUE=DATE:20210703
+DTEND;VALUE=DATE:20210708
+DTSTAMP;VALUE=DATE-TIME:20210702T220000Z
+UID:6b380b296e92bcb22c5a8566481dface7a6dd58b@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz sústredenie
+DTSTART;VALUE=DATE:20210701
+DTEND;VALUE=DATE:20210708
+DTSTAMP;VALUE=DATE-TIME:20210630T220000Z
+UID:bb9e9fb0a3dacb1d8aa6eccaad8ab2eb5d721861@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEZAM sústredenie
+DTSTART;VALUE=DATE:20210730
+DTEND;VALUE=DATE:20210808
+DTSTAMP;VALUE=DATE-TIME:20210729T220000Z
+UID:be6883c6c251ab75c3974b1dac74f3c9bf48657a@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nht
+ tps://www.sezam.sk/
+URL:https://www.sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Matik
+DTSTART;VALUE=DATE:20201019
+DTSTAMP;VALUE=DATE-TIME:20201018T220000Z
+UID:b015ebd7e7e4b349643bcec4713f08ddee93cb87@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/
+URL:https://matik.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košická šifrovačka
+DTSTART;VALUE=DATE:20201024
+DTSTAMP;VALUE=DATE-TIME:20201023T220000Z
+UID:3d0aaea838a32130bf1054a2810df4b0564a867e@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 7 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://seminar.strom.sk/sifrovacka/info/
+URL:https://seminar.strom.sk/sifrovacka/info/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikomat
+DTSTART;VALUE=DATE:20201005
+DTSTAMP;VALUE=DATE-TIME:20201004T220000Z
+UID:35a1f2f878c79193cd7565d4e920d6f38f32ff2e@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Riešky
+DTSTART;VALUE=DATE:20201012
+DTSTAMP;VALUE=DATE-TIME:20201011T220000Z
+UID:eb8cf6d6627cf7aee27a26764c0b1448629df4a8@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): Riešky\nhttp
+ s://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Pikofyz
+DTSTART;VALUE=DATE:20201005
+DTSTAMP;VALUE=DATE-TIME:20201004T220000Z
+UID:021ed8e9603793c757a8050224ac9c6941625fbe@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria Malynár
+DTSTART;VALUE=DATE:20201019
+DTSTAMP;VALUE=DATE-TIME:20201018T220000Z
+UID:b6b4d1b595d822e96eedadfddca9cc4ec2084184@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/
+URL:https://malynar.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Matik sústredenie
+DTSTART;VALUE=DATE:20210207
+DTEND;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210206T230000Z
+UID:e943f37fe90d147a46a877b7eae694edd256a8df@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nht
+ tps://matik.strom.sk/
+URL:https://matik.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik a Malynár sústredenie
+DTSTART;VALUE=DATE:20210208
+DTEND;VALUE=DATE:20210214
+DTSTAMP;VALUE=DATE-TIME:20210207T230000Z
+UID:64549cf5e3ec88e17bb6fdba5b68525e5634efd4@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 9\n\nOrganizátor(i): Strom\nht
+ tps://zdruzenie.strom.sk/
+URL:https://zdruzenie.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikomat starší sústredenie
+DTSTART;VALUE=DATE:20210131
+DTEND;VALUE=DATE:20210206
+DTSTAMP;VALUE=DATE-TIME:20210130T230000Z
+UID:fcfdf9c2a0c07bb6d6987b1b5d0538eeba4decb5@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo MO Z6\, Z7\, Z8\, 2.sada
+DTSTART;VALUE=DATE:20210226
+DTSTAMP;VALUE=DATE-TIME:20210225T230000Z
+UID:971e2aaa34f82e1319814f1cc3062da900ee4c5a@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): Iuventa\nht
+ tp://skmo.sk/
+URL:http://skmo.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria SEZAM
+DTSTART;VALUE=DATE:20210215
+DTSTAMP;VALUE=DATE-TIME:20210214T230000Z
+UID:c573d5970699204054c61d7f737699169bdfdd5e@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezam/
+URL:https://www.sezam.sk/sezam/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO E
+DTSTART;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210211T230000Z
+UID:f8f55d38e3b375a73bebb3fe7dcac213191791ef@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikomat mladší sústredenie
+DTSTART;VALUE=DATE:20210211
+DTEND;VALUE=DATE:20210215
+DTSTAMP;VALUE=DATE-TIME:20210210T230000Z
+UID:3378335f1bc3d9ea24b15853989c23d694e57ab0@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Zrušený) Pikofyz sústredenie
+DTSTART;VALUE=DATE:20210206
+DTEND;VALUE=DATE:20210211
+DTSTAMP;VALUE=DATE-TIME:20210205T230000Z
+UID:5987a6318e246a81febb7c6d47f9257246c5bc3f@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Domáce kolo FO F
+DTSTART;VALUE=DATE:20210212
+DTSTAMP;VALUE=DATE-TIME:20210211T230000Z
+UID:6549628165db3b6dc6042ff7fe4da7715a9c0792@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7 – 8\n\nOrganizátor(i): Iuventa\nht
+ tps://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+URL:https://www.iuventa.sk/sk/Olympiady/olympiady/FO.alej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. séria SEZAMKO
+DTSTART;VALUE=DATE:20210215
+DTSTAMP;VALUE=DATE-TIME:20210214T230000Z
+UID:998ac3cfeda08f666005766633320aef6924dcb6@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nhttps:
+ //www.sezam.sk/sezamko/
+URL:https://www.sezam.sk/sezamko/
+END:VEVENT
+END:VCALENDAR
