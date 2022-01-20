@@ -23,9 +23,13 @@ Vygeneruje iCal zo všetkých udalostí z kalendára pre aktuálny školský rok
 
 - `-d URL`, `--data-source URL` - možnosť určiť iný JSON súbor ako zdroj dát. Predvolene používame aktuálny školský rok
     z https://data.kockatykalendar.sk.
+- `-a`, `--all` -Vygeneruje ical pre každú kombináciu typu školy, vedy a organizátora a uloží do priečinku `build`.
 - `--school X` - filtrovanie udalostí podľa typu školy. Povolené hodnoty sú `zs`, `ss` a `any`. Predvolená hodnota je `any`,
     teda sa budú zobrazovať udalosti pre všetky školy.
 - `--science X` - filtrovanie udalostí podľa vied. Povolené hodnoty sú `mat`, `fyz`, `inf`, `other` a `any`.
     Pre tento parameter je možné uviesť viac hodnôt v tvare `--science mat fyz`. 
     Predvolená hodnota je `any`, teda sa budú zobrazovať udalosti všetkých vied.
+- `--organizer X` - filtrovanie udalostí podľa organizátorov. Povolené hodnoty sú `trojsten`, `p-mat`, `sezam`, `riesky`, `strom`, `siov`, `iuventa`, `matfyz`.
+    Pre tento parameter je možné uviesť viac hodnôt v tvare `--science trojsten p-mat`.
+    Predvolená hodnota je `any`, teda sa budú zobrazovať udalosti všetkých organizátorov.
 - `-o FILE`, `--output FILE` - určuje, kam sa má uložiť výsledný súbor. Predvolená hodnota je `-`, teda štandardný výstup.
