@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20230923
+DTSTAMP;VALUE=DATE-TIME:20230922T220000Z
+UID:2ebafc7cf55273634b619bf5572616c790a3ea31@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košický Matboj
+DTSTART;VALUE=DATE:20231027
+DTSTAMP;VALUE=DATE-TIME:20231026T220000Z
+UID:d0ecbe703f40a0ef4642c030d1dfdc113868b5d6@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/sk/matboj/
+URL:https://seminar.strom.sk/sk/matboj/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. letná séria
+DTSTART;VALUE=DATE:20240422
+DTSTAMP;VALUE=DATE-TIME:20240421T220000Z
+UID:ece2b8760eebf2e2e53f8e13bc93668bb392a2f8@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - jesenné sústredenie
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230914
+DTSTAMP;VALUE=DATE-TIME:20230908T220000Z
+UID:ea3c6e94c7aa9bc637b8b9e23918c68f01122989@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nht
+ tps://seminar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 1. zimná séria
+DTSTART;VALUE=DATE:20231102
+DTSTAMP;VALUE=DATE-TIME:20231101T230000Z
+UID:72427c70c7e787807bf2311d9762d53817a895f4@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 1. letná séria
+DTSTART;VALUE=DATE:20240325
+DTSTAMP;VALUE=DATE-TIME:20240324T230000Z
+UID:1aa5bcbb2267209454c12e0e62381e849e1803e2@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robotický Battle na Alejovej
+DTSTART;VALUE=DATE:20240603
+DTSTAMP;VALUE=DATE-TIME:20240602T220000Z
+UID:3c9ea2b199e045df7d5697b94ade3651690bfebb@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 1 – SŠ 4\n\nOrganizátor(i): Strom\nht
+ tps://robotickybattle.sk/
+URL:https://robotickybattle.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. zimná séria
+DTSTART;VALUE=DATE:20231127
+DTSTAMP;VALUE=DATE-TIME:20231126T230000Z
+UID:d53ded7555f6f34fcf2e8f3adc9c819536d66268@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nOrganizátor(i): Strom\nhttps:
+ //seminar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematický náboj
+DTSTART;VALUE=DATE:20240419
+DTSTAMP;VALUE=DATE-TIME:20240418T220000Z
+UID:b7d0e4a6d7f42754110ab497b6ed809d3195d9df@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nMatematický náboj je medzin
+ árodná súťaž v matematike určená pre 4 alebo 5-členné tímy. Kaž
+ dý tím začína so sadou šiestich úloh\, po každom odovzdaní správn
+ e vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve h
+ odiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\, Strom\nhttps://math
+ .naboj.org/?country=SK
+URL:https://math.naboj.org/?country=SK
+END:VEVENT
+END:VCALENDAR

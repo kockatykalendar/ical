@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:KMS alfa sústredenie
+DTSTART;VALUE=DATE:20240119
+DTEND;VALUE=DATE:20240126
+DTSTAMP;VALUE=DATE-TIME:20240118T230000Z
+UID:cfc3fa53e353465984800f1ae19956186e508d55@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 9 – SŠ 2\n\nMožno to bude beta.\n
+ \nOrganizátor(i): Trojsten\nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Náboj Junior
+DTSTART;VALUE=DATE:20231124
+DTSTAMP;VALUE=DATE-TIME:20231123T230000Z
+UID:557fa0e9b29371fcd74a6fc744aa9b339e3ac513@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, MAT | ZŠ 8 – 9\n\nNáboj Junior je medzin
+ árodná súťaž v matematike a fyzike určená pre 4-členné tímy. Ka
+ ždý tím začína so sadou šiestich úloh\, po každom odovzdaní sprá
+ vne vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve
+  hodiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\nhttps://junior.nab
+ oj.org/sk/sk
+URL:https://junior.naboj.org/sk/sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS alfa sústredenie
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230916
+DTSTAMP;VALUE=DATE-TIME:20230908T220000Z
+UID:9de1ed554ccddaebe53b1f6aad6e55fabc6e8396@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 9 – SŠ 2\n\nOrganizátor(i): Trojs
+ ten\nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+END:VCALENDAR

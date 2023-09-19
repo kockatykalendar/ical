@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20230923
+DTSTAMP;VALUE=DATE-TIME:20230922T220000Z
+UID:2ebafc7cf55273634b619bf5572616c790a3ea31@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+END:VCALENDAR

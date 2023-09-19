@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:KMS – 3. kolo zimnej časti
+DTSTART;VALUE=DATE:20231120
+DTSTAMP;VALUE=DATE-TIME:20231119T230000Z
+UID:f4740af893ffaebbea12c3b3c33a0fb526b72eaf@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 1. kolo letnej časti
+DTSTART;VALUE=DATE:20240219
+DTSTAMP;VALUE=DATE-TIME:20240218T230000Z
+UID:aa0e50ec02beab31e4afad5ecb6d66c7a421c199@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 2. kolo zimnej časti
+DTSTART;VALUE=DATE:20231023
+DTSTAMP;VALUE=DATE-TIME:20231022T220000Z
+UID:22122b72d7954bdb8592df5f31d1587c807cea04@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS beta sústredenie
+DTSTART;VALUE=DATE:20240127
+DTEND;VALUE=DATE:20240203
+DTSTAMP;VALUE=DATE-TIME:20240126T230000Z
+UID:1db839a455393e0f9f1eb50205e6310e3e1281f6@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 2 – 4\n\nMožno to bude alfa.\n\nOr
+ ganizátor(i): Trojsten\nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 3. kolo letnej časti
+DTSTART;VALUE=DATE:20240415
+DTSTAMP;VALUE=DATE-TIME:20240414T220000Z
+UID:648261a65e814db37128199ce52c770eda3eb0b4@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 1. kolo zimnej časti
+DTSTART;VALUE=DATE:20230925
+DTSTAMP;VALUE=DATE-TIME:20230924T220000Z
+UID:8a524195373018ea3fb04785e37b31e117f574a8@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS alfa sústredenie
+DTSTART;VALUE=DATE:20240119
+DTEND;VALUE=DATE:20240126
+DTSTAMP;VALUE=DATE-TIME:20240118T230000Z
+UID:cfc3fa53e353465984800f1ae19956186e508d55@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 9 – SŠ 2\n\nMožno to bude beta.\n
+ \nOrganizátor(i): Trojsten\nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS beta sústredenie
+DTSTART;VALUE=DATE:20240615
+DTEND;VALUE=DATE:20240622
+DTSTAMP;VALUE=DATE-TIME:20240614T220000Z
+UID:eef4d6a84913e5746c2bb7555ae2b30452d2dc47@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 2 – 4\n\nMožno to bude FKS.\n\nOrg
+ anizátor(i): Trojsten\nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 2. kolo letnej časti
+DTSTART;VALUE=DATE:20240318
+DTSTAMP;VALUE=DATE-TIME:20240317T230000Z
+UID:013f0dfe6daae785f4461aed81535044bc194af3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematický náboj
+DTSTART;VALUE=DATE:20240419
+DTSTAMP;VALUE=DATE-TIME:20240418T220000Z
+UID:b7d0e4a6d7f42754110ab497b6ed809d3195d9df@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nMatematický náboj je medzin
+ árodná súťaž v matematike určená pre 4 alebo 5-členné tímy. Kaž
+ dý tím začína so sadou šiestich úloh\, po každom odovzdaní správn
+ e vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve h
+ odiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\, Strom\nhttps://math
+ .naboj.org/?country=SK
+URL:https://math.naboj.org/?country=SK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klub Trojstenu
+DTSTART;VALUE=DATE:20240419
+DTEND;VALUE=DATE:20240420
+DTSTAMP;VALUE=DATE-TIME:20240418T220000Z
+UID:f5f027a7075a7276dc25ace522d68b44441890b8@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKlub je polofor
+ málna\, polooficálna akcia\, koná sa po väčších akciách Trojstenu\
+ , snažíme sa utužiť kolektív riešiteľov a popri tom pribrať novýc
+ h ľudí do našej partie. Neváhaj a pripoj sa k nám (agitačné reči 
+ – „Come to the dark side - we have cookies!“).\n\nOrganizátor(i): T
+ rojsten\nhttps://klub.trojsten.sk/
+URL:https://klub.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akadémia Trojstenu
+DTSTART;VALUE=DATE:20231215
+DTSTAMP;VALUE=DATE-TIME:20231214T230000Z
+UID:946cbcc2a170f0b389b3235cec692314b3a38efe@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKaždoročne Ť
+ a čaká 6 prednášok\, v ktorých populárnym a pochopiteľným spôsobo
+ m naši prednášajúci priblížia zaujímavé oblasti zo svojich vednýc
+ h disciplín. Akadémia je určená všetkým vzdelania a zábavy chtivým
+  poslucháčom.\n\nOrganizátor(i): Trojsten\nhttps://akademia.trojsten.sk
+ /
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klub Trojstenu
+DTSTART;VALUE=DATE:20231215
+DTEND;VALUE=DATE:20231216
+DTSTAMP;VALUE=DATE-TIME:20231214T230000Z
+UID:b4eb93ed9cf5f5e3ae27199eb9ce15f0353011de@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKlub je polofor
+ málna\, polooficálna akcia\, koná sa po väčších akciách Trojstenu\
+ , snažíme sa utužiť kolektív riešiteľov a popri tom pribrať novýc
+ h ľudí do našej partie. Neváhaj a pripoj sa k nám (agitačné reči 
+ – „Come to the dark side - we have cookies!“).\n\nOrganizátor(i): T
+ rojsten\nhttps://klub.trojsten.sk/
+URL:https://klub.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klub Trojstenu
+DTSTART;VALUE=DATE:20231103
+DTEND;VALUE=DATE:20231104
+DTSTAMP;VALUE=DATE-TIME:20231102T230000Z
+UID:e9187e3efd1121df438febc28daf529be76d96c9@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKlub je polofor
+ málna\, polooficálna akcia\, koná sa po väčších akciách Trojstenu\
+ , snažíme sa utužiť kolektív riešiteľov a popri tom pribrať novýc
+ h ľudí do našej partie. Neváhaj a pripoj sa k nám (agitačné reči 
+ – „Come to the dark side - we have cookies!“).\n\nOrganizátor(i): T
+ rojsten\nhttps://klub.trojsten.sk/
+URL:https://klub.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS alfa sústredenie
+DTSTART;VALUE=DATE:20230909
+DTEND;VALUE=DATE:20230916
+DTSTAMP;VALUE=DATE-TIME:20230908T220000Z
+UID:9de1ed554ccddaebe53b1f6aad6e55fabc6e8396@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 9 – SŠ 2\n\nOrganizátor(i): Trojs
+ ten\nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+END:VCALENDAR

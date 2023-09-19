@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+DTSTAMP;VALUE=DATE-TIME:20240405T220000Z
+UID:4792d3ff6e98420fb50df33fcf7af17b66ecddf3@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20231125
+DTEND;VALUE=DATE:20231126
+DTSTAMP;VALUE=DATE-TIME:20231124T230000Z
+UID:bb05d2f03461af56b1ec123497d09a4bf20c4c3e@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20240203
+DTEND;VALUE=DATE:20240204
+DTSTAMP;VALUE=DATE-TIME:20240202T230000Z
+UID:4dcdabbb61050474f9ea4c6224e5bed79e24b974@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20231001
+DTSTAMP;VALUE=DATE-TIME:20230929T220000Z
+UID:608667ba96b6af6c4a315f36dfbd392a82518c6e@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+DTSTAMP;VALUE=DATE-TIME:20240531T220000Z
+UID:16fae7a5df6564166407793fc7b43fbc136516ee@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+END:VCALENDAR

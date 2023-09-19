@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Letný tábor Riešok
+DTSTART;VALUE=DATE:20240822
+DTEND;VALUE=DATE:20240831
+DTSTAMP;VALUE=DATE-TIME:20240821T220000Z
+UID:66700e32bc3091c9fe591265bcfdf000779394cf@kockatykalendar.sk
+DESCRIPTION:tábor | MAT | ZŠ 5 – SŠ 1\n\nLetný tábor Riešok je ur
+ čený pre každého\, koho baví matematika\, a teda nie len pre riešite
+ ľov semináru. Ide o 10 dňový pobyt v blízkosti prírody\, ktorého s
+ účasťou je odborný aj neodborný program vo forme prednášok\, netrad
+ ičných hier a športov.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/n
+ ovinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+END:VCALENDAR

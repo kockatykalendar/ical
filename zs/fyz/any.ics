@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20240415
+DTSTAMP;VALUE=DATE-TIME:20240414T220000Z
+UID:6f43430d373c068a30d522d8376434cec291aaab@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20231030
+DTSTAMP;VALUE=DATE-TIME:20231029T230000Z
+UID:b5274e7529264343fa5f1dae4c7822a638ba7fa3@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20231002
+DTSTAMP;VALUE=DATE-TIME:20231001T220000Z
+UID:351e66050e6da1da4df88e233dbbddd311fb0e30@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20231020
+DTEND;VALUE=DATE:20231022
+DTSTAMP;VALUE=DATE-TIME:20231019T220000Z
+UID:ab033d606b0d4f1dfcb7af2559c7a3dcf55a7cc3@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-ma
+ t\nhttps://akcie.p-mat.sk/kockaty-vikend/
+URL:https://akcie.p-mat.sk/kockaty-vikend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20240318
+DTSTAMP;VALUE=DATE-TIME:20240317T230000Z
+UID:406ab21e688c6ff26c33d4d604cf159189ada995@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné Pikofyz sústredenie
+DTSTART;VALUE=DATE:20240129
+DTEND;VALUE=DATE:20240203
+DTSTAMP;VALUE=DATE-TIME:20240128T230000Z
+UID:06543a67e9391a9ba983676b242c7e97c6106d71@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20231127
+DTSTAMP;VALUE=DATE-TIME:20231126T230000Z
+UID:22c477cbb944ccb0f20463f78c6f8c7aa226eb5b@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20240219
+DTSTAMP;VALUE=DATE-TIME:20240218T230000Z
+UID:c6477498fc0fe0803e3eaf9ef3f7d7f91ef8ab27@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20230921
+DTSTAMP;VALUE=DATE-TIME:20230920T220000Z
+UID:08ae6acb1cd324a6b499594a64519d7d35a6716c@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-mat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Náboj Junior
+DTSTART;VALUE=DATE:20231124
+DTSTAMP;VALUE=DATE-TIME:20231123T230000Z
+UID:557fa0e9b29371fcd74a6fc744aa9b339e3ac513@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, MAT | ZŠ 8 – 9\n\nNáboj Junior je medzin
+ árodná súťaž v matematike a fyzike určená pre 4-členné tímy. Ka
+ ždý tím začína so sadou šiestich úloh\, po každom odovzdaní sprá
+ vne vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve
+  hodiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\nhttps://junior.nab
+ oj.org/sk/sk
+URL:https://junior.naboj.org/sk/sk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Robotický Battle na Alejovej
+DTSTART;VALUE=DATE:20240603
+DTSTAMP;VALUE=DATE-TIME:20240602T220000Z
+UID:3c9ea2b199e045df7d5697b94ade3651690bfebb@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 1 – SŠ 4\n\nOrganizátor(i): Strom\nht
+ tps://robotickybattle.sk/
+URL:https://robotickybattle.sk/
+END:VEVENT
+END:VCALENDAR

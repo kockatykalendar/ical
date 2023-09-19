@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Malynár - 1. zimná séria
+DTSTART;VALUE=DATE:20231023
+DTSTAMP;VALUE=DATE-TIME:20231022T220000Z
+UID:49860945d8835f729d4276be82e63bff32b53994@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/sk/prispevky/
+URL:https://malynar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 1. letná séria
+DTSTART;VALUE=DATE:20240311
+DTSTAMP;VALUE=DATE-TIME:20240310T230000Z
+UID:ef12138631573a7d5392593791cd74f3d1831942@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/sk/prispevky/
+URL:https://matik.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lomihlav
+DTSTART;VALUE=DATE:20231201
+DTSTAMP;VALUE=DATE-TIME:20231130T230000Z
+UID:cebf802d89d8204f8ad13fa8054b680bfaf74578@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/sk/lomihlav/
+URL:https://matik.strom.sk/sk/lomihlav/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20230923
+DTSTAMP;VALUE=DATE-TIME:20230922T220000Z
+UID:2ebafc7cf55273634b619bf5572616c790a3ea31@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - letné sústredenie
+DTSTART;VALUE=DATE:20240620
+DTEND;VALUE=DATE:20240625
+DTSTAMP;VALUE=DATE-TIME:20240619T220000Z
+UID:b81151366d0ab85ea3376fe3ab157a0aaa925516@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nht
+ tps://matik.strom.sk/sk/prispevky/
+URL:https://matik.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 1. letná séria
+DTSTART;VALUE=DATE:20240311
+DTSTAMP;VALUE=DATE-TIME:20240310T230000Z
+UID:19699e2646fbe946e01289b2bc9aa31200b7dad3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/sk/prispevky/
+URL:https://malynar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Máš problém?!
+DTSTART;VALUE=DATE:20231103
+DTSTAMP;VALUE=DATE-TIME:20231102T230000Z
+UID:cb3840ec12c7f714a03f656967d8b431b8390410@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 4 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //masproblem.strom.sk/
+URL:https://masproblem.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamut
+DTSTART;VALUE=DATE:20240531
+DTSTAMP;VALUE=DATE-TIME:20240530T220000Z
+UID:f99a7f90ad865a76884579b5e48d3317fe5f7022@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/sk/mamut/
+URL:https://malynar.strom.sk/sk/mamut/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - zimné sústredenie
+DTSTART;VALUE=DATE:20240211
+DTEND;VALUE=DATE:20240216
+DTSTAMP;VALUE=DATE-TIME:20240210T230000Z
+UID:fe68a9e41f57aca7526a6cf061e9cea000df9606@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nht
+ tps://matik.strom.sk/sk/prispevky/
+URL:https://matik.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 2. letná séria
+DTSTART;VALUE=DATE:20240408
+DTSTAMP;VALUE=DATE-TIME:20240407T220000Z
+UID:63f16d4e7a05277bcda55afbc60e9f8dd62a5345@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/sk/prispevky/
+URL:https://matik.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 2. zimná séria
+DTSTART;VALUE=DATE:20231120
+DTSTAMP;VALUE=DATE-TIME:20231119T230000Z
+UID:2fc421ed77f2c466d5b65f25579eeaaf452fb25d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/sk/prispevky/
+URL:https://matik.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 2. zimná séria
+DTSTART;VALUE=DATE:20231120
+DTSTAMP;VALUE=DATE-TIME:20231119T230000Z
+UID:1a2440a9dba419fe886d9daa0344af06181cc922@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/sk/prispevky/
+URL:https://malynar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 2. zimná séria
+DTSTART;VALUE=DATE:20240408
+DTSTAMP;VALUE=DATE-TIME:20240407T220000Z
+UID:4c686cadb748f924c71d72237cad1a7474c3d6a5@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nhttps:
+ //malynar.strom.sk/sk/prispevky/
+URL:https://malynar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robotický Battle na Alejovej
+DTSTART;VALUE=DATE:20240603
+DTSTAMP;VALUE=DATE-TIME:20240602T220000Z
+UID:3c9ea2b199e045df7d5697b94ade3651690bfebb@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 1 – SŠ 4\n\nOrganizátor(i): Strom\nht
+ tps://robotickybattle.sk/
+URL:https://robotickybattle.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - letné sústredenie
+DTSTART;VALUE=DATE:20240615
+DTEND;VALUE=DATE:20240620
+DTSTAMP;VALUE=DATE-TIME:20240614T220000Z
+UID:3071b0cb8c807527b4761e8e0a08a24045e0659a@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nht
+ tps://malynar.strom.sk/sk/prispevky/
+URL:https://malynar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 1. zimná séria
+DTSTART;VALUE=DATE:20231023
+DTSTAMP;VALUE=DATE-TIME:20231022T220000Z
+UID:9cc110e72fdc08151cb22fc0a5d0947bc46ece04@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): Strom\nhttps:
+ //matik.strom.sk/sk/prispevky/
+URL:https://matik.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - zimné sústredenie
+DTSTART;VALUE=DATE:20240128
+DTEND;VALUE=DATE:20240202
+DTSTAMP;VALUE=DATE-TIME:20240127T230000Z
+UID:a13da803f95dc2b8e5a17190b9ae2941e1f3403a@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 4 – 6\n\nOrganizátor(i): Strom\nht
+ tps://malynar.strom.sk/sk/prispevky/
+URL:https://malynar.strom.sk/sk/prispevky/
+END:VEVENT
+END:VCALENDAR

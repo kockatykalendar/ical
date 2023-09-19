@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Letný tábor Sezam
+DTSTART;VALUE=DATE:20240826
+DTEND;VALUE=DATE:20240804
+DTSTAMP;VALUE=DATE-TIME:20240825T220000Z
+UID:397307227a232a7afbc302d43412a21cae1bcadc@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Sezamko
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240525
+DTSTAMP;VALUE=DATE-TIME:20240522T220000Z
+UID:731acb367ea117b045818de8bd85b5804e3485bf@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezamko 1. kolo\, letná séria
+DTSTART;VALUE=DATE:20240318
+DTSTAMP;VALUE=DATE-TIME:20240317T230000Z
+UID:08d42ae4c305c48f09ecb70dce7bf2a689edca83@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 1. kolo\, letná séria
+DTSTART;VALUE=DATE:20240205
+DTSTAMP;VALUE=DATE-TIME:20240204T230000Z
+UID:cf57ecbf9f27be8b6b75ba61bea8081f08f0f36d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 3. kolo\, zimná séria
+DTSTART;VALUE=DATE:20240108
+DTSTAMP;VALUE=DATE-TIME:20240107T230000Z
+UID:f629542ccbe4e3db262e4ed6ad60bd43ad6bfab5@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+DTSTAMP;VALUE=DATE-TIME:20240405T220000Z
+UID:4792d3ff6e98420fb50df33fcf7af17b66ecddf3@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20231106
+DTSTAMP;VALUE=DATE-TIME:20231105T230000Z
+UID:1403925ce6d5b66629a1ed9a46c42e29f186f2e5@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 3. kolo\, letná séria
+DTSTART;VALUE=DATE:20240506
+DTSTAMP;VALUE=DATE-TIME:20240505T220000Z
+UID:c908c7a264b63b69ee99ddc32835f00304086e11@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20230925
+DTSTAMP;VALUE=DATE-TIME:20230924T220000Z
+UID:47f6e5f529288fa63817f25a94da61f7d44c1334@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Sezam
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240324
+DTSTAMP;VALUE=DATE-TIME:20240320T230000Z
+UID:3655a4ca6b993782c0f7398dc2a7e641e9ca7428@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stretnutie Sezamko
+DTSTART;VALUE=DATE:20231209
+DTSTAMP;VALUE=DATE-TIME:20231208T230000Z
+UID:0ca5e57601b7448b99a9e768d5845f674c1ac482@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20231125
+DTEND;VALUE=DATE:20231126
+DTSTAMP;VALUE=DATE-TIME:20231124T230000Z
+UID:bb05d2f03461af56b1ec123497d09a4bf20c4c3e@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezamko 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20231106
+DTSTAMP;VALUE=DATE-TIME:20231105T230000Z
+UID:359045278d66f7fb2b058558124e45b7f418c454@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezamko 1. kolo\, letná séria
+DTSTART;VALUE=DATE:20240205
+DTSTAMP;VALUE=DATE-TIME:20240204T230000Z
+UID:ccbb16fbf5dbadd2010c4c674674b3d6c4015da9@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20240203
+DTEND;VALUE=DATE:20240204
+DTSTAMP;VALUE=DATE-TIME:20240202T230000Z
+UID:4dcdabbb61050474f9ea4c6224e5bed79e24b974@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezamko 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20230925
+DTSTAMP;VALUE=DATE-TIME:20230924T220000Z
+UID:213d032e54d37033979ae96d0a20cb1b643db220@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20231001
+DTSTAMP;VALUE=DATE-TIME:20230929T220000Z
+UID:608667ba96b6af6c4a315f36dfbd392a82518c6e@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+DTSTAMP;VALUE=DATE-TIME:20240531T220000Z
+UID:16fae7a5df6564166407793fc7b43fbc136516ee@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nPresný termín akcie sa m
+ ôže ešte zmeniť.\n\nOrganizátor(i): SEZAM\nhttps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 2. kolo\, letná séria
+DTSTART;VALUE=DATE:20240318
+DTSTAMP;VALUE=DATE-TIME:20240317T230000Z
+UID:dc79537adaa82276e6afd1ab49f75fb62dfaafdf@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:výlet SEZAM
+DTSTART;VALUE=DATE:20230902
+DTSTAMP;VALUE=DATE-TIME:20230901T220000Z
+UID:cdd918b09f4525a1ffbaad648a2f627e48d414bf@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 4 – 9\n\nOrganizátor(i): SEZAM\nhtt
+ ps://www.sezam.sk/
+URL:https://www.sezam.sk/
+END:VEVENT
+END:VCALENDAR

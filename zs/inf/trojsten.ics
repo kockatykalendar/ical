@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:PRASK sústredenie
+DTSTART;VALUE=DATE:20240316
+DTEND;VALUE=DATE:20240322
+DTSTAMP;VALUE=DATE-TIME:20240315T230000Z
+UID:d4093f1f20d622ae7252c2c2f0c313641a5e884d@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | ZŠ 5 – SŠ 1\n\nje určené pre 36 naj
+ úspešnejších riešiteľov Semináru PRASK. Na sústredení spoznáš k
+ opec skvelých ľudí s podobnými záujmami\, vedúcich\, ktorí opravova
+ li tvoje riešenia\, naučíš sa kopec algoritmov a zažiješ množstvo s
+ kvelých hier.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/akcie/su
+ stredenia/
+URL:https://prask.ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRASK sústredenie
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231117
+DTSTAMP;VALUE=DATE-TIME:20231110T230000Z
+UID:83ff2f430bc43bacb18491b3b3713ae2542e5b39@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | ZŠ 5 – SŠ 1\n\nje určené pre 36 naj
+ úspešnejších riešiteľov Semináru PRASK. Na sústredení spoznáš k
+ opec skvelých ľudí s podobnými záujmami\, vedúcich\, ktorí opravova
+ li tvoje riešenia\, naučíš sa kopec algoritmov a zažiješ množstvo s
+ kvelých hier.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/akcie/su
+ stredenia/
+URL:https://prask.ksp.sk/akcie/sustredenia/
+END:VEVENT
+END:VCALENDAR

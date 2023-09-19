@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Zenit krajské kolo
+DTSTART;VALUE=DATE:20231123
+DTSTAMP;VALUE=DATE-TIME:20231122T230000Z
+UID:ea9b87281d068a2fb35a1a94ea9f14d83ebfe5f6@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit v programovaní je postu
+ pová súťaž v programovaní algoritmických úloh. Každé kolo trvá 4
+  hodiny a má približne 10 úloh od úplne lahkých až po ťažké. Rie
+ šenie pozostáva z funkčného programu\, ktorý sa ihneď automaticky te
+ stuje.\n\nOrganizátor(i): ŠIOV\nhttps://zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit školské kolo
+DTSTART;VALUE=DATE:20231017
+DTSTAMP;VALUE=DATE-TIME:20231016T220000Z
+UID:d2e0834803354a3ff8fbbb1fb792b321a5579ff4@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit v programovaní je postu
+ pová súťaž v programovaní algoritmických úloh. Každé kolo trvá 4
+  hodiny a má približne 10 úloh od úplne lahkých až po ťažké. Rie
+ šenie pozostáva z funkčného programu\, ktorý sa ihneď automaticky te
+ stuje.\n\nOrganizátor(i): ŠIOV\nhttps://zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit celoštátne kolo
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240321
+DTSTAMP;VALUE=DATE-TIME:20240318T230000Z
+UID:950f076f29536d1cd633e596dd45423fd346a09a@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit v programovaní je postu
+ pová súťaž v programovaní algoritmických úloh. Každé kolo trvá 4
+  hodiny a má približne 10 úloh od úplne lahkých až po ťažké. Rie
+ šenie pozostáva z funkčného programu\, ktorý sa ihneď automaticky te
+ stuje.\n\nOrganizátor(i): ŠIOV\nhttps://zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+END:VCALENDAR

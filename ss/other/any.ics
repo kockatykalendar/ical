@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie 1. kola zimnej časti
+DTSTART;VALUE=DATE:20230904
+DTSTAMP;VALUE=DATE-TIME:20230903T220000Z
+UID:e61dbc08b86810cd840f9dd56745d4032dce486a@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada takzvaných "veľkých" nápovi
+ ed ku jednotlivým šifrám. Akonáhle sa tak stane\, za riešenie môžte
+  získať maximálne 5 bodov.\n\nOrganizátor(i): Trojsten\nhttps://susi.t
+ rojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši sústredenie
+DTSTART;VALUE=DATE:20240213
+DTEND;VALUE=DATE:20240217
+DTSTAMP;VALUE=DATE-TIME:20240212T230000Z
+UID:82bbd13951d101ffeed537facc3a5045687a1c75@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten
+ \nhttps://susi.trojsten.sk/akcie/sustredenia/
+URL:https://susi.trojsten.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie malej nápovedy 1. kola letnej časti
+DTSTART;VALUE=DATE:20240401
+DTSTAMP;VALUE=DATE-TIME:20240331T220000Z
+UID:4625abec2a1c68557f48775a14b6f8033ebe531a@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nDva týždne pred koncom
+  kola sa na stránke zverejní prvá sada "malých" nápovied k jednotliv
+ ým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať za
+  7 bodov až do zverejnenia veľkých nápovied.\n\nOrganizátor(i): Trojs
+ ten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie veľkej nápovedy Objavného kola zimnej ča
+ sti
+DTSTART;VALUE=DATE:20231204
+DTSTAMP;VALUE=DATE-TIME:20231203T230000Z
+UID:7794c52e688195b9c8837d41143540245ce85803@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada "veľkých" nápovied k jednotl
+ ivým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať 
+ za 5 bodov až do skončenia kola.\n\nOrganizátor(i): Trojsten\nhttps://s
+ usi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie malej nápovedy 2. kola zimnej časti
+DTSTART;VALUE=DATE:20231030
+DTSTAMP;VALUE=DATE-TIME:20231029T230000Z
+UID:96489ebec7e56e00af4d47834593dd33cb489d97@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nDva týždne pred koncom
+  kola sa na stránke zverejní prvá sada "malých" nápovied k jednotliv
+ ým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať za
+  7 bodov až do zverejnenia veľkých nápovied.\n\nOrganizátor(i): Trojs
+ ten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie veľkej nápovedy 1. kola letnej časti
+DTSTART;VALUE=DATE:20240408
+DTSTAMP;VALUE=DATE-TIME:20240407T220000Z
+UID:69943ab8da5cc40ba2842e60a06cbd13b673ac3c@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada "veľkých" nápovied k jednotl
+ ivým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať 
+ za 5 bodov až do skončenia kola.\n\nOrganizátor(i): Trojsten\nhttps://s
+ usi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Koniec 1. kola letnej časti
+DTSTART;VALUE=DATE:20240415
+DTSTAMP;VALUE=DATE-TIME:20240414T220000Z
+UID:8ce2557eac60ab2910bc5ab10baacd04e917e3da@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNa rozdiel od tradičný
+ ch šifrovačiek je Súťaž v Šifrovaní určená jednotlivcom. Podľa s
+ kúseností riešiš šifry v kategórií Agát\, Blýskavica alebo Cífer
+ ský cech. V každom kole riešiš 5 šifier a na stránku odovzdávaš he
+ slá\, ktoré stránka automaticky opraví.\n\nOrganizátor(i): Trojsten\n
+ https://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie malej nápovedy Objavného kola letnej čast
+ i
+DTSTART;VALUE=DATE:20240520
+DTSTAMP;VALUE=DATE-TIME:20240519T220000Z
+UID:87ed5ce31a3c15cb84a2859939112a7bd416f0dc@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nDva týždne pred koncom
+  kola sa na stránke zverejní malá nápoveda spoločná pre všetky šif
+ ry objavného kola. Po tomto termíne môžeš riešenia šifier odovzdáv
+ ať za 7 bodov až do zverejnenia veľkých nápovied.\n\nOrganizátor(i):
+  Trojsten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši sústredenie
+DTSTART;VALUE=DATE:20240610
+DTEND;VALUE=DATE:20240614
+DTSTAMP;VALUE=DATE-TIME:20240609T220000Z
+UID:64c22b9b1a4149484c3a38a00b7e4738772df7a6@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | SŠ 1 – 4\n\nOrganizátor(i): Trojsten
+ \nhttps://susi.trojsten.sk/akcie/sustredenia/
+URL:https://susi.trojsten.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Koniec Objavného kola zimnej časti
+DTSTART;VALUE=DATE:20231211
+DTSTAMP;VALUE=DATE-TIME:20231210T230000Z
+UID:4ac9a8fd459f30d0c854bdfdbbbbe672fb7b65b9@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNa rozdiel od tradičný
+ ch šifrovačiek je Súťaž v Šifrovaní určená pre jednotlivcov. V ob
+ javnom kole riešiš 5 šifier zameraných na špecifickú tému a na str
+ ánku odovzdávaš heslá\, ktoré stránka automaticky opraví.\n\nOrgani
+ zátor(i): Trojsten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie veľkej nápovedy 1. kola zimnej časti
+DTSTART;VALUE=DATE:20231009
+DTSTAMP;VALUE=DATE-TIME:20231008T220000Z
+UID:7dedf709a0c030631036f2ab00a51fcc10cab5a8@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada "veľkých" nápovied k jednotl
+ ivým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať 
+ za 5 bodov až do skončenia kola.\n\nOrganizátor(i): Trojsten\nhttps://s
+ usi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie Objavného kola zimnej časti
+DTSTART;VALUE=DATE:20231030
+DTSTAMP;VALUE=DATE-TIME:20231029T230000Z
+UID:d3ee7b1c4d99fe1262a61ec34a3389047562a3e8@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada takzvaných "veľkých" nápovi
+ ed ku jednotlivým šifrám. Akonáhle sa tak stane\, za riešenie môžte
+  získať maximálne 5 bodov.\n\nOrganizátor(i): Trojsten\nhttps://susi.t
+ rojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Koniec 2. kola zimnej časti
+DTSTART;VALUE=DATE:20231113
+DTSTAMP;VALUE=DATE-TIME:20231112T230000Z
+UID:7326aae3b43787c7b1ec5490ba502bf616d583fb@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNa rozdiel od tradičný
+ ch šifrovačiek je Súťaž v Šifrovaní určená jednotlivcom. Podľa s
+ kúseností riešiš šifry v kategórií Agát\, Blýskavica alebo Cífer
+ ský cech. V každom kole riešiš 5 šifier a na stránku odovzdávaš he
+ slá\, ktoré stránka automaticky opraví.\n\nOrganizátor(i): Trojsten\n
+ https://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie veľkej nápovedy Objavného kola letnej ča
+ sti
+DTSTART;VALUE=DATE:20240527
+DTSTAMP;VALUE=DATE-TIME:20240526T220000Z
+UID:5c0e065395f1a19dfa8b314f7d30e37c4e1e21c1@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada "veľkých" nápovied k jednotl
+ ivým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať 
+ za 5 bodov až do skončenia kola.\n\nOrganizátor(i): Trojsten\nhttps://s
+ usi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie 2. kola letnej časti
+DTSTART;VALUE=DATE:20240401
+DTSTAMP;VALUE=DATE-TIME:20240331T220000Z
+UID:7fc4e41042a00b4cdcbcf584a2e822c19f687362@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada takzvaných "veľkých" nápovi
+ ed ku jednotlivým šifrám. Akonáhle sa tak stane\, za riešenie môžte
+  získať maximálne 5 bodov.\n\nOrganizátor(i): Trojsten\nhttps://susi.t
+ rojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie malej nápovedy Objavného kola zimnej čast
+ i
+DTSTART;VALUE=DATE:20231127
+DTSTAMP;VALUE=DATE-TIME:20231126T230000Z
+UID:a52c8f524a912b69638e0033211ad308032f2b60@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nDva týždne pred koncom
+  kola sa na stránke zverejní malá nápoveda spoločná pre všetky šif
+ ry objavného kola. Po tomto termíne môžeš riešenia šifier odovzdáv
+ ať za 7 bodov až do zverejnenia veľkých nápovied.\n\nOrganizátor(i):
+  Trojsten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Koniec 1. kola zimnej časti
+DTSTART;VALUE=DATE:20231016
+DTSTAMP;VALUE=DATE-TIME:20231015T220000Z
+UID:dc14c5b62da66f987255108c29cb9329709294e3@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNa rozdiel od tradičný
+ ch šifrovačiek je Súťaž v Šifrovaní určená jednotlivcom. Podľa s
+ kúseností riešiš šifry v kategórií Agát\, Blýskavica alebo Cífer
+ ský cech. V každom kole riešiš 5 šifier a na stránku odovzdávaš he
+ slá\, ktoré stránka automaticky opraví.\n\nOrganizátor(i): Trojsten\n
+ https://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie 2. kola zimnej časti
+DTSTART;VALUE=DATE:20231002
+DTSTAMP;VALUE=DATE-TIME:20231001T220000Z
+UID:057311dba547a1e4531385fa9a7d5711d8543e45@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada takzvaných "veľkých" nápovi
+ ed ku jednotlivým šifrám. Akonáhle sa tak stane\, za riešenie môžte
+  získať maximálne 5 bodov.\n\nOrganizátor(i): Trojsten\nhttps://susi.t
+ rojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie veľkej nápovedy 2. kola zimnej časti
+DTSTART;VALUE=DATE:20231106
+DTSTAMP;VALUE=DATE-TIME:20231105T230000Z
+UID:b899f1f588579585892dc21919f6fe4300569cc6@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada "veľkých" nápovied k jednotl
+ ivým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať 
+ za 5 bodov až do skončenia kola.\n\nOrganizátor(i): Trojsten\nhttps://s
+ usi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie Objavného kola letnej časti
+DTSTART;VALUE=DATE:20240422
+DTSTAMP;VALUE=DATE-TIME:20240421T220000Z
+UID:6f14fc3a8cf47082336fe715850ef64f03bb51ec@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada takzvaných "veľkých" nápovi
+ ed ku jednotlivým šifrám. Akonáhle sa tak stane\, za riešenie môžte
+  získať maximálne 5 bodov.\n\nOrganizátor(i): Trojsten\nhttps://susi.t
+ rojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Koniec Objavného kola letnej časti
+DTSTART;VALUE=DATE:20240603
+DTSTAMP;VALUE=DATE-TIME:20240602T220000Z
+UID:9a8bb21d603ea1ca00ea1ad2b0c925eaa8a8f51c@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNa rozdiel od tradičný
+ ch šifrovačiek je Súťaž v Šifrovaní určená pre jednotlivcov. V ob
+ javnom kole riešiš 5 šifier zameraných na špecifickú tému a na str
+ ánku odovzdávaš heslá\, ktoré stránka automaticky opraví.\n\nOrgani
+ zátor(i): Trojsten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie malej nápovedy 1. kola zimnej časti
+DTSTART;VALUE=DATE:20231002
+DTSTAMP;VALUE=DATE-TIME:20231001T220000Z
+UID:090b1e88d2f435f4537cf4f5aaf1f7c998848d6d@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nDva týždne pred koncom
+  kola sa na stránke zverejní prvá sada "malých" nápovied k jednotliv
+ ým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať za
+  7 bodov až do zverejnenia veľkých nápovied.\n\nOrganizátor(i): Trojs
+ ten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie veľkej nápovedy 2. kola letnej časti
+DTSTART;VALUE=DATE:20240506
+DTSTAMP;VALUE=DATE-TIME:20240505T220000Z
+UID:1b21da0957f04fcde5dd2fcdc52886226981151e@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada "veľkých" nápovied k jednotl
+ ivým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať 
+ za 5 bodov až do skončenia kola.\n\nOrganizátor(i): Trojsten\nhttps://s
+ usi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie malej nápovedy 2. kola letnej časti
+DTSTART;VALUE=DATE:20240429
+DTSTAMP;VALUE=DATE-TIME:20240428T220000Z
+UID:c668ffd88cb9c66853cc45b0207cea84cb968d46@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nDva týždne pred koncom
+  kola sa na stránke zverejní prvá sada "malých" nápovied k jednotliv
+ ým šifrám. Po tomto termíne môžeš riešenia šifier odovzdávať za
+  7 bodov až do zverejnenia veľkých nápovied.\n\nOrganizátor(i): Trojs
+ ten\nhttps://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Zverejnenie 1. kola letnej časti
+DTSTART;VALUE=DATE:20240304
+DTSTAMP;VALUE=DATE-TIME:20240303T230000Z
+UID:e63a2d28858585561cb2dc3b34f50d8134832835@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nTýždeň pred koncom ko
+ la sa na stránke zverejní aj druhá sada takzvaných "veľkých" nápovi
+ ed ku jednotlivým šifrám. Akonáhle sa tak stane\, za riešenie môžte
+  získať maximálne 5 bodov.\n\nOrganizátor(i): Trojsten\nhttps://susi.t
+ rojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suši – Koniec 2. kola letnej časti
+DTSTART;VALUE=DATE:20240513
+DTSTAMP;VALUE=DATE-TIME:20240512T220000Z
+UID:ecc30a76b7965f6872965f46765b3aacf56ab77f@kockatykalendar.sk
+DESCRIPTION:seminár | iné | SŠ 1 a starší\n\nNa rozdiel od tradičný
+ ch šifrovačiek je Súťaž v Šifrovaní určená jednotlivcom. Podľa s
+ kúseností riešiš šifry v kategórií Agát\, Blýskavica alebo Cífer
+ ský cech. V každom kole riešiš 5 šifier a na stránku odovzdávaš he
+ slá\, ktoré stránka automaticky opraví.\n\nOrganizátor(i): Trojsten\n
+ https://susi.trojsten.sk/
+URL:https://susi.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20230923
+DTSTAMP;VALUE=DATE-TIME:20230922T220000Z
+UID:2ebafc7cf55273634b619bf5572616c790a3ea31@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): Strom\nh
+ ttps://kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+END:VCALENDAR

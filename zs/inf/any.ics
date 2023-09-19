@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:KSP - Z1 - Deadline odovzdávania série
+DTSTART;VALUE=DATE:20231022
+DTSTAMP;VALUE=DATE-TIME:20231021T220000Z
+UID:a5512a6f24329ca0c5295d0c3ba85e2c707f2a0c@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategória Z je určená 
+ začiatočníkom\, ktorí sa chcú naučiť programovať. Počas roka preb
+ ieha 5 sérií - každá obsahuje zvyčajne tri praktické a jednu teoreti
+ ckú úlohu. Termín odovzdávania úloh je tradične 32:00 (8:00 ráno ď
+ alšieho dňa).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.cz/z/u
+ lohy/36/zadani1.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/36/zadani1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z1 - Deadline odovzdávania praktických úloh za tretinu bo
+ dov
+DTSTART;VALUE=DATE:20231029
+DTSTAMP;VALUE=DATE-TIME:20231028T220000Z
+UID:eff40cf69cba660e9f18f60b11a4bebfdb1484a0@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategória Z je určená 
+ začiatočníkom\, ktorí sa chcú naučiť programovať. Počas roka preb
+ ieha 5 sérií - každá obsahuje zvyčajne tri praktické a jednu teoreti
+ ckú úlohu. Termín odovzdávania úloh je tradične 32:00 (8:00 ráno ď
+ alšieho dňa).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.cz/z/u
+ lohy/36/zadani1.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/36/zadani1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Jarné sústredenie
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240511
+DTSTAMP;VALUE=DATE-TIME:20240503T220000Z
+UID:54a861b37e0d42ad2ef1472d7fb1851c087fd87c@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | SŠ 4 a mladší\n\nJarné sústredenie j
+ e určené predovšetkým začiatočníkom\, pričom prednosť majú rieš
+ itelia KSP\, no podmienka účasti to nie je! Program je plný zaujímavý
+ ch informatických aj "polnočných" prednášok a zábavných hier. Nech
+ ýba úžasný kolektív a veľa čaju.\n\nOrganizátor(i): ksp-praha\nhtt
+ ps://ksp.mff.cuni.cz/sksp/
+URL:https://ksp.mff.cuni.cz/sksp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRASK sústredenie
+DTSTART;VALUE=DATE:20240316
+DTEND;VALUE=DATE:20240322
+DTSTAMP;VALUE=DATE-TIME:20240315T230000Z
+UID:d4093f1f20d622ae7252c2c2f0c313641a5e884d@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | ZŠ 5 – SŠ 1\n\nje určené pre 36 naj
+ úspešnejších riešiteľov Semináru PRASK. Na sústredení spoznáš k
+ opec skvelých ľudí s podobnými záujmami\, vedúcich\, ktorí opravova
+ li tvoje riešenia\, naučíš sa kopec algoritmov a zažiješ množstvo s
+ kvelých hier.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/akcie/su
+ stredenia/
+URL:https://prask.ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRASK sústredenie
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231117
+DTSTAMP;VALUE=DATE-TIME:20231110T230000Z
+UID:83ff2f430bc43bacb18491b3b3713ae2542e5b39@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | ZŠ 5 – SŠ 1\n\nje určené pre 36 naj
+ úspešnejších riešiteľov Semináru PRASK. Na sústredení spoznáš k
+ opec skvelých ľudí s podobnými záujmami\, vedúcich\, ktorí opravova
+ li tvoje riešenia\, naučíš sa kopec algoritmov a zažiješ množstvo s
+ kvelých hier.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/akcie/su
+ stredenia/
+URL:https://prask.ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robotický Battle na Alejovej
+DTSTART;VALUE=DATE:20240603
+DTSTAMP;VALUE=DATE-TIME:20240602T220000Z
+UID:3c9ea2b199e045df7d5697b94ade3651690bfebb@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 1 – SŠ 4\n\nOrganizátor(i): Strom\nht
+ tps://robotickybattle.sk/
+URL:https://robotickybattle.sk/
+END:VEVENT
+END:VCALENDAR
