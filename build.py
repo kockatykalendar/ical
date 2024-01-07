@@ -43,6 +43,7 @@ LANG = {    # TODO: Sync with frontend
         EventScience.FYZ: "FYZ",
         EventScience.INF: "INF",
         EventScience.OTHER: "iné",
+        EventScience.ANY: "všetky",
     }
 }
 
@@ -64,7 +65,6 @@ if args.data_source:
 else:
     dataset = kkapi.get_current_dataset()
     print(PREFIX_OK, f"Using school year {dataset.school_year} as data source.", file=sys.stderr)
-
 
 # Load JSON data.
 events = kkapi.get_events(dataset)
@@ -112,6 +112,9 @@ def school_filter(args):
 def science_filter(args):
     def filter(event):
         if args == ["any"]:
+            return True
+        
+        if event.sciences == [EventScience.ANY]:
             return True
 
         for science in args:
