@@ -1,3 +1,3 @@
 icalendar~=4.0.7
-pytz~=2020.4
-kockatykalendar[api]
+pytz
+git+https://github.com/kockatykalendar/python
