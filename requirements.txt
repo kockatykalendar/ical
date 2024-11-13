@@ -4,9 +4,15 @@
 #
 #    pip-compile
 #
+certifi==2024.8.30
+    # via requests
+charset-normalizer==3.4.0
+    # via requests
 icalendar==4.0.7
     # via -r requirements.in
-kockatykalendar @ git+https://github.com/kockatykalendar/python
+idna==3.10
+    # via requests
+kockatykalendar[api] @ git+https://github.com/kockatykalendar/python
     # via -r requirements.in
 python-dateutil==2.8.1
     # via icalendar
@@ -14,5 +20,9 @@ pytz==2020.4
     # via
     #   -r requirements.in
     #   icalendar
+requests==2.32.3
+    # via kockatykalendar
 six==1.15.0
     # via python-dateutil
+urllib3==2.2.3
+    # via requests
