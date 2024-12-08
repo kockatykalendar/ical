@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Sezam 1. kolo\, Sezamko 1.kolo\, letná séria
+DTSTART;VALUE=DATE:20250205
+DTSTAMP;VALUE=DATE-TIME:20250204T230000Z
+UID:ad12d8575de518aee1ebe6fc3b58a4ef6826c629@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20250108
+DTSTAMP;VALUE=DATE-TIME:20250107T230000Z
+UID:7afd240cfb34e5a605b973d59da55bae891ecb0b@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 1. kolo\, Sezmko 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20240930
+DTSTAMP;VALUE=DATE-TIME:20240929T220000Z
+UID:c0aff743463dcac0b757c09d51f0e2ddfe738551@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam - zimné sústredenie
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250323
+DTSTAMP;VALUE=DATE-TIME:20250319T230000Z
+UID:2d0bf621fcf49cce82d28e5b570d3d149885ba38@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nht
+ tps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 2. kolo\, Sezamko 2. kolo\, letná séria
+DTSTART;VALUE=DATE:20250317
+DTSTAMP;VALUE=DATE-TIME:20250316T230000Z
+UID:343311002a558d7fad2383a0a258d29d65ca011f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 2. kolo\, Sezamko 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20241111
+DTSTAMP;VALUE=DATE-TIME:20241110T230000Z
+UID:7a58edc5b3cbba4067ca40203d7a16900848d5da@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
+DTSTAMP;VALUE=DATE-TIME:20241206T230000Z
+UID:a07e0f36bd4fc8877992ad5a2d92e8d52efbbcab@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+DTSTAMP;VALUE=DATE-TIME:20250328T230000Z
+UID:5e21f4ecf61142ea43c930c50c1339b4ffcbf454@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezamko - letné sústredenie
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250531
+DTSTAMP;VALUE=DATE-TIME:20250528T220000Z
+UID:538f12ae58f27ff443dec51234b662a4fc055710@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nht
+ tps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezamko - stretnutie riešiteľov
+DTSTART;VALUE=DATE:20241207
+DTSTAMP;VALUE=DATE-TIME:20241206T230000Z
+UID:7732b5cd84ad37f900fdb4549315c0730662b7a4@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): SEZAM\nht
+ tps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam - letný tábor
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250810
+DTSTAMP;VALUE=DATE-TIME:20250731T220000Z
+UID:6829a7dcd1bb4b0c335274e16f99dfb32eb975fa@kockatykalendar.sk
+DESCRIPTION:tábor | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps://
+ sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+DTSTAMP;VALUE=DATE-TIME:20250124T230000Z
+UID:0e033eb6832986e1ce12c9ae81363feb63ae4dc4@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sezam 3. kolo\, letná séria
+DTSTART;VALUE=DATE:20250505
+DTSTAMP;VALUE=DATE-TIME:20250504T220000Z
+UID:26bbd8dc7d5a27f41c5312559becd1a47483d1c4@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nOrganizátor(i): SEZAM\nhttps:
+ //sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+DTSTAMP;VALUE=DATE-TIME:20250523T220000Z
+UID:23be9a825f608682129b309c80f3df67d270a2a4@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+END:VCALENDAR

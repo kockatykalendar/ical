@@ -1,0 +1,349 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:STROM - 1. zimná séria
+DTSTART;VALUE=DATE:20241028
+DTSTAMP;VALUE=DATE-TIME:20241027T230000Z
+UID:1412ad2c0bffde0f46ce8f68111097309b4dba55@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/pris
+ pevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - zimné sústredenie
+DTSTART;VALUE=DATE:20250202
+DTEND;VALUE=DATE:20250207
+DTSTAMP;VALUE=DATE-TIME:20250201T230000Z
+UID:48a15699705489b3283f1a80a6e43a5e4b99e637@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://semin
+ ar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. zimná séria
+DTSTART;VALUE=DATE:20241125
+DTSTAMP;VALUE=DATE-TIME:20241124T230000Z
+UID:83d5533c0c82345785e7121ad86e098570cb1ac9@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/pris
+ pevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košický Matboj
+DTSTART;VALUE=DATE:20241025
+DTSTAMP;VALUE=DATE-TIME:20241024T220000Z
+UID:d65585288dc6141fda27a1070afd691eb4446c74@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nNa Matboji si zasúťažíte v
+   štvorčlenných tímoch v troch 30-minútových kolách. V každom kole
+  obdržíte 12 úloh a odpoveďový hárok\, ktorý sa po ukončení kola 
+ pozbiera a následne oboduje\, teda k úlohám z predchádzajúcich kôl s
+ a vrátiť nedá.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/m
+ atboj/
+URL:https://seminar.strom.sk/sk/matboj/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 1. letná séria
+DTSTART;VALUE=DATE:20250331
+DTSTAMP;VALUE=DATE-TIME:20250330T220000Z
+UID:ab674fa21b46391fa5650dce175f901326b64582@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/pris
+ pevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TMM - Tábor mladých matematikov
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250816
+DTSTAMP;VALUE=DATE-TIME:20250808T220000Z
+UID:fdc44de9e2c5386e5c14076366421eaf45b2366a@kockatykalendar.sk
+DESCRIPTION:tábor | MAT | ZŠ 6 – SŠ 1\n\nOrganizátor(i): Strom\nhttp
+ s://seminar.strom.sk/tmm
+URL:https://seminar.strom.sk/tmm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - jesenné sústredenie
+DTSTART;VALUE=DATE:20240908
+DTEND;VALUE=DATE:20240914
+DTSTAMP;VALUE=DATE-TIME:20240907T220000Z
+UID:eb18f719e9f970c3f83a2b0e82926fbded90fbbc@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://semin
+ ar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. letná séria
+DTSTART;VALUE=DATE:20250428
+DTSTAMP;VALUE=DATE-TIME:20250427T220000Z
+UID:b485ca10d89c888ac3f0695b7225a85f0e3d5356@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/pris
+ pevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letný tábor Trojstenu
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250820
+DTSTAMP;VALUE=DATE-TIME:20250810T220000Z
+UID:e85538117ab26d4d71d5a14f2360960b9b4d8a55@kockatykalendar.sk
+DESCRIPTION:tábor | MAT\, FYZ\, INF | SŠ 1 – 4\n\nNa LTT ťa čaká od
+ borný i neodborný program\, športové aktivity\, voľný čas stráven
+ ý s novými (alebo starými) kamarátmi a málo spánku :) Ak sa cez leto
+  nudíš a niečo z toho ťa oslovilo\, prihlás sa a zaži neopakovateľn
+ é momenty s partiou uletených ľudí.\n\nOrganizátor(i): Trojsten\nhttp
+ s://ltt.trojsten.sk/
+URL:https://ltt.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 2. kolo letnej časti
+DTSTART;VALUE=DATE:20250317
+DTSTAMP;VALUE=DATE-TIME:20250316T230000Z
+UID:96d8b30bf03f05624c442caf50b6d8e770228434@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 2. kolo zimnej časti
+DTSTART;VALUE=DATE:20241104
+DTSTAMP;VALUE=DATE-TIME:20241103T230000Z
+UID:ec55036f0d861962d5072c8a955d12ae4f64b822@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 1. kolo zimnej časti
+DTSTART;VALUE=DATE:20241007
+DTSTAMP;VALUE=DATE-TIME:20241006T220000Z
+UID:3178ba1173b445d4b0281e4e3bcb205b8ee94665@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 3. kolo zimnej časti
+DTSTART;VALUE=DATE:20241202
+DTSTAMP;VALUE=DATE-TIME:20241201T230000Z
+UID:e97e6943472a9f21248728dd73e02cd40aed19bb@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 3. kolo letnej časti
+DTSTART;VALUE=DATE:20250414
+DTSTAMP;VALUE=DATE-TIME:20250413T220000Z
+UID:36f05a22e7eb977b49453a64c4aff1f0c28df84f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS – 1. kolo letnej časti
+DTSTART;VALUE=DATE:20250217
+DTSTAMP;VALUE=DATE-TIME:20250216T230000Z
+UID:67fc7c958ebeebd053193fe170b4079b2f25a6fd@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nBaví ťa matematika? Tak nev
+ áhaj a zapoj sa do Korešpondenčného Matematického Semináru! Ide o in
+ dividuálnu súťaž pozostávajúcu z 10 úloh\, pričom stačí vyrieši
+ ť 5. Vyriešiť úlohu neznamená len nájsť výsledok. Treba aj ukáza
+ ť\, že nájdený výsledok je správny.\n\nOrganizátor(i): Trojsten\nht
+ tps://kms.sk/
+URL:https://kms.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KMS beta sústredenie
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250131
+DTSTAMP;VALUE=DATE-TIME:20250123T230000Z
+UID:92c40f8fc80994898117f049fd9ddc0fb9c95e11@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 2 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://kms.sk/akcie/sustredenia/
+URL:https://kms.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letný tábor Riešok
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250830
+DTSTAMP;VALUE=DATE-TIME:20250820T220000Z
+UID:cf5e43fe6678a88a434f74b41649901cbbc8f28e@kockatykalendar.sk
+DESCRIPTION:tábor | MAT | ZŠ 5 – SŠ 1\n\nLetný tábor Riešok je ur
+ čený pre každého\, koho baví matematika\, a teda nie len pre riešite
+ ľov semináru. Ide o 10 dňový pobyt v blízkosti prírody\, ktorého s
+ účasťou je odborný aj neodborný program vo forme prednášok\, netrad
+ ičných hier a športov.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/n
+ ovinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
+DTSTAMP;VALUE=DATE-TIME:20241206T230000Z
+UID:a07e0f36bd4fc8877992ad5a2d92e8d52efbbcab@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+DTSTAMP;VALUE=DATE-TIME:20250328T230000Z
+UID:5e21f4ecf61142ea43c930c50c1339b4ffcbf454@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+DTSTAMP;VALUE=DATE-TIME:20250124T230000Z
+UID:0e033eb6832986e1ce12c9ae81363feb63ae4dc4@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+DTSTAMP;VALUE=DATE-TIME:20250523T220000Z
+UID:23be9a825f608682129b309c80f3df67d270a2a4@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robocup junior Slovensko
+DTSTART;VALUE=DATE:20250314
+DTSTAMP;VALUE=DATE-TIME:20250313T230000Z
+UID:0d8501d1f3255bf21861050f47ddf765f5ccc05f@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nOrganizátor(i): SSE\nhttps://
+ robocup.skse.sk/
+URL:https://robocup.skse.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematický náboj
+DTSTART;VALUE=DATE:20250314
+DTSTAMP;VALUE=DATE-TIME:20250313T230000Z
+UID:c760a05277fdcc942e773cc7e1cc05078aa0b09b@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nMatematický náboj je medzin
+ árodná súťaž v matematike určená pre 4 alebo 5-členné tímy. Kaž
+ dý tím začína so sadou šiestich úloh\, po každom odovzdaní správn
+ e vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve h
+ odiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\, Strom\nhttps://math
+ .naboj.org/sk/sk
+URL:https://math.naboj.org/sk/sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noc Vedy
+DTSTART;VALUE=DATE:20240927
+DTSTAMP;VALUE=DATE-TIME:20240926T220000Z
+UID:410dbe3e840e1963c9597c11fa1d660b38d81f60@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT\, FYZ\, INF | ktokoľvek\n\nKaždoročne
+  Ťa čaká celý deň plný prednášok a stánkov s rôznymi experimentm
+ i a ukážkami z oblasti vedy a techniky. Vstup je voľný a každý si pr
+ íde na svoje. V Bratislave sa môžte tešiť na stánky od vašich obľ
+ úbených organizácii Trojsten\, Riešky\, či P-mat.\n\nOrganizátor(i):
+  sovva\nhttps://nocvedy.sk/
+URL:https://nocvedy.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klub Trojstenu
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+DTSTAMP;VALUE=DATE-TIME:20241114T230000Z
+UID:a0757d05903440884dc80da9d20a597d07ab212d@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKlub je polofor
+ málna\, polooficálna akcia\, koná sa po väčších akciách Trojstenu\
+ , snažíme sa utužiť kolektív riešiteľov a popri tom pribrať novýc
+ h ľudí do našej partie. Neváhaj a pripoj sa k nám (agitačné reči 
+ – „Come to the dark side - we have cookies!“).\n\nOrganizátor(i): T
+ rojsten\nhttps://forms.gle/sWm5snGCwu3MGw1X9
+URL:https://forms.gle/sWm5snGCwu3MGw1X9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klub Trojstenu
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+DTSTAMP;VALUE=DATE-TIME:20241212T230000Z
+UID:f707274729e7e2769570e20161685685c6b12e31@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKlub je polofor
+ málna\, polooficálna akcia\, koná sa po väčších akciách Trojstenu\
+ , snažíme sa utužiť kolektív riešiteľov a popri tom pribrať novýc
+ h ľudí do našej partie. Neváhaj a pripoj sa k nám (agitačné reči 
+ – „Come to the dark side - we have cookies!“).\n\nOrganizátor(i): T
+ rojsten\nhttps://klub.trojsten.sk/
+URL:https://klub.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akadémia Trojstenu
+DTSTART;VALUE=DATE:20241213
+DTSTAMP;VALUE=DATE-TIME:20241212T230000Z
+UID:089cf40a9a02dda262b40b4073894d2224dd9210@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKaždoročne Ť
+ a čaká 6 prednášok\, v ktorých populárnym a pochopiteľným spôsobo
+ m naši prednášajúci priblížia zaujímavé oblasti zo svojich vednýc
+ h disciplín. Akadémia je určená všetkým vzdelania a zábavy chtivým
+  poslucháčom.\n\nOrganizátor(i): Trojsten\nhttps://akademia.trojsten.sk
+ /
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letná škola matematiky
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250725
+DTSTAMP;VALUE=DATE-TIME:20250713T220000Z
+UID:240c6a36b3b28138ea0432b6e1cb6a360f1e9aac@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\n
+ https://leto.trojsten.sk/
+URL:https://leto.trojsten.sk/
+END:VEVENT
+END:VCALENDAR

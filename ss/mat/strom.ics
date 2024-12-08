@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:STROM - 1. zimná séria
+DTSTART;VALUE=DATE:20241028
+DTSTAMP;VALUE=DATE-TIME:20241027T230000Z
+UID:1412ad2c0bffde0f46ce8f68111097309b4dba55@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/pris
+ pevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - zimné sústredenie
+DTSTART;VALUE=DATE:20250202
+DTEND;VALUE=DATE:20250207
+DTSTAMP;VALUE=DATE-TIME:20250201T230000Z
+UID:48a15699705489b3283f1a80a6e43a5e4b99e637@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://semin
+ ar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. zimná séria
+DTSTART;VALUE=DATE:20241125
+DTSTAMP;VALUE=DATE-TIME:20241124T230000Z
+UID:83d5533c0c82345785e7121ad86e098570cb1ac9@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/pris
+ pevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košický Matboj
+DTSTART;VALUE=DATE:20241025
+DTSTAMP;VALUE=DATE-TIME:20241024T220000Z
+UID:d65585288dc6141fda27a1070afd691eb4446c74@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nNa Matboji si zasúťažíte v
+   štvorčlenných tímoch v troch 30-minútových kolách. V každom kole
+  obdržíte 12 úloh a odpoveďový hárok\, ktorý sa po ukončení kola 
+ pozbiera a následne oboduje\, teda k úlohám z predchádzajúcich kôl s
+ a vrátiť nedá.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/m
+ atboj/
+URL:https://seminar.strom.sk/sk/matboj/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 1. letná séria
+DTSTART;VALUE=DATE:20250331
+DTSTAMP;VALUE=DATE-TIME:20250330T220000Z
+UID:ab674fa21b46391fa5650dce175f901326b64582@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/pris
+ pevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TMM - Tábor mladých matematikov
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250816
+DTSTAMP;VALUE=DATE-TIME:20250808T220000Z
+UID:fdc44de9e2c5386e5c14076366421eaf45b2366a@kockatykalendar.sk
+DESCRIPTION:tábor | MAT | ZŠ 6 – SŠ 1\n\nOrganizátor(i): Strom\nhttp
+ s://seminar.strom.sk/tmm
+URL:https://seminar.strom.sk/tmm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - jesenné sústredenie
+DTSTART;VALUE=DATE:20240908
+DTEND;VALUE=DATE:20240914
+DTSTAMP;VALUE=DATE-TIME:20240907T220000Z
+UID:eb18f719e9f970c3f83a2b0e82926fbded90fbbc@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://semin
+ ar.strom.sk/sk/prispevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. letná séria
+DTSTART;VALUE=DATE:20250428
+DTSTAMP;VALUE=DATE-TIME:20250427T220000Z
+UID:b485ca10d89c888ac3f0695b7225a85f0e3d5356@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://seminar.strom.sk/sk/pris
+ pevky/
+URL:https://seminar.strom.sk/sk/prispevky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematický náboj
+DTSTART;VALUE=DATE:20250314
+DTSTAMP;VALUE=DATE-TIME:20250313T230000Z
+UID:c760a05277fdcc942e773cc7e1cc05078aa0b09b@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nMatematický náboj je medzin
+ árodná súťaž v matematike určená pre 4 alebo 5-členné tímy. Kaž
+ dý tím začína so sadou šiestich úloh\, po každom odovzdaní správn
+ e vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve h
+ odiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\, Strom\nhttps://math
+ .naboj.org/sk/sk
+URL:https://math.naboj.org/sk/sk
+END:VEVENT
+END:VCALENDAR

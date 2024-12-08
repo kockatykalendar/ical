@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20240928
+DTSTAMP;VALUE=DATE-TIME:20240927T220000Z
+UID:48a577ac2c36ddf46145b0fd44d15942d66a5de4@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nDo Košickej šifrovačky
+  sa môžete zapojiť v najviac päťčlenných tímoch\, a to buď v ter
+ éne alebo online. V oboch verziách sú 2 kategórie - začiatočníci a 
+ pokročilí. Hra je lineárna\, teda s tímom budete postupne prechádzať
+  10 šiframi v čase od 9:00 do 20:30.\n\nOrganizátor(i): Strom\nhttps://
+ kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terabio 1.séria
+DTSTART;VALUE=DATE:20241014
+DTSTAMP;VALUE=DATE-TIME:20241013T220000Z
+UID:973f45d7ad20bdb66a84ac06c550e98bda99074b@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps
+ ://terabio.sk
+URL:https://terabio.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terabio 2.séria
+DTSTART;VALUE=DATE:20241125
+DTSTAMP;VALUE=DATE-TIME:20241124T230000Z
+UID:37db6309f3760759194796069c6d99ea83dbd1b4@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps
+ ://terabio.sk
+URL:https://terabio.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20240924
+DTSTAMP;VALUE=DATE-TIME:20240923T220000Z
+UID:9271f1a19228b92e294ae9e428f7ca56520ea4f6@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, iné | ZŠ 5 – 9\n\nAttoved je indivi
+ duálna súťaž z prírodných vied. Na súťažiacich čakajú vedomostn
+ é a experimentálne úlohy z biológie\, fyziky a chémie. Okrem tých sa
+  stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomosti a lo
+ gické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:p-mat roadtrip
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240920
+DTSTAMP;VALUE=DATE-TIME:20240908T220000Z
+UID:b1f4d682aa2721c5f124e18611b40673d9d81643@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, iné | ZŠ 5 – 9\n\nPôjdeme do š
+ kôl predašať zaujímavé hodiny z matematiky a prírodných vied. Okrem
+  toho si budete môcť zahrať v svojom meste hru\, akú robievame na naš
+ ich sústredeniach a dozvedieť sa niečo viac o P-mate.\n\nOrganizátor(i
+ ): P-mat\nhttps://akcie.p-mat.sk/2024/08/p-mat-roadtrip-2024/
+URL:https://akcie.p-mat.sk/2024/08/p-mat-roadtrip-2024/
+END:VEVENT
+END:VCALENDAR
