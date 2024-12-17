@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Zenit krajské kolo - web developer
+DTSTART;VALUE=DATE:20241121
+DTSTAMP;VALUE=DATE-TIME:20241120T230000Z
+UID:43d1bddea73d3e784d64a1111146dfa2695f6e9b@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): ŠIOV\nhttps:
+ //zenit-web.ksp.sk/
+URL:https://zenit-web.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit celoštátne kolo
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250320
+DTSTAMP;VALUE=DATE-TIME:20250316T230000Z
+UID:a82f84c57651c9916e7c85ec3918bec013f2750d@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nOrganizátor(i): ŠIOV\nhttps:
+ //zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit krajské kolo - programovanie
+DTSTART;VALUE=DATE:20241122
+DTSTAMP;VALUE=DATE-TIME:20241121T230000Z
+UID:f432f6b2dd85d358342a3dea16c08c2b929909e2@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit v programovaní je postu
+ pová súťaž v programovaní algoritmických úloh. Každé kolo trvá 4
+  hodiny a má približne 10 úloh od úplne lahkých až po ťažké. Rie
+ šenie pozostáva z funkčného programu\, ktorý sa ihneď automaticky te
+ stuje.\n\nOrganizátor(i): ŠIOV\nhttps://zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit školské kolo - programovanie
+DTSTART;VALUE=DATE:20241017
+DTSTAMP;VALUE=DATE-TIME:20241016T220000Z
+UID:ac7fb0ebf3cc21da6582742df4139a535588d19f@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit v programovaní je postu
+ pová súťaž v programovaní algoritmických úloh. Každé kolo trvá 4
+  hodiny a má približne 10 úloh od úplne lahkých až po ťažké. Rie
+ šenie pozostáva z funkčného programu\, ktorý sa ihneď automaticky te
+ stuje.\n\nOrganizátor(i): ŠIOV\nhttps://zenit.ksp.sk/
+URL:https://zenit.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zenit školské kolo - web developer
+DTSTART;VALUE=DATE:20241018
+DTSTAMP;VALUE=DATE-TIME:20241017T220000Z
+UID:0e3a5161ebeee58e3fea56a3a96fc3683800fe0e@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nZenit web developer je postupo
+ vá súťaž v tvorbe webových stránok. Každé kolo trvá 4 hodiny a m
+ á približne 10 úloh od úplne lahkých až po ťažké. Riešenie pozos
+ táva z HTML súboru\, ktorý sa ihneď automaticky testuje.\n\nOrganizát
+ or(i): ŠIOV\nhttps://webdeveloper.zenit.ksp.sk/
+URL:https://webdeveloper.zenit.ksp.sk/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikomatu mladších
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250215
+DTSTAMP;VALUE=DATE-TIME:20250209T230000Z
+UID:30447ae6664419530c90968aff863d6546475455@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20250224
+DTSTAMP;VALUE=DATE-TIME:20250223T230000Z
+UID:55bba154a8ada2efcf7b3fc945fb5665ab5cb7ea@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241020
+DTSTAMP;VALUE=DATE-TIME:20241017T220000Z
+UID:40aa012977b37cd74e96b3079c4d3b4dd60badad@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-ma
+ t\nhttps://akcie.p-mat.sk/kockaty-vikend/
+URL:https://akcie.p-mat.sk/kockaty-vikend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20250505
+DTSTAMP;VALUE=DATE-TIME:20250504T220000Z
+UID:4c62ecb238130e6665fd8f38082cfd1d921d99f5@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250215
+DTSTAMP;VALUE=DATE-TIME:20250209T230000Z
+UID:9e7c2beb79a66953201437f4751ccefe6ba039b2@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 3.séria
+DTSTART;VALUE=DATE:20241202
+DTSTAMP;VALUE=DATE-TIME:20241201T230000Z
+UID:be1ec6a62c2007263b0e1fb11156d2d1e8361df5@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 1.séria
+DTSTART;VALUE=DATE:20250224
+DTSTAMP;VALUE=DATE-TIME:20250223T230000Z
+UID:eb9e7580bdb735a6163ff47dee3d3f62ab0d079f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20241028
+DTSTAMP;VALUE=DATE-TIME:20241027T230000Z
+UID:0978dc30aca2f00a1226e52656421a31db484528@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20241202
+DTSTAMP;VALUE=DATE-TIME:20241201T230000Z
+UID:7c7b7f25a0c6fbec8e93f4ed2bd1d8a1fffe42f2@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Pikomatu starších
+DTSTART;VALUE=DATE:20250629
+DTEND;VALUE=DATE:20250706
+DTSTAMP;VALUE=DATE-TIME:20250628T220000Z
+UID:8d87fbe907f76ebfe5803b280bd11c131a5c7946@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk//
+URL:https://pikomat.sk//
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250427
+DTSTAMP;VALUE=DATE-TIME:20250424T220000Z
+UID:520b2e5e026c00dced1e4d367023a18e0728b54b@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-ma
+ t\nhttps://akcie.p-mat.sk/kockaty-vikend/
+URL:https://akcie.p-mat.sk/kockaty-vikend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné Pikomat mladší sústredenie
+DTSTART;VALUE=DATE:20250706
+DTEND;VALUE=DATE:20250711
+DTSTAMP;VALUE=DATE-TIME:20250705T220000Z
+UID:281c9f36bf616085488b4eba2a94fa78876edc7c@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 2.séria
+DTSTART;VALUE=DATE:20241028
+DTSTAMP;VALUE=DATE-TIME:20241027T230000Z
+UID:c5bfef841b1f3d4129ec03a6d1d82be832d037c3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 3.séria
+DTSTART;VALUE=DATE:20250505
+DTSTAMP;VALUE=DATE-TIME:20250504T220000Z
+UID:515b915ec3bb642e4b6cc931fa64d9b17be355c4@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20250706
+DTEND;VALUE=DATE:20250713
+DTSTAMP;VALUE=DATE-TIME:20250705T220000Z
+UID:9730eb42c1d63f4a4cc798225a5e2a721889e924@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20240930
+DTSTAMP;VALUE=DATE-TIME:20240929T220000Z
+UID:1d2382d746af8e34114c2beb986259cdf690257a@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terabio 1.séria
+DTSTART;VALUE=DATE:20241014
+DTSTAMP;VALUE=DATE-TIME:20241013T220000Z
+UID:973f45d7ad20bdb66a84ac06c550e98bda99074b@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps
+ ://terabio.sk
+URL:https://terabio.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 1.séria
+DTSTART;VALUE=DATE:20240930
+DTSTAMP;VALUE=DATE-TIME:20240929T220000Z
+UID:85870ab0f712c9e9b7eea9f42eaad4790bccb227@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikomatu starších
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250208
+DTSTAMP;VALUE=DATE-TIME:20250202T230000Z
+UID:434fa2b33c6c5e70340ee616de80c7a00410f9e1@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terabio 2.séria
+DTSTART;VALUE=DATE:20241125
+DTSTAMP;VALUE=DATE-TIME:20241124T230000Z
+UID:37db6309f3760759194796069c6d99ea83dbd1b4@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps
+ ://terabio.sk
+URL:https://terabio.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 2.séria
+DTSTART;VALUE=DATE:20250331
+DTSTAMP;VALUE=DATE-TIME:20250330T220000Z
+UID:143655519b8ba5e6f5fb8277f73cf6d05df5a937@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20250331
+DTSTAMP;VALUE=DATE-TIME:20250330T220000Z
+UID:643dfd4f1f2550d5fb32214c4b19c6e01c8f0056@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20240924
+DTSTAMP;VALUE=DATE-TIME:20240923T220000Z
+UID:9271f1a19228b92e294ae9e428f7ca56520ea4f6@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, iné | ZŠ 5 – 9\n\nAttoved je indivi
+ duálna súťaž z prírodných vied. Na súťažiacich čakajú vedomostn
+ é a experimentálne úlohy z biológie\, fyziky a chémie. Okrem tých sa
+  stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomosti a lo
+ gické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attomat
+DTSTART;VALUE=DATE:20240917
+DTSTAMP;VALUE=DATE-TIME:20240916T220000Z
+UID:0c4254cdb57897f044a5555b18cef8b3c0d79de3@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 5 – 9\n\nAttomat je online individuáln
+ a matematická súťaž. Súťaž je určená hlavne pre žiakov 7.-9. ro
+ čníka ZŠ\, resp. sekundu až kvartu OG. Môžete sa zapojiť aj v kateg
+ órii OPEN\, ktorá je určená pre každého\, kto rád rieši zaujímav
+ é matematické úlohy.\n\nOrganizátor(i): P-mat\nhttps://akcie.p-mat.sk/
+ attomat/
+URL:https://akcie.p-mat.sk/attomat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:p-mat roadtrip
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240920
+DTSTAMP;VALUE=DATE-TIME:20240908T220000Z
+UID:b1f4d682aa2721c5f124e18611b40673d9d81643@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, iné | ZŠ 5 – 9\n\nPôjdeme do š
+ kôl predašať zaujímavé hodiny z matematiky a prírodných vied. Okrem
+  toho si budete môcť zahrať v svojom meste hru\, akú robievame na naš
+ ich sústredeniach a dozvedieť sa niečo viac o P-mate.\n\nOrganizátor(i
+ ): P-mat\nhttps://akcie.p-mat.sk/2024/08/p-mat-roadtrip-2024/
+URL:https://akcie.p-mat.sk/2024/08/p-mat-roadtrip-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Náboj Junior
+DTSTART;VALUE=DATE:20241122
+DTSTAMP;VALUE=DATE-TIME:20241121T230000Z
+UID:aba5d247648158dcb46b810910387e82ac0923fc@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, MAT | ZŠ 8 – 9\n\nNáboj Junior je medzin
+ árodná súťaž v matematike a fyzike určená pre 4-členné tímy. Ka
+ ždý tím začína so sadou šiestich úloh\, po každom odovzdaní sprá
+ vne vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve
+  hodiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\nhttps://junior.nab
+ oj.org/sk/sk
+URL:https://junior.naboj.org/sk/sk
+END:VEVENT
+END:VCALENDAR

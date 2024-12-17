@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
+DTSTAMP;VALUE=DATE-TIME:20241206T230000Z
+UID:a07e0f36bd4fc8877992ad5a2d92e8d52efbbcab@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+DTSTAMP;VALUE=DATE-TIME:20250328T230000Z
+UID:5e21f4ecf61142ea43c930c50c1339b4ffcbf454@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+DTSTAMP;VALUE=DATE-TIME:20250124T230000Z
+UID:0e033eb6832986e1ce12c9ae81363feb63ae4dc4@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+DTSTAMP;VALUE=DATE-TIME:20250523T220000Z
+UID:23be9a825f608682129b309c80f3df67d270a2a4@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+END:VCALENDAR

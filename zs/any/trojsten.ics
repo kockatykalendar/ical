@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:PRASK – 2. kolo letnej časti
+DTSTART;VALUE=DATE:20250317
+DTSTAMP;VALUE=DATE-TIME:20250316T230000Z
+UID:ca3c3ea704e54e70deec753e4910bbe366b65755@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 7 – SŠ 1\n\nPRASK je súťaž určená
+  pre všetkých základoškolákov\, ktorých zaujíma matematika\, inform
+ atika\, chceli by sa naučiť programovať\, alebo len radi rozmýšľajú
+  a prijímajú výzvy.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/
+URL:https://prask.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRASK sústredenie
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241130
+DTSTAMP;VALUE=DATE-TIME:20241122T230000Z
+UID:41e1cfe68501a698cddb1f26203d28e14b5d858d@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | ZŠ 5 – SŠ 1\n\nje určené pre 36 naj
+ úspešnejších riešiteľov Semináru PRASK. Na sústredení spoznáš k
+ opec skvelých ľudí s podobnými záujmami\, vedúcich\, ktorí opravova
+ li tvoje riešenia\, naučíš sa kopec algoritmov a zažiješ množstvo s
+ kvelých hier.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/akcie/su
+ stredenia/
+URL:https://prask.ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRASK – 2. kolo zimnej časti
+DTSTART;VALUE=DATE:20241104
+DTSTAMP;VALUE=DATE-TIME:20241103T230000Z
+UID:7cd0a8c877f930cead3110908a8eb0602aa59d73@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 7 – SŠ 1\n\nPRASK je súťaž určená
+  pre všetkých základoškolákov\, ktorých zaujíma matematika\, inform
+ atika\, chceli by sa naučiť programovať\, alebo len radi rozmýšľajú
+  a prijímajú výzvy.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/
+URL:https://prask.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRASK – 1. kolo zimnej časti
+DTSTART;VALUE=DATE:20241021
+DTSTAMP;VALUE=DATE-TIME:20241020T220000Z
+UID:d2b65eed736d1bff2575d0c785e5925dbf8a72a2@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 7 – SŠ 1\n\nPRASK je súťaž určená
+  pre všetkých základoškolákov\, ktorých zaujíma matematika\, inform
+ atika\, chceli by sa naučiť programovať\, alebo len radi rozmýšľajú
+  a prijímajú výzvy.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/
+URL:https://prask.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRASK sústredenie
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250516
+DTSTAMP;VALUE=DATE-TIME:20250509T220000Z
+UID:2a76c4348bfd0d73b5b517b9d2bb466d676a44c7@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | ZŠ 5 – SŠ 1\n\nje určené pre 36 naj
+ úspešnejších riešiteľov Semináru PRASK. Na sústredení spoznáš k
+ opec skvelých ľudí s podobnými záujmami\, vedúcich\, ktorí opravova
+ li tvoje riešenia\, naučíš sa kopec algoritmov a zažiješ množstvo s
+ kvelých hier.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/akcie/su
+ stredenia/
+URL:https://prask.ksp.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRASK – 1. kolo letnej časti
+DTSTART;VALUE=DATE:20250217
+DTSTAMP;VALUE=DATE-TIME:20250216T230000Z
+UID:97aa52b8399547e88a7546a0b4da2272c5651a84@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 7 – SŠ 1\n\nPRASK je súťaž určená
+  pre všetkých základoškolákov\, ktorých zaujíma matematika\, inform
+ atika\, chceli by sa naučiť programovať\, alebo len radi rozmýšľajú
+  a prijímajú výzvy.\n\nOrganizátor(i): Trojsten\nhttps://prask.ksp.sk/
+URL:https://prask.ksp.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Náboj Junior
+DTSTART;VALUE=DATE:20241122
+DTSTAMP;VALUE=DATE-TIME:20241121T230000Z
+UID:aba5d247648158dcb46b810910387e82ac0923fc@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, MAT | ZŠ 8 – 9\n\nNáboj Junior je medzin
+ árodná súťaž v matematike a fyzike určená pre 4-členné tímy. Ka
+ ždý tím začína so sadou šiestich úloh\, po každom odovzdaní sprá
+ vne vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve
+  hodiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\nhttps://junior.nab
+ oj.org/sk/sk
+URL:https://junior.naboj.org/sk/sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letná škola programovania
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250718
+DTSTAMP;VALUE=DATE-TIME:20250706T220000Z
+UID:b63eb487b231d4a77e0aa0ca5b07d8c48b594947@kockatykalendar.sk
+DESCRIPTION:prednášky | INF | ZŠ 7 – SŠ 4\n\nOrganizátor(i): Trojst
+ en\nhttps://leto.trojsten.sk/
+URL:https://leto.trojsten.sk/
+END:VEVENT
+END:VCALENDAR

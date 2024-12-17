@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Letný tábor Trojstenu
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250820
+DTSTAMP;VALUE=DATE-TIME:20250810T220000Z
+UID:e85538117ab26d4d71d5a14f2360960b9b4d8a55@kockatykalendar.sk
+DESCRIPTION:tábor | MAT\, FYZ\, INF | SŠ 1 – 4\n\nNa LTT ťa čaká od
+ borný i neodborný program\, športové aktivity\, voľný čas stráven
+ ý s novými (alebo starými) kamarátmi a málo spánku :) Ak sa cez leto
+  nudíš a niečo z toho ťa oslovilo\, prihlás sa a zaži neopakovateľn
+ é momenty s partiou uletených ľudí.\n\nOrganizátor(i): Trojsten\nhttp
+ s://ltt.trojsten.sk/
+URL:https://ltt.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS – 2. kolo letnej časti
+DTSTART;VALUE=DATE:20250421
+DTSTAMP;VALUE=DATE-TIME:20250420T220000Z
+UID:42ddbe4058b4ae3fe6f33a4bfe6bfac48a41d750@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS – 2. kolo zimnej časti
+DTSTART;VALUE=DATE:20241111
+DTSTAMP;VALUE=DATE-TIME:20241110T230000Z
+UID:a47d394889e525e2352dd3079650b6a62fe62ad0@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS – 1. kolo zimnej časti
+DTSTART;VALUE=DATE:20241014
+DTSTAMP;VALUE=DATE-TIME:20241013T220000Z
+UID:4b1cddc7e7d01d43b09d5991a627662cd6e0322c@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS – 3. kolo zimnej časti
+DTSTART;VALUE=DATE:20241209
+DTSTAMP;VALUE=DATE-TIME:20241208T230000Z
+UID:aeed267dfebd6ae8c90f764282df1ccdd40dfb46@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS sústredenie
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250208
+DTSTAMP;VALUE=DATE-TIME:20250131T230000Z
+UID:7f1978760fe590e63a7814829ce006283c875335@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS – 3. kolo letnej časti
+DTSTART;VALUE=DATE:20250519
+DTSTAMP;VALUE=DATE-TIME:20250518T220000Z
+UID:89e79a8df21d6165a1f4e074e29f8cb4f775c12d@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS sústredenie
+DTSTART;VALUE=DATE:20250622
+DTEND;VALUE=DATE:20250629
+DTSTAMP;VALUE=DATE-TIME:20250621T220000Z
+UID:911b143f109f1530a12ea6e61ff936913ebda9b4@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS – 1. kolo letnej časti
+DTSTART;VALUE=DATE:20250324
+DTSTAMP;VALUE=DATE-TIME:20250323T230000Z
+UID:3d59dd1bcd9e6c2f91a8faca12a57d60a8fd0796@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálny Náboj
+DTSTART;VALUE=DATE:20241115
+DTSTAMP;VALUE=DATE-TIME:20241114T230000Z
+UID:5a6cbd4f0247f48e88e576297650e6322bfe207b@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nFyzikálny Náboj je medzinár
+ odná súťaž päťčlenných tímov v rýchlostnom riešení fyzikálnyc
+ h úloh. Každý tím začína so sadou ôsmich úloh\, po každom odovzda
+ ní správne vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý i
+ ch za dve hodiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\nhttps://p
+ hysics.naboj.org/sk/sk
+URL:https://physics.naboj.org/sk/sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Náboj Junior
+DTSTART;VALUE=DATE:20241122
+DTSTAMP;VALUE=DATE-TIME:20241121T230000Z
+UID:aba5d247648158dcb46b810910387e82ac0923fc@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, MAT | ZŠ 8 – 9\n\nNáboj Junior je medzin
+ árodná súťaž v matematike a fyzike určená pre 4-členné tímy. Ka
+ ždý tím začína so sadou šiestich úloh\, po každom odovzdaní sprá
+ vne vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý ich za dve
+  hodiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\nhttps://junior.nab
+ oj.org/sk/sk
+URL:https://junior.naboj.org/sk/sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klub Trojstenu
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+DTSTAMP;VALUE=DATE-TIME:20241114T230000Z
+UID:a0757d05903440884dc80da9d20a597d07ab212d@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKlub je polofor
+ málna\, polooficálna akcia\, koná sa po väčších akciách Trojstenu\
+ , snažíme sa utužiť kolektív riešiteľov a popri tom pribrať novýc
+ h ľudí do našej partie. Neváhaj a pripoj sa k nám (agitačné reči 
+ – „Come to the dark side - we have cookies!“).\n\nOrganizátor(i): T
+ rojsten\nhttps://forms.gle/sWm5snGCwu3MGw1X9
+URL:https://forms.gle/sWm5snGCwu3MGw1X9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letná škola fyziky
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250801
+DTSTAMP;VALUE=DATE-TIME:20250720T220000Z
+UID:58e40ece6ae5850f3054ce257f3ead90a0e4022b@kockatykalendar.sk
+DESCRIPTION:prednášky | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\n
+ https://leto.trojsten.sk/
+URL:https://leto.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klub Trojstenu
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+DTSTAMP;VALUE=DATE-TIME:20241212T230000Z
+UID:f707274729e7e2769570e20161685685c6b12e31@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKlub je polofor
+ málna\, polooficálna akcia\, koná sa po väčších akciách Trojstenu\
+ , snažíme sa utužiť kolektív riešiteľov a popri tom pribrať novýc
+ h ľudí do našej partie. Neváhaj a pripoj sa k nám (agitačné reči 
+ – „Come to the dark side - we have cookies!“).\n\nOrganizátor(i): T
+ rojsten\nhttps://klub.trojsten.sk/
+URL:https://klub.trojsten.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akadémia Trojstenu
+DTSTART;VALUE=DATE:20241213
+DTSTAMP;VALUE=DATE-TIME:20241212T230000Z
+UID:089cf40a9a02dda262b40b4073894d2224dd9210@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, INF | SŠ 1 – 4\n\nKaždoročne Ť
+ a čaká 6 prednášok\, v ktorých populárnym a pochopiteľným spôsobo
+ m naši prednášajúci priblížia zaujímavé oblasti zo svojich vednýc
+ h disciplín. Akadémia je určená všetkým vzdelania a zábavy chtivým
+  poslucháčom.\n\nOrganizátor(i): Trojsten\nhttps://akademia.trojsten.sk
+ /
+URL:https://akademia.trojsten.sk/
+END:VEVENT
+END:VCALENDAR

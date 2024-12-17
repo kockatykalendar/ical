@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20250224
+DTSTAMP;VALUE=DATE-TIME:20250223T230000Z
+UID:55bba154a8ada2efcf7b3fc945fb5665ab5cb7ea@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241020
+DTSTAMP;VALUE=DATE-TIME:20241017T220000Z
+UID:40aa012977b37cd74e96b3079c4d3b4dd60badad@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-ma
+ t\nhttps://akcie.p-mat.sk/kockaty-vikend/
+URL:https://akcie.p-mat.sk/kockaty-vikend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20250505
+DTSTAMP;VALUE=DATE-TIME:20250504T220000Z
+UID:4c62ecb238130e6665fd8f38082cfd1d921d99f5@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250215
+DTSTAMP;VALUE=DATE-TIME:20250209T230000Z
+UID:9e7c2beb79a66953201437f4751ccefe6ba039b2@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20241028
+DTSTAMP;VALUE=DATE-TIME:20241027T230000Z
+UID:0978dc30aca2f00a1226e52656421a31db484528@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20241202
+DTSTAMP;VALUE=DATE-TIME:20241201T230000Z
+UID:7c7b7f25a0c6fbec8e93f4ed2bd1d8a1fffe42f2@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250427
+DTSTAMP;VALUE=DATE-TIME:20250424T220000Z
+UID:520b2e5e026c00dced1e4d367023a18e0728b54b@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-ma
+ t\nhttps://akcie.p-mat.sk/kockaty-vikend/
+URL:https://akcie.p-mat.sk/kockaty-vikend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20250706
+DTEND;VALUE=DATE:20250713
+DTSTAMP;VALUE=DATE-TIME:20250705T220000Z
+UID:9730eb42c1d63f4a4cc798225a5e2a721889e924@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20240930
+DTSTAMP;VALUE=DATE-TIME:20240929T220000Z
+UID:1d2382d746af8e34114c2beb986259cdf690257a@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20250331
+DTSTAMP;VALUE=DATE-TIME:20250330T220000Z
+UID:643dfd4f1f2550d5fb32214c4b19c6e01c8f0056@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20240924
+DTSTAMP;VALUE=DATE-TIME:20240923T220000Z
+UID:9271f1a19228b92e294ae9e428f7ca56520ea4f6@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, iné | ZŠ 5 – 9\n\nAttoved je indivi
+ duálna súťaž z prírodných vied. Na súťažiacich čakajú vedomostn
+ é a experimentálne úlohy z biológie\, fyziky a chémie. Okrem tých sa
+  stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomosti a lo
+ gické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:p-mat roadtrip
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240920
+DTSTAMP;VALUE=DATE-TIME:20240908T220000Z
+UID:b1f4d682aa2721c5f124e18611b40673d9d81643@kockatykalendar.sk
+DESCRIPTION:prednášky | MAT\, FYZ\, iné | ZŠ 5 – 9\n\nPôjdeme do š
+ kôl predašať zaujímavé hodiny z matematiky a prírodných vied. Okrem
+  toho si budete môcť zahrať v svojom meste hru\, akú robievame na naš
+ ich sústredeniach a dozvedieť sa niečo viac o P-mate.\n\nOrganizátor(i
+ ): P-mat\nhttps://akcie.p-mat.sk/2024/08/p-mat-roadtrip-2024/
+URL:https://akcie.p-mat.sk/2024/08/p-mat-roadtrip-2024/
+END:VEVENT
+END:VCALENDAR
