@@ -42,6 +42,8 @@ LANG = {    # TODO: Sync with frontend
         EventScience.MAT: "MAT",
         EventScience.FYZ: "FYZ",
         EventScience.INF: "INF",
+        EventScience.CHEM: "CHEM",
+        EventScience.BIO: "BIO",
         EventScience.OTHER: "iné",
         EventScience.ANY: "všetky",
     }
