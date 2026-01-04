@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250926T220000Z
+UID:2e24b04fd34fc87c4f65885e3a17ce6d55c2cc53@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+END:VCALENDAR

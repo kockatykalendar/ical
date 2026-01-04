@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Malynár - 2. letná séria
+DTSTART;VALUE=DATE:20260413
+DTSTAMP;VALUE=DATE-TIME:20260412T220000Z
+UID:7d88993764c024754bd3396e6a52d63d4b7c819c@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nMalynár sa skladá z 2 semest
+ rov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášm
+ u odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi
+ . Na našej stránke a v časopisoch nájdete vzorové riešenia všetkýc
+ h úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 2. zimná séria
+DTSTART;VALUE=DATE:20251117
+DTSTAMP;VALUE=DATE-TIME:20251116T230000Z
+UID:10a15efceebacbf0241a638aad4fb0ea95ded8bc@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nMalynár sa skladá z 2 semest
+ rov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášm
+ u odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi
+ . Na našej stránke a v časopisoch nájdete vzorové riešenia všetkýc
+ h úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20250927
+DTSTAMP;VALUE=DATE-TIME:20250926T220000Z
+UID:ef8956687023480af3deb1ebc1d97a9f73ea348d@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nDo Košickej šifrovačky
+  sa môžete zapojiť v najviac päťčlenných tímoch\, a to buď v ter
+ éne alebo online. V oboch verziách sú 2 kategórie - začiatočníci a 
+ pokročilí. Hra je lineárna\, teda s tímom budete postupne prechádzať
+  10 šiframi v čase od 9:00 do 20:30.\n\nOrganizátor(i): Strom\nhttps://
+ kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - letné sústredenie
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260627
+DTSTAMP;VALUE=DATE-TIME:20260620T220000Z
+UID:844c32788b34f1293b96cd60de23d34781e7ce8f@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 1. letná séria
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:ef635a0514a9bbacd69cd761b103bf5805e1637f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nMatik sa skladá z 2 semestrov
+ \, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášmu o
+ dovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi. N
+ a našej stránke a v časopisoch nájdete vzorové riešenia všetkých 
+ úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - zimné sústredenie
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260131
+DTSTAMP;VALUE=DATE-TIME:20260125T230000Z
+UID:8dcfb0d763b2cc034b4703c02df6571f2ddfd119@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 4 – 6\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Máš problém?!
+DTSTART;VALUE=DATE:20251110
+DTSTAMP;VALUE=DATE-TIME:20251109T230000Z
+UID:20262d865b564a7ba8c9e2d5916081a9bc91c4f0@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 4 – 9\n\nV online súťaži Máš probl
+ ém?! budete mať 60 minút na to\, aby ste zdolali 6 úrovní matematick
+ ých úloh\, pričom na odomknutie novej úrovne je vždy potrebné vyrie
+ šiť istý počet úloh z tej aktuálnej. Následne je možné riešiť v
+ šetky dostupné úlohy.\n\nOrganizátor(i): Strom\nhttps://masproblem.str
+ om.sk/
+URL:https://masproblem.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - letné sústredenie
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260620
+DTSTAMP;VALUE=DATE-TIME:20260613T220000Z
+UID:1e58b955aa1e579f41aa25c062ed4a5fc5c92dab@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 4 – 6\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lomihlav
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:532e356296966807a34c5c6e006befa288d8500c@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 7 – 9\n\nNa Lomihlave si zasúťažíte
+  v štvorčlenných tímoch\, kde budete mať 99 minút na vyriešenie čo
+  najviac zo 40 matematických úloh\, 4 hlavolamov a 4 hádaniek. Súťaž
+  prebieha štafetovo\, teda za správne vyriešený príklad získate zada
+ nie ďalšieho.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik/akcie/lo
+ mihlav
+URL:https://strom.sk/matik/akcie/lomihlav
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamut
+DTSTART;VALUE=DATE:20260529
+DTSTAMP;VALUE=DATE-TIME:20260528T220000Z
+UID:aa8cd717a5722a979078402bc14a34af21f9fa9a@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 4 – 6\n\nNa Mamute si zasúťažíte v 
+ päťčlenných tímoch\, kde budete mať 120 minút na vyriešenie čo na
+ jviac zo 60 matematických úloh. Súťaž prebieha štafetovo\, teda za s
+ právne vyriešený príklad alebo splnenie pripravenej športovej aktivit
+ y získate zadanie ďalšieho.\n\nOrganizátor(i): Strom\nhttps://strom.sk
+ /malynar/akcie/mamut
+URL:https://strom.sk/malynar/akcie/mamut
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 2. zimná séria
+DTSTART;VALUE=DATE:20251117
+DTSTAMP;VALUE=DATE-TIME:20251116T230000Z
+UID:5ff7624fbd332a1aa012acbb7028544c2d53e666@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nMatik sa skladá z 2 semestrov
+ \, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášmu o
+ dovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi. N
+ a našej stránke a v časopisoch nájdete vzorové riešenia všetkých 
+ úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 1. zimná séria
+DTSTART;VALUE=DATE:20251020
+DTSTAMP;VALUE=DATE-TIME:20251019T220000Z
+UID:dfa05d9192eeeb72101e7615131cc2f4bd46b315@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nMalynár sa skladá z 2 semest
+ rov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášm
+ u odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi
+ . Na našej stránke a v časopisoch nájdete vzorové riešenia všetkýc
+ h úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 1. letná séria
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:38f073bd095de82c3cd44b6fc365cc1373ba8df6@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nMalynár sa skladá z 2 semest
+ rov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášm
+ u odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi
+ . Na našej stránke a v časopisoch nájdete vzorové riešenia všetkýc
+ h úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - zimné sústredenie
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260130
+DTSTAMP;VALUE=DATE-TIME:20260124T230000Z
+UID:78ff3eca4e3a415e8c5ba6e7a84f65330063d221@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 1. zimná séria
+DTSTART;VALUE=DATE:20251020
+DTSTAMP;VALUE=DATE-TIME:20251019T220000Z
+UID:d15fd9c81f46fab1d4473d59e4e6e4d7208522ff@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nMatik sa skladá z 2 semestrov
+ \, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášmu o
+ dovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi. N
+ a našej stránke a v časopisoch nájdete vzorové riešenia všetkých 
+ úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 2. letná séria
+DTSTART;VALUE=DATE:20260413
+DTSTAMP;VALUE=DATE-TIME:20260412T220000Z
+UID:3000394f41f617457773e41233e90d9ef6806814@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nMatik sa skladá z 2 semestrov
+ \, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášmu o
+ dovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi. N
+ a našej stránke a v časopisoch nájdete vzorové riešenia všetkých 
+ úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+END:VCALENDAR

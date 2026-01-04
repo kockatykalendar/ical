@@ -1,0 +1,234 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Noc Vedy
+DTSTART;VALUE=DATE:20250926
+DTSTAMP;VALUE=DATE-TIME:20250925T220000Z
+UID:23d453aaa63302e51f46269b7d9f5b8afa75a526@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT\, FYZ\, INF | ktokoľvek\n\nKaždoročne
+  Ťa čaká celý deň plný prednášok a stánkov s rôznymi experimentm
+ i a ukážkami z oblasti vedy a techniky. Vstup je voľný a každý si pr
+ íde na svoje. V Bratislave sa môžte tešiť na stánky od vašich obľ
+ úbených organizácii Trojsten\, Riešky\, či P-mat.\n\nOrganizátor(i):
+  sovva\nhttps://nocvedy.sk/
+URL:https://nocvedy.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260318
+DTSTAMP;VALUE=DATE-TIME:20260314T230000Z
+UID:dc64ce0d0b44adb159ec88e0700e42a1ccd233be@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória A\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20251202
+DTSTAMP;VALUE=DATE-TIME:20251201T230000Z
+UID:f132c828497a1497769669dc6a79d723422b41ff@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie B\, C\, koniec domácej príp
+ ravy
+DTSTART;VALUE=DATE:20260121
+DTSTAMP;VALUE=DATE-TIME:20260120T230000Z
+UID:0ff11ab26c6251926208afe1167480baa9bf2b37@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 2\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória A\, školské kolo
+DTSTART;VALUE=DATE:20251209
+DTSTAMP;VALUE=DATE-TIME:20251208T230000Z
+UID:55cad19a8636c64506d9a322a762a8f8ebe0d4b5@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie B\, C\, krajské kolo
+DTSTART;VALUE=DATE:20260331
+DTSTAMP;VALUE=DATE-TIME:20260330T220000Z
+UID:5569494f93d5981acd999824e98d9950b297b7d1@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 2\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie B\, C\, školské kolo
+DTSTART;VALUE=DATE:20260127
+DTSTAMP;VALUE=DATE-TIME:20260126T230000Z
+UID:8f1396eb924b16dd875972075acbaa2d92213ece@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 2\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória A\, krajské kolo
+DTSTART;VALUE=DATE:20260113
+DTSTAMP;VALUE=DATE-TIME:20260112T230000Z
+UID:a0177b143019732daa75f3b2ccdf874e6a537afb@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSečí půlmaraton
+DTSTART;VALUE=DATE:20251019
+DTSTAMP;VALUE=DATE-TIME:20251018T220000Z
+UID:df2d29041fd996c8fd9878fd1a512f4ac89cfaaa@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT | SŠ 1 – 4\n\nPraSe není jen matika!
+  Pojď si s námi v Praze zaběhnout sám nebo ve štafetě půlmaraton\n\
+ nOrganizátor(i): prase\nhttps://docs.google.com/forms/d/e/1FAIpQLSdwMsqTu
+ 421bj9JzFFk77bOym8Ocg5rdiuGK03RDyixV68gvg/viewform?usp=header
+URL:https://docs.google.com/forms/d/e/1FAIpQLSdwMsqTu421bj9JzFFk77bOym8Ocg
+ 5rdiuGK03RDyixV68gvg/viewform?usp=header
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSe odevzdávání 2. podzimní série
+DTSTART;VALUE=DATE:20251103
+DTSTAMP;VALUE=DATE-TIME:20251102T230000Z
+UID:e82d75404c9b292a9592beaa6804612901cdbbc5@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nPotrénuj svou matematickou de
+ dukci a sepisování logických úvah! Přijatá řešení opravíme a po
+ šleme se zpětnou vazbou zpět. Seminář probíhá celoročně a nejlep
+ ší řešitelé každého pololetí mohou jet na námi pořádaná soust
+ ředění.\n\nOrganizátor(i): prase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSe víkendovka
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251117
+DTSTAMP;VALUE=DATE-TIME:20251113T230000Z
+UID:35c835390a5c091f49f69978d408efd482daf25c@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nNultý ročník PraSečíh
+ o minisoustředění.\n\nOrganizátor(i): prase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSe podzimní soustředění
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250919T220000Z
+UID:cc86efa59e793d128a8b26741cd38c5f39d1c1ec@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPodzimní soustředění p
+ ro nejlepší řešitele jarní části matematického korespondenčního 
+ semináře PraSe.\n\nOrganizátor(i): prase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSe odevzdávání 1. podzimní série
+DTSTART;VALUE=DATE:20250930
+DTSTAMP;VALUE=DATE-TIME:20250929T220000Z
+UID:8cbc415f934d6b8f7f4724864dc2180b56d9ee1d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nPotrénuj svou matematickou de
+ dukci a sepisování logických úvah! Přijatá řešení opravíme a po
+ šleme se zpětnou vazbou zpět. Seminář probíhá celoročně a nejlep
+ ší řešitelé každého pololetí mohou jet na námi pořádaná soust
+ ředění.\n\nOrganizátor(i): prase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. letná séria
+DTSTART;VALUE=DATE:20260427
+DTSTAMP;VALUE=DATE-TIME:20260426T220000Z
+UID:fe4d22935d41e9f9c6bbdc626438658ab97adfff@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. zimná séria
+DTSTART;VALUE=DATE:20251124
+DTSTAMP;VALUE=DATE-TIME:20251123T230000Z
+UID:b8410e553ab1b90ea5807d194d7f6c2406e135c3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 1. letná séria
+DTSTART;VALUE=DATE:20260330
+DTSTAMP;VALUE=DATE-TIME:20260329T220000Z
+UID:c75e5fb8fb8317ef25534f54f0eca78058377449@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košický Matboj
+DTSTART;VALUE=DATE:20251024
+DTSTAMP;VALUE=DATE-TIME:20251023T220000Z
+UID:3e8036ba9cd370752aa4290f853997c56a51e533@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nNa Matboji si zasúťažíte v
+   štvorčlenných tímoch v troch 30-minútových kolách. V každom kole
+  obdržíte 12 úloh a odpoveďový hárok\, ktorý sa po ukončení kola 
+ pozbiera a následne oboduje\, teda k úlohám z predchádzajúcich kôl s
+ a vrátiť nedá.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom/akcie/
+ matboj
+URL:https://strom.sk/strom/akcie/matboj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - jesenné sústredenie
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250912
+DTSTAMP;VALUE=DATE-TIME:20250905T220000Z
+UID:fa91d13bafb3cb95b4dc20f1715dd7c7cb1ae511@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 1. zimná séria
+DTSTART;VALUE=DATE:20251027
+DTSTAMP;VALUE=DATE-TIME:20251026T230000Z
+UID:3ccbf382204d303e19abcb89e24723fd6c140f13@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - zimné sústredenie
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260207T230000Z
+UID:781ace6e0fda75613284fe47ca5c4a0002de45dd@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250926T220000Z
+UID:2e24b04fd34fc87c4f65885e3a17ce6d55c2cc53@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+END:VCALENDAR

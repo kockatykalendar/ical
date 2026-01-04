@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Noc Vedy
+DTSTART;VALUE=DATE:20250926
+DTSTAMP;VALUE=DATE-TIME:20250925T220000Z
+UID:23d453aaa63302e51f46269b7d9f5b8afa75a526@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT\, FYZ\, INF | ktokoľvek\n\nKaždoročne
+  Ťa čaká celý deň plný prednášok a stánkov s rôznymi experimentm
+ i a ukážkami z oblasti vedy a techniky. Vstup je voľný a každý si pr
+ íde na svoje. V Bratislave sa môžte tešiť na stánky od vašich obľ
+ úbených organizácii Trojsten\, Riešky\, či P-mat.\n\nOrganizátor(i):
+  sovva\nhttps://nocvedy.sk/
+URL:https://nocvedy.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kybersoutěž – Finále
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260423
+DTSTAMP;VALUE=DATE-TIME:20260420T220000Z
+UID:2bf899332b018f60022d1667b0b054456295f6ea@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 a starší\n\nKybersoutěž je česká 
+ soutěž v kyberbezpečnosti. Nejúspěšnější studenti budou pozvaní 
+ na letní soustředění a mohou se dostat do českého národního týmu 
+ na ECSC. Finále je ve formátu CTF\, rozdělené do samostatné a týmov
+ é části.\n\nOrganizátor(i): kybersoutez\nhttps://kybersoutez.cz
+URL:https://kybersoutez.cz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kybersoutěž – Druhé kolo
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20260111
+DTSTAMP;VALUE=DATE-TIME:20251214T230000Z
+UID:5a9f9c707068452c63ccdf1bf365d4661d527388@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 a starší\n\nKybersoutěž je česká 
+ soutěž v kyberbezpečnosti. Nejúspěšnější studenti budou pozvaní 
+ na letní soustředění a mohou se dostat do českého národního týmu 
+ na ECSC. Druhé kolo je ve formátu CTF a na řešení úloh máte celý m
+ ěsíc.\n\nOrganizátor(i): kybersoutez\nhttps://kybersoutez.cz
+URL:https://kybersoutez.cz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kybersoutěž – První kolo
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20251017
+DTSTAMP;VALUE=DATE-TIME:20250907T220000Z
+UID:a324993cfb52ecf9817e8932cb70a1f07fe1465b@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 a starší\n\nKybersoutěž je česká 
+ soutěž v kyberbezpečnosti. Nejúspěšnější studenti budou pozvaní 
+ na letní soustředění a mohou se dostat do českého národního týmu 
+ na ECSC. První kolo probíhá formou jednoduchého znalostního dotazník
+ u.\n\nOrganizátor(i): kybersoutez\nhttps://kybersoutez.cz
+URL:https://kybersoutez.cz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kasiopea - Finále
+DTSTART;VALUE=DATE:20260212
+DTSTAMP;VALUE=DATE-TIME:20260211T230000Z
+UID:613b442bb119c083525e28e13f2b363b6980f4c4@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nNa finále kasiopey sa počas 
+ 256 minút popasujete s ôsmimi úlohami a zabojujete o hodnotné ceny. Al
+ e na finále sú všetci víťazi - čaká vás tam kopa pizze a iného je
+ dla.\n\nOrganizátor(i): kasiopea\nhttps://kasiopea.matfyz.cz/
+URL:https://kasiopea.matfyz.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kasiopea - Domáce kolo
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251207
+DTSTAMP;VALUE=DATE-TIME:20251121T230000Z
+UID:72fbdd0451ad0f4116dcfa6dcfda69069705b39b@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nKasiopea je súťaž v program
+ ovaní vhodná pre úplných začiatočníkov aj najskúsenejších kóder
+ ov. V domácom kole sa stretnete s deviatimi úlohami rôznej náročnosti
+  a zabojujete o postup na finále v Prahe.\n\nOrganizátor(i): kasiopea\nh
+ ttps://kasiopea.matfyz.cz/
+URL:https://kasiopea.matfyz.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v informatike\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260321
+DTSTAMP;VALUE=DATE-TIME:20260317T230000Z
+UID:2de1d16766ff0780a16d8cd8bd20022815db9ccf@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://oi.sk
+URL:https://oi.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v informatike\, kategória B\, koniec domácej príprav
+ y
+DTSTART;VALUE=DATE:20251130
+DTSTAMP;VALUE=DATE-TIME:20251129T230000Z
+UID:dd31e9042744ba79c2bd22be65f6826b62d3db2b@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | ZŠ 1 – SŠ 2\n\nOrganizátor(i): nivam\n
+ https://oi.sk
+URL:https://oi.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v informatike\, kategória A\, koniec domácej príprav
+ y
+DTSTART;VALUE=DATE:20251115
+DTSTAMP;VALUE=DATE-TIME:20251114T230000Z
+UID:8d026f9cf3cf3533edc1b9948fe4818756a98c80@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://oi.sk
+URL:https://oi.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v informatike\, kategórie A\, B\, krajské kolo
+DTSTART;VALUE=DATE:20260120
+DTSTAMP;VALUE=DATE-TIME:20260119T230000Z
+UID:bd1aaec5fa419dfc8722eeec2f7d3de6e8fae27c@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\n
+ https://oi.sk
+URL:https://oi.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z1 - Deadline odevzdávání série za třetinu bodů
+DTSTART;VALUE=DATE:20251026
+DTSTAMP;VALUE=DATE-TIME:20251025T220000Z
+UID:51fe293c423231dd9e218af893507fe60a0c4298@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategorie Z je určena za
+ čátečníkům\, kteří se chtějí naučiť programovat. Během roka pr
+ obíhá 5 sérií - každá obsahuje zpravidla tři praktické a jednu teo
+ retickou úlohu. Termín odevzdávání úloh je tradičně 32:00 (8:00 r
+ áno ďalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.
+ cz/z/ulohy/38/zadani1.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/38/zadani1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z2 - Deadline odevzdávání série za třetinu bodů
+DTSTART;VALUE=DATE:20251215
+DTSTAMP;VALUE=DATE-TIME:20251214T230000Z
+UID:25b7425a3f1f29e796d72c0957fb57c707d295b7@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategorie Z je určena za
+ čátečníkům\, kteří se chtějí naučiť programovat. Během roka pr
+ obíhá 5 sérií - každá obsahuje zpravidla tři praktické a jednu teo
+ retickou úlohu. Termín odevzdávání úloh je tradičně 32:00 (8:00 r
+ áno ďalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.
+ cz/z/ulohy/38/zadani2.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/38/zadani2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - H1 - Deadline odevzdávání série
+DTSTART;VALUE=DATE:20251102
+DTSTAMP;VALUE=DATE-TIME:20251101T230000Z
+UID:2930117eaf29dae59d0281a11a0a916efd14627d@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 9 – SŠ 4\n\nKategorie H je určena pok
+ ročilým programátorům\, soutěží se o účasť na podzimním soustř
+ edění\, prominutí přijímaček na MFF UK a zajímavé ceny. Sérii zvy
+ kne doprovázet seriál. Termín odevzdávání úloh je tradičně 32:00 
+ (8:00 ráno dalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff
+ .cuni.cz/h/ulohy/38/zadani1.html
+URL:https://ksp.mff.cuni.cz/h/ulohy/38/zadani1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krutá Smršť Přednášek
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251130
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:a7f66fd7fb95d29c5032f19a24ccd18ad52491db@kockatykalendar.sk
+DESCRIPTION:víkendovka | INF | ZŠ 9 – SŠ 4\n\nKrutá Smršť Prědná
+ šek - Smršť - je víkendovka plná prědnášek se zameřením hlavně 
+ (ale nejen) na informatiku. Tešit se můžete kromě přednášek na hodn
+ ě zábavy se starými i novými kamarády. Pozor\, kapacita je omezená.\
+ n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.cz/akce/smrst/
+URL:https://ksp.mff.cuni.cz/akce/smrst/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z1 - Deadline odevzdávání série
+DTSTART;VALUE=DATE:20251019
+DTSTAMP;VALUE=DATE-TIME:20251018T220000Z
+UID:c3b3bacb95134e5593404de82712a6aba75f11b4@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategorie Z je určena za
+ čátečníkům\, kteří se chtějí naučiť programovat. Během roka pr
+ obíhá 5 sérií - každá obsahuje zpravidla tři praktické a jednu teo
+ retickou úlohu. Termín odevzdávání úloh je tradičně 32:00 (8:00 r
+ áno ďalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.
+ cz/z/ulohy/38/zadani1.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/38/zadani1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z2 - Deadline odevzdávání série
+DTSTART;VALUE=DATE:20251130
+DTSTAMP;VALUE=DATE-TIME:20251129T230000Z
+UID:caa0d171f80ce229d6173c134f5c373e7b76530c@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategorie Z je určena za
+ čátečníkům\, kteří se chtějí naučiť programovat. Během roka pr
+ obíhá 5 sérií - každá obsahuje zpravidla tři praktické a jednu teo
+ retickou úlohu. Termín odevzdávání úloh je tradičně 32:00 (8:00 r
+ áno ďalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.
+ cz/z/ulohy/38/zadani2.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/38/zadani2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Jesenné sústredenie
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250920
+DTSTAMP;VALUE=DATE-TIME:20250912T220000Z
+UID:36f3f5680374b48eb19264c99341dad6e900c2fa@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | SŠ 4 a mladší\n\nJesenné sústredenie
+  je určené pre pokročilých riešiteľov\, pozýva sa najmä na základ
+ e výsledkov hlavnej kategórie. Program je plný zaujímavých informatic
+ kých aj "polnočných" prednášok\, výletov a hier. Nechýba úžasný 
+ kolektív a veľa čaju.\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cu
+ ni.cz/akce/sous/2025-podzimni/
+URL:https://ksp.mff.cuni.cz/akce/sous/2025-podzimni/
+END:VEVENT
+END:VCALENDAR

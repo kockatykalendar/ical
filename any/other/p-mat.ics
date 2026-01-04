@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Jesenné sústredenie Terabio
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250912
+DTSTAMP;VALUE=DATE-TIME:20250905T220000Z
+UID:18b173a4638fd09963a5c29483bd8a4f72fd35e3@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nh
+ ttps://terabio.sk/
+URL:https://terabio.sk/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2592 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Noc Vedy
+DTSTART;VALUE=DATE:20250926
+DTSTAMP;VALUE=DATE-TIME:20250925T220000Z
+UID:23d453aaa63302e51f46269b7d9f5b8afa75a526@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT\, FYZ\, INF | ktokoľvek\n\nKaždoročne
+  Ťa čaká celý deň plný prednášok a stánkov s rôznymi experimentm
+ i a ukážkami z oblasti vedy a techniky. Vstup je voľný a každý si pr
+ íde na svoje. V Bratislave sa môžte tešiť na stánky od vašich obľ
+ úbených organizácii Trojsten\, Riešky\, či P-mat.\n\nOrganizátor(i):
+  sovva\nhttps://nocvedy.sk/
+URL:https://nocvedy.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kybersoutěž – Finále
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260423
+DTSTAMP;VALUE=DATE-TIME:20260420T220000Z
+UID:2bf899332b018f60022d1667b0b054456295f6ea@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 a starší\n\nKybersoutěž je česká 
+ soutěž v kyberbezpečnosti. Nejúspěšnější studenti budou pozvaní 
+ na letní soustředění a mohou se dostat do českého národního týmu 
+ na ECSC. Finále je ve formátu CTF\, rozdělené do samostatné a týmov
+ é části.\n\nOrganizátor(i): kybersoutez\nhttps://kybersoutez.cz
+URL:https://kybersoutez.cz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kybersoutěž – Druhé kolo
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20260111
+DTSTAMP;VALUE=DATE-TIME:20251214T230000Z
+UID:5a9f9c707068452c63ccdf1bf365d4661d527388@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 a starší\n\nKybersoutěž je česká 
+ soutěž v kyberbezpečnosti. Nejúspěšnější studenti budou pozvaní 
+ na letní soustředění a mohou se dostat do českého národního týmu 
+ na ECSC. Druhé kolo je ve formátu CTF a na řešení úloh máte celý m
+ ěsíc.\n\nOrganizátor(i): kybersoutez\nhttps://kybersoutez.cz
+URL:https://kybersoutez.cz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kybersoutěž – První kolo
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20251017
+DTSTAMP;VALUE=DATE-TIME:20250907T220000Z
+UID:a324993cfb52ecf9817e8932cb70a1f07fe1465b@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | ZŠ 3 a starší\n\nKybersoutěž je česká 
+ soutěž v kyberbezpečnosti. Nejúspěšnější studenti budou pozvaní 
+ na letní soustředění a mohou se dostat do českého národního týmu 
+ na ECSC. První kolo probíhá formou jednoduchého znalostního dotazník
+ u.\n\nOrganizátor(i): kybersoutez\nhttps://kybersoutez.cz
+URL:https://kybersoutez.cz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - regionálne kolo
+DTSTART;VALUE=DATE:20260323
+DTSTAMP;VALUE=DATE-TIME:20260322T230000Z
+UID:511a24301b245ff91ee193a06afe505a436d21be@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | ZŠ 1 – SŠ 4\n\nRegionálne kolo pr
+ ebieha súbežne na viacerých miestach po celom Slovensku. Najlepší rie
+ šitelia zo stredoškolskej kategórie postupujú do celoštátneho kola.\
+ n\nOrganizátor(i): ao\nhttps://www.astronomickaolympiada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - domáce kolo
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20260216
+DTSTAMP;VALUE=DATE-TIME:20251205T230000Z
+UID:c9419f2d349eeb6af648dbd94335ee2dfd884d22@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | ZŠ 1 – SŠ 4\n\nDomáce kolo AO pre
+ bieha online. Na riešenie úloh máte viac než dva mesiace času. Teši
+ ť sa môžete na výpočtové úlohy z astrofyziky aj experimentálne úl
+ ohy ako pozorovania.\n\nOrganizátor(i): ao\nhttps://www.astronomickaolymp
+ iada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - celoštátne kolo
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260505
+DTSTAMP;VALUE=DATE-TIME:20260502T220000Z
+UID:175122cb79349886ddb76c8934bb69e3224202b1@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | SŠ 1 – 4\n\nNajlepší riešitelia 
+ celoštátneho kola dostanú možnosť reprezenotvať Slovensko na medzin
+ árodnej olympiáde z astronómie a astrofyziky (IOAA).\n\nOrganizátor(i)
+ : ao\nhttps://www.astronomickaolympiada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyziklání Online
+DTSTART;VALUE=DATE:20251126
+DTSTAMP;VALUE=DATE-TIME:20251125T230000Z
+UID:1000af5567c581ae5828c990e32c1f0edeed511c@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nFyziklání Online je internet
+ ová týmová soutěž pro každého\, kdo má zájem o fyziku. Až pěti
+ členné týmy se snaží v časovém limitu 3 hodin vyřešit co nejvíce
+  zadaných úloh\, pričemž tým začína se 7 úlohami a za každou spr
+ ávně vyřešenou úlohu dostává novou.\n\nOrganizátor(i): fykos\nhttp
+ s://online.fyziklani.cz/
+URL:https://online.fyziklani.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyziklání
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:c763d8dc0408eb6bf6f4bca8eb35737dca60fe10@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nFyziklání je největší tý
+ mová fyzikální soutěž pro studenty středních škol se zájmem o fyz
+ iku. Maximálně pětičlenné týmy\, skládající se ze studentů až d
+ vou škol\, se snaží vyřešit co nejvíce zadaných fyzikálních úloh
+  v časovém limitu tří hodin.\n\nOrganizátor(i): fykos\nhttps://fyzikl
+ ani.cz/
+URL:https://fyziklani.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálny Náboj
+DTSTART;VALUE=DATE:20251107
+DTSTAMP;VALUE=DATE-TIME:20251106T230000Z
+UID:7631df068c249f9e1d13c4706bb2186a5268cd61@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nFyzikálny Náboj je medzinár
+ odná súťaž päťčlenných tímov v rýchlostnom riešení fyzikálnyc
+ h úloh. Každý tím začína so sadou ôsmich úloh\, po každom odovzda
+ ní správne vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý i
+ ch za dve hodiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\nhttps://p
+ hysics.naboj.org/sk/sk
+URL:https://physics.naboj.org/sk/sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20260122
+DTSTAMP;VALUE=DATE-TIME:20260121T230000Z
+UID:9df0ac407ebe70f359ef73c661c92960c1f7404f@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, CHEM\, BIO | ZŠ 7 – 9\n\nAttoved je 
+ individuálna súťaž z prírodných vied. Na súťažiacich čakajú ved
+ omostné a experimentálne úlohy z biológie\, fyziky a chémie. Okrem t
+ ých sa stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomos
+ ti a logické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat\nht
+ tps://akcie.p-mat.sk/attoved/
+URL:https://akcie.p-mat.sk/attoved/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attomat
+DTSTART;VALUE=DATE:20250918
+DTSTAMP;VALUE=DATE-TIME:20250917T220000Z
+UID:f6ce0c5286bf04b662307966d37884cec8ba45ed@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 5 – 9\n\nAttomat je online individuáln
+ a matematická súťaž. Môžete sa zapojiť aj v kategórii OPEN\, ktor
+ á je určená pre každého\, kto rád rieši zaujímavé matematické ú
+ lohy.\n\nOrganizátor(i): P-mat\nhttps://akcie.p-mat.sk/attomat/
+URL:https://akcie.p-mat.sk/attomat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attomat
+DTSTART;VALUE=DATE:20260115
+DTSTAMP;VALUE=DATE-TIME:20260114T230000Z
+UID:d56e3bdcd00fd5e23feec175c82622c2e22cb968@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 5 – 9\n\nAttomat je online individuáln
+ a matematická súťaž. Môžete sa zapojiť aj v kategórii OPEN\, ktor
+ á je určená pre každého\, kto rád rieši zaujímavé matematické ú
+ lohy.\n\nOrganizátor(i): P-mat\nhttps://akcie.p-mat.sk/attomat/
+URL:https://akcie.p-mat.sk/attomat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matboj
+DTSTART;VALUE=DATE:20260327
+DTSTAMP;VALUE=DATE-TIME:20260326T230000Z
+UID:62e4484bb9813f00399a73ebc41570f94dbbef6c@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 5 – 6\n\nMatematická súťaž pre 4-č
+ lenné tímy. Prepája riešenie úloh s hraním strategickej hry.\n\nOrga
+ nizátor(i): P-mat\nhttps://akcie.p-mat.sk/matboj/
+URL:https://akcie.p-mat.sk/matboj/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20250925
+DTSTAMP;VALUE=DATE-TIME:20250924T220000Z
+UID:fc5f26ba8d67e6330cf5838ae7dc6f6ec926381f@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, CHEM\, BIO | ZŠ 5 – 9\n\nAttoved je 
+ individuálna súťaž z prírodných vied. Na súťažiacich čakajú ved
+ omostné a experimentálne úlohy z biológie\, fyziky a chémie. Okrem t
+ ých sa stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomos
+ ti a logické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat\nht
+ tps://akcie.p-mat.sk/attoved/
+URL:https://akcie.p-mat.sk/attoved/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matboj
+DTSTART;VALUE=DATE:20260326
+DTSTAMP;VALUE=DATE-TIME:20260325T230000Z
+UID:0ce6a8b04b8b0fa899d1f786909de8d44e37e0a8@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 7 – 9\n\nMatematická súťaž pre 4-č
+ lenné tímy. Prepája riešenie úloh s hraním strategickej hry.\n\nOrga
+ nizátor(i): P-mat\nhttps://akcie.p-mat.sk/matboj/
+URL:https://akcie.p-mat.sk/matboj/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikopretek
+DTSTART;VALUE=DATE:20260424
+DTSTAMP;VALUE=DATE-TIME:20260423T220000Z
+UID:9d47be5e87894ad9dcaf17430c74b80c61771ade@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 5 – 9\n\nŠportovo-logická súťaž v 
+ exteriéri. Tímy prechádzajú po trase\, kde plnia pohybové a logické 
+ úlohy na stanoviskách.\n\nOrganizátor(i): P-mat\nhttps://akcie.p-mat.sk
+ /pikopretek/
+URL:https://akcie.p-mat.sk/pikopretek/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kasiopea - Finále
+DTSTART;VALUE=DATE:20260212
+DTSTAMP;VALUE=DATE-TIME:20260211T230000Z
+UID:613b442bb119c083525e28e13f2b363b6980f4c4@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nNa finále kasiopey sa počas 
+ 256 minút popasujete s ôsmimi úlohami a zabojujete o hodnotné ceny. Al
+ e na finále sú všetci víťazi - čaká vás tam kopa pizze a iného je
+ dla.\n\nOrganizátor(i): kasiopea\nhttps://kasiopea.matfyz.cz/
+URL:https://kasiopea.matfyz.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kasiopea - Domáce kolo
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251207
+DTSTAMP;VALUE=DATE-TIME:20251121T230000Z
+UID:72fbdd0451ad0f4116dcfa6dcfda69069705b39b@kockatykalendar.sk
+DESCRIPTION:súťaž | INF | SŠ 1 – 4\n\nKasiopea je súťaž v program
+ ovaní vhodná pre úplných začiatočníkov aj najskúsenejších kóder
+ ov. V domácom kole sa stretnete s deviatimi úlohami rôznej náročnosti
+  a zabojujete o postup na finále v Prahe.\n\nOrganizátor(i): kasiopea\nh
+ ttps://kasiopea.matfyz.cz/
+URL:https://kasiopea.matfyz.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Podzimní MaSo 2025
+DTSTART;VALUE=DATE:20251112
+DTSTAMP;VALUE=DATE-TIME:20251111T230000Z
+UID:a8fbe04bd6fd87734af3616a5d29849a4b714ffe@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 6 – 9\n\nMaSo je týmová soutěž\, kt
+ erá se koná dvakrát ročně. Nejde tu ovšem jen o počítání příkl
+ adů\, za ty získávají týmy tahy do hry\, která je pak hlavním zdroj
+ em jejich bodů do celkového hodnocení. Hra je každý rok jiná.\n\nOrg
+ anizátor(i): maso\nhttps://maso.mff.cuni.cz/
+URL:https://maso.mff.cuni.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jarní MaSo 2026
+DTSTART;VALUE=DATE:20260513
+DTSTAMP;VALUE=DATE-TIME:20260512T220000Z
+UID:1560a1a3da835867845e03e656bd4174932f524c@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 6 – 9\n\nMaSo je týmová soutěž\, kt
+ erá se koná dvakrát ročně. Nejde tu ovšem jen o počítání příkl
+ adů\, za ty získávají týmy tahy do hry\, která je pak hlavním zdroj
+ em jejich bodů do celkového hodnocení. Hra je každý rok jiná.\n\nOrg
+ anizátor(i): maso\nhttps://maso.mff.cuni.cz/
+URL:https://maso.mff.cuni.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pekná maďarská reč\, kategórie I\, II\, III\, IV\, krajské k
+ olo
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:b02ceec63837771572f120ebbd097314ff8ab113@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pekná maďarská reč\, kategórie I\, II\, okresné kolo
+DTSTART;VALUE=DATE:20260216
+DTSTAMP;VALUE=DATE-TIME:20260215T230000Z
+UID:fdce5b46cccd26ae8dc0043e99e2e5460df6e5d2@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pekná maďarská reč\, kategórie I\, II\, III\, IV\, školské 
+ kolo
+DTSTART;VALUE=DATE:20260120
+DTSTAMP;VALUE=DATE-TIME:20260119T230000Z
+UID:46d1aca95b18d4b9cbfc8c50cd8f22fc486786fc@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pekná maďarská reč\, kategórie I\, II\, III\, IV\, celoštát
+ ne kolo
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260417
+DTSTAMP;VALUE=DATE-TIME:20260414T220000Z
+UID:21f7764950c9761d1c8f5695aadc03f9fc7ddf58@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turnaj mladých fyzikov\, celoštátne kolo
+DTSTART;VALUE=DATE:20260327
+DTSTAMP;VALUE=DATE-TIME:20260326T230000Z
+UID:ec8667054f8f964d6ed7f5dbd7a886c0644230d0@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nTurnaj mladých fyzikov je s
+ úťaž pre stredoškolské tímy\, počas ktorej riešia reálne vedecké
+  problémy\, experimentujú\, tvoria teórie a prezentujú svoje riešenia
+  pred porotou. Úlohou je nasimulovať vedeckú prácu a obhájiť si svoj
+ e výsledky.\n\nOrganizátor(i): nivam\nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turnaj mladých fyzikov\, krajské kolo
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+DTSTAMP;VALUE=DATE-TIME:20260209T230000Z
+UID:e9ac814c2b14a825feb03cf570c539de9ef24155@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nTurnaj mladých fyzikov je s
+ úťaž pre stredoškolské tímy\, počas ktorej riešia reálne vedecké
+  problémy\, experimentujú\, tvoria teórie a prezentujú svoje riešenia
+  pred porotou. Úlohou je nasimulovať vedeckú prácu a obhájiť si svoj
+ e výsledky.\n\nOrganizátor(i): nivam\nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v ruskom jazyku\, kategórie A1\, A2\, A3\, B1\, B2\, B
+ 3\, B4\, krajské kolo
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+DTSTAMP;VALUE=DATE-TIME:20260409T220000Z
+UID:4443a72e8d64992033f1e77f9317d091f40adbec@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v ruskom jazyku\, kategórie A1\, A2\, A3\, B1\, B2\, B
+ 3\, B4\, okresné kolo
+DTSTART;VALUE=DATE:20260206
+DTSTAMP;VALUE=DATE-TIME:20260205T230000Z
+UID:ee0c2bbc084058d2b7e0a4f5746878baa7555606@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v ruskom jazyku\, kategórie A1\, A2\, A3\, B1\, B2\, B
+ 3\, B4\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:2cbc2cb69aae02cbf13dbca75ac07f04caddce6a@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategórie E\, F\, okresné kolo
+DTSTART;VALUE=DATE:20260311
+DTSTAMP;VALUE=DATE-TIME:20260310T230000Z
+UID:b99fcc28d0b511b8ba19ad6a030bcdea90c16065@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260412
+DTSTAMP;VALUE=DATE-TIME:20260408T220000Z
+UID:fa44186daf545e47a7d33f8342f2188460456642@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 4\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória A\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260116
+DTSTAMP;VALUE=DATE-TIME:20260115T230000Z
+UID:d6eca3ebbd3ac985db72e7b78a761e5b0a8055f9@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 4\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategórie B\, C\, D\, krajské kolo
+DTSTART;VALUE=DATE:20260513
+DTSTAMP;VALUE=DATE-TIME:20260512T220000Z
+UID:e36f633127f786b3f6dc6f3789677c55f5ebe471@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 3\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória A\, krajské kolo
+DTSTART;VALUE=DATE:20260128
+DTSTAMP;VALUE=DATE-TIME:20260127T230000Z
+UID:a41760c29f174c0785eafc4392b4c5c0e01678e7@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 4\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategórie B\, C\, D\, koniec domácej pr
+ ípravy
+DTSTART;VALUE=DATE:20260430
+DTSTAMP;VALUE=DATE-TIME:20260429T220000Z
+UID:050acd7e0f303e64c06309d49169331dd3d799d0@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 3\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória G\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260430
+DTSTAMP;VALUE=DATE-TIME:20260429T220000Z
+UID:004bb5f09dd5d2ccbbd274b9d0aa30ad11151db4@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategórie E\, F\, koniec domácej prípra
+ vy
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:4a941561914efe8c079265cadf7351f588371f0d@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória E \, okresné kolo
+DTSTART;VALUE=DATE:20260415
+DTSTAMP;VALUE=DATE-TIME:20260414T220000Z
+UID:7f1b351adad06485def6b71b61492bf7a858fd68@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 9\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória G\, okresné kolo
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260522
+DTSTAMP;VALUE=DATE-TIME:20260517T220000Z
+UID:d8876564346dc307194d81b4e1addaa01b93a6ec@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie A\, Z\, školské kolo
+DTSTART;VALUE=DATE:20260206
+DTSTAMP;VALUE=DATE-TIME:20260205T230000Z
+UID:8d5c1c446ce682357e569308f4042b75109254c7@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategória E\, celoštátne kolo
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+DTSTAMP;VALUE=DATE-TIME:20260514T220000Z
+UID:1eb9d5f14c0c514aaa1b8ed9a3955d12d527e4e6@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie E\, F\, G\, okresné kolo
+DTSTART;VALUE=DATE:20260317
+DTSTAMP;VALUE=DATE-TIME:20260316T230000Z
+UID:d16246a38077c759dc2f38c07fd204b39c6e40ff@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie A\, Z\, celoštátne kolo
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260426
+DTSTAMP;VALUE=DATE-TIME:20260423T220000Z
+UID:18c9ee4e5eac548ba621291ebd5365c1e015449b@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie A\, Z\, krajské kolo
+DTSTART;VALUE=DATE:20260320
+DTSTAMP;VALUE=DATE-TIME:20260319T230000Z
+UID:627f2a63e128e6f2b590f3a6c12d70033a41df9f@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie E\, F\, G\, školské kolo
+DTSTART;VALUE=DATE:20260113
+DTSTAMP;VALUE=DATE-TIME:20260112T230000Z
+UID:f84c1a0cdf3d80e30f6d975cd55db6cbb9769ef4@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie E\, F\, krajské kolo
+DTSTART;VALUE=DATE:20260416
+DTSTAMP;VALUE=DATE-TIME:20260415T220000Z
+UID:412d97bf4b84a21aa42c9f11734cd37ac8454968@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 6 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie Z6\, Z7\, Z8 (časť I.)\, ko
+ niec domácej prípravy
+DTSTART;VALUE=DATE:20260116
+DTSTAMP;VALUE=DATE-TIME:20260115T230000Z
+UID:024e6f3cb2b21a54957ce9c96c4838f8c4b3223c@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260318
+DTSTAMP;VALUE=DATE-TIME:20260314T230000Z
+UID:dc64ce0d0b44adb159ec88e0700e42a1ccd233be@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória A\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20251202
+DTSTAMP;VALUE=DATE-TIME:20251201T230000Z
+UID:f132c828497a1497769669dc6a79d723422b41ff@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie B\, C\, koniec domácej príp
+ ravy
+DTSTART;VALUE=DATE:20260121
+DTSTAMP;VALUE=DATE-TIME:20260120T230000Z
+UID:0ff11ab26c6251926208afe1167480baa9bf2b37@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 2\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória Z9 (časť II.)\, koniec dom
+ ácej prípravy
+DTSTART;VALUE=DATE:20251212
+DTSTAMP;VALUE=DATE-TIME:20251211T230000Z
+UID:83bd17aacc2041008af9c050a8a1de81e4fefd80@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 9\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória Z5 (časť II.)\, koniec dom
+ ácej prípravy
+DTSTART;VALUE=DATE:20251212
+DTSTAMP;VALUE=DATE-TIME:20251211T230000Z
+UID:472c36138ca1e360a8e0b2fc7fce4f5ec8e09272@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 5\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória A\, školské kolo
+DTSTART;VALUE=DATE:20251209
+DTSTAMP;VALUE=DATE-TIME:20251208T230000Z
+UID:55cad19a8636c64506d9a322a762a8f8ebe0d4b5@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie Z6\, Z7\, Z8\, okresné kolo
+DTSTART;VALUE=DATE:20260401
+DTSTAMP;VALUE=DATE-TIME:20260331T220000Z
+UID:adeb5d3675034c77833eb76fbd4712274dd55644@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie B\, C\, krajské kolo
+DTSTART;VALUE=DATE:20260331
+DTSTAMP;VALUE=DATE-TIME:20260330T220000Z
+UID:5569494f93d5981acd999824e98d9950b297b7d1@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 2\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória Z5 (časť I.)\, koniec domá
+ cej prípravy
+DTSTART;VALUE=DATE:20251114
+DTSTAMP;VALUE=DATE-TIME:20251113T230000Z
+UID:2320f5d0be1afc3c850b7ec57d2fb52ace2679b7@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 5\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie B\, C\, školské kolo
+DTSTART;VALUE=DATE:20260127
+DTSTAMP;VALUE=DATE-TIME:20260126T230000Z
+UID:8f1396eb924b16dd875972075acbaa2d92213ece@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 2\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória A\, krajské kolo
+DTSTART;VALUE=DATE:20260113
+DTSTAMP;VALUE=DATE-TIME:20260112T230000Z
+UID:a0177b143019732daa75f3b2ccdf874e6a537afb@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória Z9\, krajské kolo
+DTSTART;VALUE=DATE:20260327
+DTSTAMP;VALUE=DATE-TIME:20260326T230000Z
+UID:81ca48d81b7068ee44880fb88122bdcf6a867da5@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 9\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória Z5\, okresné kolo
+DTSTART;VALUE=DATE:20260126
+DTSTAMP;VALUE=DATE-TIME:20260125T230000Z
+UID:6f04eb3adc07602d2b7ccc2bd8826c87dfec0d1f@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 5\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória Z9\, okresné kolo
+DTSTART;VALUE=DATE:20260126
+DTSTAMP;VALUE=DATE-TIME:20260125T230000Z
+UID:28a5ffde25dd86abd91c1af059f51585890b7f21@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 9\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategória Z9 (časť I.)\, koniec domá
+ cej prípravy
+DTSTART;VALUE=DATE:20251114
+DTSTAMP;VALUE=DATE-TIME:20251113T230000Z
+UID:0d6726e49aacf18c17cc2174eceddd5233616983@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 9\n\nOrganizátor(i): nivam\nhttps://sk
+ mo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matematická olympiáda\, kategórie Z6\, Z7\, Z8 (časť II.)\, k
+ oniec domácej prípravy
+DTSTART;VALUE=DATE:20260303
+DTSTAMP;VALUE=DATE-TIME:20260302T230000Z
+UID:372148f114798242a834e9081c0b1e229f2df85a@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): nivam\nhttp
+ s://skmo.sk
+URL:https://skmo.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pytagoriáda\, kategórie P4\, P5\, okresné kolo
+DTSTART;VALUE=DATE:20260413
+DTSTAMP;VALUE=DATE-TIME:20260412T220000Z
+UID:602b6a336750cf16c7ebb2bb41e4dbe34bfd665d@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 4 – 5\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pytagoriáda\, kategórie P4\, P5\, školské kolo
+DTSTART;VALUE=DATE:20251209
+DTSTAMP;VALUE=DATE-TIME:20251208T230000Z
+UID:45898d4bff12ae19f756b60b18fba0b775465b21@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 4 – 5\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pytagoriáda\, kategórie P6\, P7\, P8\, celoštátne kolo
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+DTSTAMP;VALUE=DATE-TIME:20260608T220000Z
+UID:8b4d72b5a86db3c21c1977d94ca2a4889d6d4af2@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pytagoriáda\, kategórie P6\, P7\, P8\, okresné kolo
+DTSTART;VALUE=DATE:20260414
+DTSTAMP;VALUE=DATE-TIME:20260413T220000Z
+UID:99c405f7cc8d81b200f8486522cd73a78984a3ef@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pytagoriáda\, kategórie P6\, P7\, P8\, školské kolo
+DTSTART;VALUE=DATE:20251210
+DTSTAMP;VALUE=DATE-TIME:20251209T230000Z
+UID:d7d69b5615b1cea2a0ccaa61e6885c8c7fba0194@kockatykalendar.sk
+DESCRIPTION:olympiáda | MAT | ZŠ 6 – 8\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technická olympiáda\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DTSTAMP;VALUE=DATE-TIME:20260505T220000Z
+UID:8645af2346c49c5a51b31ce9125c2fbe9e1951d1@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technická olympiáda\, kategórie A\, B\, školské kolo
+DTSTART;VALUE=DATE:20251008
+DTSTAMP;VALUE=DATE-TIME:20251007T220000Z
+UID:80e2e7081e6de814e301d8337faa2f17fadd2832@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technická olympiáda\, kategórie A\, B\, okresné kolo
+DTSTART;VALUE=DATE:20251120
+DTSTAMP;VALUE=DATE-TIME:20251119T230000Z
+UID:9b31eb396e67d3f961a6aca52cf6e70fdf7c3fcd@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technická olympiáda\, kategórie A\, B\, krajské kolo
+DTSTART;VALUE=DATE:20260127
+DTSTAMP;VALUE=DATE-TIME:20260126T230000Z
+UID:00d990ddbb9089ca79959af01a1a7fbc25e54360@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2D\,
+  1C\, 2C\, celoštátne kolo
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260314T230000Z
+UID:9078e8e2e73d40b179be8a386978802b4f7e48e9@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1C\, 2C\, školské kolo
+DTSTART;VALUE=DATE:20251210
+DTSTAMP;VALUE=DATE-TIME:20251209T230000Z
+UID:56a2c9e539b8d103a74f06109afadd1bb6abf5e2@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2D\,
+  školské kolo
+DTSTART;VALUE=DATE:20251201
+DTSTAMP;VALUE=DATE-TIME:20251130T230000Z
+UID:f63c59ff5043398d812d6896da223c7eea905b9c@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2D\,
+  1C\, 2C\, krajské kolo
+DTSTART;VALUE=DATE:20260212
+DTSTAMP;VALUE=DATE-TIME:20260211T230000Z
+UID:7c642250bf610e30cbb11bfe328a60c2ed3495f6@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2D\,
+  okresné kolo
+DTSTART;VALUE=DATE:20260115
+DTSTAMP;VALUE=DATE-TIME:20260114T230000Z
+UID:d12627c0f1e3743d1601d265d960bd47119a606b@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:252600fc82b35f5b44e079e1485d36786309b9ea@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, krajské kolo
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260604
+DTSTAMP;VALUE=DATE-TIME:20260530T220000Z
+UID:b4bd2abb7241aa17fffa9e082b631e0a498e95a5@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, okresné kolo
+DTSTART;VALUE=DATE:20260421
+DTSTAMP;VALUE=DATE-TIME:20260420T220000Z
+UID:7baf0479ab960417974a04c47dc874628ae4bb7f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda ľudských práv\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20251212
+DTSTAMP;VALUE=DATE-TIME:20251211T230000Z
+UID:f8c8baa112397e79583ae48046f201d4e2d03385@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda ľudských práv\, krajské kolo
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260416
+DTSTAMP;VALUE=DATE-TIME:20260415T220000Z
+UID:26c29d910b27e5f5319a12c3553bd1a542d5136f@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda ľudských práv\, okresné kolo
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:a6b7ec2e229696e345f6c8ead07c81804e2117ee@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v španielskom jazyku\, kategórie A\, B\, C\, D\, kraj
+ ské kolo
+DTSTART;VALUE=DATE:20260209
+DTSTAMP;VALUE=DATE-TIME:20260208T230000Z
+UID:137beb10dc87479e0dec5b20453f150050fad4e6@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v španielskom jazyku\, kategórie A\, B\, C\, D\, celo
+ štátne kolo
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:2e951b1060466c671009b8b427a341746202854d@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v španielskom jazyku\, kategórie A\, B\, C\, D\, ško
+ lské kolo
+DTSTART;VALUE=DATE:20251212
+DTSTAMP;VALUE=DATE-TIME:20251211T230000Z
+UID:ed1d9312e2b1babdfba3a3317c6541eb533f48fe@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v anglickom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\, 2B\
+ , 2C1\, 2C2\, 2D\, školské kolo
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:8ed2f153ce0e3da9edc0e7c5515362298fd6d969@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v anglickom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\, 2B\
+ , 2C1\, 2C2\, 2D\, krajské kolo
+DTSTART;VALUE=DATE:20260211
+DTSTAMP;VALUE=DATE-TIME:20260210T230000Z
+UID:d2c0a01a3b72ed58772d1cf1964ce80814fd2d68@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v anglickom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2C2
+ \, 2D\, okresné kolo
+DTSTART;VALUE=DATE:20260114
+DTSTAMP;VALUE=DATE-TIME:20260113T230000Z
+UID:b895d0d3dc882c02bcb00d1ce66c9f9a373ec469@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v anglickom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\, 2B\
+ , 2C1\, 2C2\, 2D\, celoštátne kolo
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+DTSTAMP;VALUE=DATE-TIME:20260425T220000Z
+UID:0d72b807b71f391aedd1b489de9e5198390d06d6@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória C\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260327
+DTSTAMP;VALUE=DATE-TIME:20260326T230000Z
+UID:a9702d806019e1c400a5ce4eda6d138a272fad0a@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 1\n\nOrganizátor(i): nivam\nhttps://c
+ hemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória C\, školské kolo
+DTSTART;VALUE=DATE:20260417
+DTSTAMP;VALUE=DATE-TIME:20260416T220000Z
+UID:fe9932cfc87e5a0f435fb5a8157d276b3b0c71fb@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 1\n\nOrganizátor(i): nivam\nhttps://c
+ hemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260307
+DTSTAMP;VALUE=DATE-TIME:20260303T230000Z
+UID:41ad53bdf2a032428a1271b03294621817f8ff1a@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória B\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:a34a023ccf1eaad6164aafe653e7b6b8bc8e7110@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 2\n\nOrganizátor(i): nivam\nhttps://c
+ hemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória A\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:bfcf792261ff4cd73748f33188aa06896cc63835@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória A\, školské kolo
+DTSTART;VALUE=DATE:20251205
+DTSTAMP;VALUE=DATE-TIME:20251204T230000Z
+UID:bb6a25cba92f8a23cbc62b7ef810ef2e13a7b218@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória D\, školské kolo
+DTSTART;VALUE=DATE:20260206
+DTSTAMP;VALUE=DATE-TIME:20260205T230000Z
+UID:7e9a70a3ac44e81a49229af353a68c94a35bd5c8@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória A\, krajské kolo
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+DTSTAMP;VALUE=DATE-TIME:20260120T230000Z
+UID:7d3ca45dd6f83ad47ee8caf3cfa64cf20b90d17a@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategórie E\, F\, školské kolo
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+DTSTAMP;VALUE=DATE-TIME:20260128T230000Z
+UID:285f64538121e08f829dc56368a52730cbe52fc8@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória B\, školské kolo
+DTSTART;VALUE=DATE:20260313
+DTSTAMP;VALUE=DATE-TIME:20260312T230000Z
+UID:423cc3d54e14b4bd2dce51e2391747d8c8810c6a@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 2\n\nOrganizátor(i): nivam\nhttps://c
+ hemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória C\, krajské kolo
+DTSTART;VALUE=DATE:20260514
+DTSTAMP;VALUE=DATE-TIME:20260513T220000Z
+UID:06ca9e90ef78e4d60be1906a06bd4ab8c284d251@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 1\n\nOrganizátor(i): nivam\nhttps://c
+ hemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória D\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260130
+DTSTAMP;VALUE=DATE-TIME:20260129T230000Z
+UID:5ac10b9250e94bfb2855d3ec6ddb1bbd14aac852@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategórie E\, F\, celoštátne kolo
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260307
+DTSTAMP;VALUE=DATE-TIME:20260303T230000Z
+UID:2f2639f6cdd0f00956f0abd14ae6bdb8bb84c288@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategórie E\, F\, koniec domácej príprav
+ y
+DTSTART;VALUE=DATE:20251212
+DTSTAMP;VALUE=DATE-TIME:20251211T230000Z
+UID:330360afbe15144e6fcdb50af86a685839ca3683@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória D\, krajské kolo
+DTSTART;VALUE=DATE:20260423
+DTSTAMP;VALUE=DATE-TIME:20260422T220000Z
+UID:3733a653ea300c06995753e9b91284f81d664396@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória D\, okresné kolo
+DTSTART;VALUE=DATE:20260312
+DTSTAMP;VALUE=DATE-TIME:20260311T230000Z
+UID:2056b9fa22138eb14ad0a7e00feaf0b1526ea57e@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://chemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemická olympiáda\, kategória B\, krajské kolo
+DTSTART;VALUE=DATE:20260409
+DTSTAMP;VALUE=DATE-TIME:20260408T220000Z
+UID:829fc023241c53d70ce5319df4e28ab75e802fc9@kockatykalendar.sk
+DESCRIPTION:olympiáda | CHEM | SŠ 2\n\nOrganizátor(i): nivam\nhttps://c
+ hemickaolympiada.sk
+URL:https://chemickaolympiada.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda vo francúzskom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\,
+  2B\, 2C\, celoštátne kolo
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+DTSTAMP;VALUE=DATE-TIME:20260325T230000Z
+UID:35135794b95f505aee4b3ca5467d912a8693c4f0@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda vo francúzskom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\,
+  2B\, 2C\, školské kolo
+DTSTART;VALUE=DATE:20251212
+DTSTAMP;VALUE=DATE-TIME:20251211T230000Z
+UID:ddd706b980f0ddb6dd4785ac4ad9abb4db9c2b50@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda vo francúzskom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\,
+  2B\, 2C\, krajské kolo
+DTSTART;VALUE=DATE:20260123
+DTSTAMP;VALUE=DATE-TIME:20260122T230000Z
+UID:be4e5c54593650b3d9ec968a307bcb68aee8425c@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie C\, D\, E\, F\, školské kolo
+DTSTART;VALUE=DATE:20251205
+DTSTAMP;VALUE=DATE-TIME:20251204T230000Z
+UID:072e28294120118f71db081b002dfe1825a16227@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 6 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie A\, B\, školské kolo
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:fe97828188c771763fef55756951b9baefd99887@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie A\, B\, C\, D\, E\, krajské ko
+ lo
+DTSTART;VALUE=DATE:20260422
+DTSTAMP;VALUE=DATE-TIME:20260421T220000Z
+UID:c67cdc9b678445734e9ded9abb6e24836b9eec8a@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 7 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie A\, B\, C\, D\, celoštátne ko
+ lo
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260610
+DTSTAMP;VALUE=DATE-TIME:20260607T220000Z
+UID:0b1b213f085914f169a22d9233562bf00b7de6e2@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie C\, D\, E\, F\, okresné kolo
+DTSTART;VALUE=DATE:20260204
+DTSTAMP;VALUE=DATE-TIME:20260203T230000Z
+UID:94c0a2ff503d903a7fa4c99c9e786a456355fcd4@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 6 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prečo mám rád slovenčinu\, prečo mám rád Slovensko\, kateg
+ ória 1\, 2A\, 2B\, 3\, 4\, školské kolo
+DTSTART;VALUE=DATE:20260131
+DTSTAMP;VALUE=DATE-TIME:20260130T230000Z
+UID:98b7375fc79e5ec52604b8b083d5b029de4c0764@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prečo mám rád slovenčinu\, prečo mám rád Slovensko\, kateg
+ ória 1\, 2A\, 2B\, 3\, 4\, celoštátne kolo
+DTSTART;VALUE=DATE:20260604
+DTSTAMP;VALUE=DATE-TIME:20260603T220000Z
+UID:0ab4ca6409d6894c774ad57305a45ca2785608da@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategória C\, 
+ školské kolo
+DTSTART;VALUE=DATE:20251017
+DTSTAMP;VALUE=DATE-TIME:20251016T220000Z
+UID:34f71a7218d842cf9b25ef8830ea98f654265313@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategórie A\, B
+ \, školské kolo
+DTSTART;VALUE=DATE:20251212
+DTSTAMP;VALUE=DATE-TIME:20251211T230000Z
+UID:652f30cfc16b9e7cb94fc5c81152d5e36046a933@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategória C\, o
+ kresné kolo
+DTSTART;VALUE=DATE:20251114
+DTSTAMP;VALUE=DATE-TIME:20251113T230000Z
+UID:1525351214085857e42d260d9efcd8f6ea46f88f@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategórie A\, B
+ \, C\, celoštátne kolo
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+DTSTAMP;VALUE=DATE-TIME:20260419T220000Z
+UID:6ce0ed9228db162e1ba7469f2771b6adcca84ead@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategórie A\, B
+ \, C\, krajské kolo
+DTSTART;VALUE=DATE:20260203
+DTSTAMP;VALUE=DATE-TIME:20260202T230000Z
+UID:5c395a7593a2f0cb04a77fbf2922bbc6e4dacd1b@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poznaj slovenskú reč\, kategória 1\, 2\, 3\, 4\, školské kolo
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:a81ccec227bb7bc6a9435fe2de05cf3fb471b4d2@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 3 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poznaj slovenskú reč\, kategória 1\, 2\, 3\, 4\, krajské kolo
+DTSTART;VALUE=DATE:20260414
+DTSTAMP;VALUE=DATE-TIME:20260413T220000Z
+UID:8be8d126c89b9f17264fb46b46e2afa18ff48f6a@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 3 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poznaj slovenskú reč\, kategória 1\, 2\, 3\, okresné kolo
+DTSTART;VALUE=DATE:20260313
+DTSTAMP;VALUE=DATE-TIME:20260312T230000Z
+UID:bf578f11b29ce418a194b936d4a824d039f86c98@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 3 – 7\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poznaj slovenskú reč\, kategória 1\, 2\, 3\, 4\, celoštátne k
+ olo
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260612
+DTSTAMP;VALUE=DATE-TIME:20260609T220000Z
+UID:ebe7d3beae36a1e979110d20cda61f8a7f98b0bb@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 3 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v informatike\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260321
+DTSTAMP;VALUE=DATE-TIME:20260317T230000Z
+UID:2de1d16766ff0780a16d8cd8bd20022815db9ccf@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://oi.sk
+URL:https://oi.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v informatike\, kategória B\, koniec domácej príprav
+ y
+DTSTART;VALUE=DATE:20251130
+DTSTAMP;VALUE=DATE-TIME:20251129T230000Z
+UID:dd31e9042744ba79c2bd22be65f6826b62d3db2b@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | ZŠ 1 – SŠ 2\n\nOrganizátor(i): nivam\n
+ https://oi.sk
+URL:https://oi.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v informatike\, kategória A\, koniec domácej príprav
+ y
+DTSTART;VALUE=DATE:20251115
+DTSTAMP;VALUE=DATE-TIME:20251114T230000Z
+UID:8d026f9cf3cf3533edc1b9948fe4818756a98c80@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://oi.sk
+URL:https://oi.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v informatike\, kategórie A\, B\, krajské kolo
+DTSTART;VALUE=DATE:20260120
+DTSTAMP;VALUE=DATE-TIME:20260119T230000Z
+UID:bd1aaec5fa419dfc8722eeec2f7d3de6e8fae27c@kockatykalendar.sk
+DESCRIPTION:olympiáda | INF | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\n
+ https://oi.sk
+URL:https://oi.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória C\, školské kolo
+DTSTART;VALUE=DATE:20260116
+DTSTAMP;VALUE=DATE-TIME:20260115T230000Z
+UID:29561e9ec64d8f512aa90729c564c50f12061cd4@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória F\, školské kolo
+DTSTART;VALUE=DATE:20260410
+DTSTAMP;VALUE=DATE-TIME:20260409T220000Z
+UID:42fad2af619d69b15284e2510b642eb0a3069d0d@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 3 – 5\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória A\, školské kolo
+DTSTART;VALUE=DATE:20251203
+DTSTAMP;VALUE=DATE-TIME:20251202T230000Z
+UID:b7d289adb8a809cedae91f1a200f968b33918f5d@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória F\, okresné kolo
+DTSTART;VALUE=DATE:20260514
+DTSTAMP;VALUE=DATE-TIME:20260513T220000Z
+UID:562d55124fbda30b185af882fdce334e84524619@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 3 – 5\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória E - botanika\, zoológia\, geo
+ lógia\, krajské kolo
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+DTSTAMP;VALUE=DATE-TIME:20260604T220000Z
+UID:0d55bf2dc658839635896a840f0ef09700b5fae4@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória E - botanika\, zoológia\, geo
+ lógia\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260119
+DTSTAMP;VALUE=DATE-TIME:20260118T230000Z
+UID:5df6459f4f9714f29be25f7212323daed86a34bf@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategórie A\, B - teoreticko-praktická 
+ časť\, celoštátne kolo
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260329
+DTSTAMP;VALUE=DATE-TIME:20260326T230000Z
+UID:61b576ce292f609a3e9097566520884ec22c948d@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória C\, okresné kolo
+DTSTART;VALUE=DATE:20260210
+DTSTAMP;VALUE=DATE-TIME:20260209T230000Z
+UID:df3439e307df9772f022302b1a968960998f9a32@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória D\, školské kolo
+DTSTART;VALUE=DATE:20260326
+DTSTAMP;VALUE=DATE-TIME:20260325T230000Z
+UID:ec1446e47d0a976af0185d348d25e0f77efd2911@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 6 – 7\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória A\, krajské kolo
+DTSTART;VALUE=DATE:20260204
+DTSTAMP;VALUE=DATE-TIME:20260203T230000Z
+UID:5eec5257d14e0132e3df2f6a9a96c95124b6acbb@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | SŠ 3 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória C\, celoštátne kolo
+DTSTART;VALUE=DATE:20260419
+DTSTAMP;VALUE=DATE-TIME:20260418T220000Z
+UID:1b13a56c207bd18ef45e0bd099a2b6d31110653b@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória B\, školské kolo
+DTSTART;VALUE=DATE:20251204
+DTSTAMP;VALUE=DATE-TIME:20251203T230000Z
+UID:a7d1b9cbed064fda788d1adb9f01c4d7cc53c322@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | SŠ 1 – 2\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória C\, krajské kolo
+DTSTART;VALUE=DATE:20260313
+DTSTAMP;VALUE=DATE-TIME:20260312T230000Z
+UID:eae8c81755890f6c7123bbecba1a382fa4a2fb70@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória E - botanika\, zoológia\, geo
+ lógia\, školské kolo
+DTSTART;VALUE=DATE:20260409
+DTSTAMP;VALUE=DATE-TIME:20260408T220000Z
+UID:e7b30f476c164216ad8b3c9e98d682c37789a284@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória E - botanika\, zoológia\, geo
+ lógia\, okresné kolo
+DTSTART;VALUE=DATE:20260506
+DTSTAMP;VALUE=DATE-TIME:20260505T220000Z
+UID:43d9e5b47a72189b230a6a902284c2f73fbb0341@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategórie A\, B - projektová časť\, c
+ eloštátne kolo
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260419
+DTSTAMP;VALUE=DATE-TIME:20260416T220000Z
+UID:f6f4f05e106c36b45f5695eaaaa88f46caa384b7@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | SŠ 1 – 4\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória D\, okresné kolo
+DTSTART;VALUE=DATE:20260428
+DTSTAMP;VALUE=DATE-TIME:20260427T220000Z
+UID:9246c3331db0d62bba8940da4f76d3cfe755994d@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | ZŠ 6 – 7\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biologická olympiáda\, kategória B\, krajské kolo
+DTSTART;VALUE=DATE:20260205
+DTSTAMP;VALUE=DATE-TIME:20260204T230000Z
+UID:f1a9c049946464524e35deae2c0f358187d88a24@kockatykalendar.sk
+DESCRIPTION:olympiáda | BIO | SŠ 1 – 2\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Riešok
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260124
+DTSTAMP;VALUE=DATE-TIME:20260116T230000Z
+UID:67cfc858d1c8e20f550591e536448e1d5e4f50f6@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 9\n\nSústredenie Riešok je 6-
+ dňový pobyt podobný Škole v prírode pre najúspešnejších riešite
+ ľov Riešok. Súčasťou sústredenia je odborný aj neodborný program v
+ o forme matematických prednášok a hier.\n\nOrganizátor(i): Riešky\nht
+ tps://riesky.sk/novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 1. kolo\, letná séria
+DTSTART;VALUE=DATE:20260226
+DTSTAMP;VALUE=DATE-TIME:20260225T230000Z
+UID:467ddaf80fa0063de684852b494a3208f340127e@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deň zo sústredenia Riešok
+DTSTART;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250927T220000Z
+UID:6039f6352f2cf1a42d441cf16a1b1c26d25eda4c@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 5 – 9\n\nIde o celodennú akciu\, kt
+ orej cieľom je budúcim riešiteľom ukázať\, ako prebieha deň na sús
+ tredení Riešok a tým ich motivovať k riešeniu. Ukážeme si prednáš
+ ky\, hry a športy\, ktoré hrávame. Samozrejme sa potešíme aj všetký
+ m aktívnym Rieškarom :).\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+ novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky výlet
+DTSTART;VALUE=DATE:20260418
+DTSTAMP;VALUE=DATE-TIME:20260417T220000Z
+UID:1c4b2948aad6b5dd42fea9b52452b772a2c07083@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 5 – 9\n\nRiešky výlet je celodenn
+ á akcia určená hlavne aktuálnym riešiteľom Riešok\, no potešíme s
+ a aj novým tváram. Ide o ľahkú turistiku po okolí Bratislavy\, ktorej
+  súčasťou sú aj sústredkové hry.\n\nOrganizátor(i): Riešky\nhttps:
+ //riesky.sk/novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 2. kolo\, letná séria
+DTSTART;VALUE=DATE:20260326
+DTSTAMP;VALUE=DATE-TIME:20260325T230000Z
+UID:494f74d85e65cacab612202810e130bb42c25a8a@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vianočný čajíček Riešok
+DTSTART;VALUE=DATE:20251218
+DTSTAMP;VALUE=DATE-TIME:20251217T230000Z
+UID:8180bd7ade09cf6c1428a5b19f1f2e4e7d969fdd@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 5 – 9\n\nIde o predvianočné stretn
+ utie vedúcich a aktuálnych riešiteľov Riešok. Potešíme sa však aj 
+ novým tváram. Koná sa v čajovni v ktorej si zahráme spoločenské hry
+  a stretneme s kamarátmi\, ktorých sme často dlho nevideli.\n\nOrganiz
+ átor(i): Riešky\nhttps://riesky.sk/novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 3. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251204
+DTSTAMP;VALUE=DATE-TIME:20251203T230000Z
+UID:4ae77457ac9520a7dee05ad983aaa83be8dfeb57@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Riešok
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260620
+DTSTAMP;VALUE=DATE-TIME:20260612T220000Z
+UID:0969f35b4baad4df283825df93b745276e2b9f10@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 9\n\nSústredenie Riešok je 6-
+ dňový pobyt podobný Škole v prírode pre najúspešnejších riešite
+ ľov Riešok. Súčasťou sústredenia je odborný aj neodborný program v
+ o forme matematických prednášok a hier.\n\nOrganizátor(i): Riešky\nht
+ tps://riesky.sk/novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251113
+DTSTAMP;VALUE=DATE-TIME:20251112T230000Z
+UID:38189c8560b11b7e39add78b37ba9a8f561907f3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251009
+DTSTAMP;VALUE=DATE-TIME:20251008T220000Z
+UID:3f85dbd154c0127ae3aadcd9ef149c7a37ecacaa@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 3. kolo\, letná séria
+DTSTART;VALUE=DATE:20260423
+DTSTAMP;VALUE=DATE-TIME:20260422T220000Z
+UID:3d792211e11ff2d3252be53fd288f4cebbc1258f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 3. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251127
+DTSTAMP;VALUE=DATE-TIME:20251126T230000Z
+UID:32dfb6bd642139dd6af8dba70840b9e87232de04@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251030
+DTSTAMP;VALUE=DATE-TIME:20251029T230000Z
+UID:b789f18ef795a15d158fa71b531bb94e64cd6bbc@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251002
+DTSTAMP;VALUE=DATE-TIME:20251001T220000Z
+UID:48fbb0ee27021fafeab1b8939f433b5435a17581@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251026
+DTSTAMP;VALUE=DATE-TIME:20251023T220000Z
+UID:3e84ece693e3d522e7a2510f87c2c756d4dca726@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-ma
+ t\nhttps://akcie.p-mat.sk/kockaty-vikend/
+URL:https://akcie.p-mat.sk/kockaty-vikend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 1.séria
+DTSTART;VALUE=DATE:20250929
+DTSTAMP;VALUE=DATE-TIME:20250928T220000Z
+UID:a7e72f72e9f6f3650ed5d1851229110f3829f3dd@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikomatu starších
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260207T230000Z
+UID:c12114e469b3d9e6d35885e1ff96aeb684126907@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 3.séria
+DTSTART;VALUE=DATE:20260427
+DTSTAMP;VALUE=DATE-TIME:20260426T220000Z
+UID:0fc7c1795afaded00b8eed97d2c00aeef00b5c99@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Pikomatu starší
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260711
+DTSTAMP;VALUE=DATE-TIME:20260703T220000Z
+UID:1db4e8513a109655c7bcdfd1c268e877eabc0258@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk//
+URL:https://pikomat.sk//
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikomatu mladších
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260208
+DTSTAMP;VALUE=DATE-TIME:20260202T230000Z
+UID:8463bda032aa2fe1c5616b3065a09c6070d43a46@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Pikomatu mladší
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260711
+DTSTAMP;VALUE=DATE-TIME:20260705T220000Z
+UID:15af80bcb4471ae2337c462fff6af2d82fcb63cd@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 6\n\nOrganizátor(i): P-mat\nht
+ tps://pikomat.sk/
+URL:https://pikomat.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 2.séria
+DTSTART;VALUE=DATE:20251103
+DTSTAMP;VALUE=DATE-TIME:20251102T230000Z
+UID:2adfbdf4555d4ccc669a7592c8bc674a99df5cf4@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 3.séria
+DTSTART;VALUE=DATE:20251208
+DTSTAMP;VALUE=DATE-TIME:20251207T230000Z
+UID:82b67ca2a103761542d76b9f69bedc991468ff01@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 2.séria
+DTSTART;VALUE=DATE:20260330
+DTSTAMP;VALUE=DATE-TIME:20260329T220000Z
+UID:44624534a13b8150663220da66cebd6e1eed9113@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikomat 1.séria
+DTSTART;VALUE=DATE:20260223
+DTSTAMP;VALUE=DATE-TIME:20260222T230000Z
+UID:f87f54bf63395981ef2b634015a07db6f201955f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikomat.sk
+URL:https://pikomat.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260208
+DTSTAMP;VALUE=DATE-TIME:20260202T230000Z
+UID:97c6f0d44a22ff1e97a48c9044d0cb2fe0104e86@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260704
+DTSTAMP;VALUE=DATE-TIME:20260626T220000Z
+UID:c5c9310274d924c374d1d803c58d09fe7e9c7fe1@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20251208
+DTSTAMP;VALUE=DATE-TIME:20251207T230000Z
+UID:b05d7dfbff896207760aa61d95b0e5dc5b77481e@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20250929
+DTSTAMP;VALUE=DATE-TIME:20250928T220000Z
+UID:ca7d3a191d091570a02df7cea8e573a43337f8f0@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20251103
+DTSTAMP;VALUE=DATE-TIME:20251102T230000Z
+UID:68e3c0a6aeddfb693263507e164145b4fd30cc38@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20260330
+DTSTAMP;VALUE=DATE-TIME:20260329T220000Z
+UID:dffda2ed4d496ed143d0d112d0ac8689a4fab5c0@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20260427
+DTSTAMP;VALUE=DATE-TIME:20260426T220000Z
+UID:cbd3ea01c88f03652f47be19dcf423c2198cd321@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20260223
+DTSTAMP;VALUE=DATE-TIME:20260222T230000Z
+UID:284ecedcca1495d2a50a7df5fdf9b73343abead8@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 2. kolo letnej časti
+DTSTART;VALUE=DATE:20260413
+DTSTAMP;VALUE=DATE-TIME:20260412T220000Z
+UID:6335404a95875542b26ccc81e2569e489a9c9953@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 3. kolo zimnej časti
+DTSTART;VALUE=DATE:20251208
+DTSTAMP;VALUE=DATE-TIME:20251207T230000Z
+UID:bad1b7c915da86d475a5bb787e322a860c314d63@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 2. kolo zimnej časti
+DTSTART;VALUE=DATE:20251110
+DTSTAMP;VALUE=DATE-TIME:20251109T230000Z
+UID:485fc4da966ce3bd4336b1525ac5fcedfd158684@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 1. kolo zimnej časti
+DTSTART;VALUE=DATE:20251013
+DTSTAMP;VALUE=DATE-TIME:20251012T220000Z
+UID:566b5f7ce0e4de5b29e377a6ed2905c9f1192c04@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 3. kolo letnej časti
+DTSTART;VALUE=DATE:20260511
+DTSTAMP;VALUE=DATE-TIME:20260510T220000Z
+UID:a0fa45b7c29df92eff768d381430ec5be3e5a714@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 1. kolo letnej časti
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:885faffb78acb9f758756c555826ea2cd6d49dc1@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS sústredenie
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260131
+DTSTAMP;VALUE=DATE-TIME:20260123T230000Z
+UID:af6642589846971f49e5120bd38406056356139c@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHeMoUk
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260407
+DTSTAMP;VALUE=DATE-TIME:20260301T230000Z
+UID:edadbde1a31421a1a01eb30250457e23b1bde4ba@kockatykalendar.sk
+DESCRIPTION:seminár | CHEM | SŠ 2 – 3\n\nKorešpondenčný seminár z 
+ rôznych oblastí chémie - analytickej\, anorganickej\, fyzikálnej\, mat
+ eriálovej\, organickej\, teoretickej chémie a toxikológie. Najúspešne
+ jší riešitelia sú počas leta pozvaní na týždňové sústredenie na
+  prírodovedeckej fakulte.\n\nOrganizátor(i): prifuk\nhttps://fns.uniba.s
+ k/chemouk/
+URL:https://fns.uniba.sk/chemouk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHeMoUk
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260208
+DTSTAMP;VALUE=DATE-TIME:20260104T230000Z
+UID:90c4c0ef06f548695228247f1a03d24800f35d42@kockatykalendar.sk
+DESCRIPTION:seminár | CHEM | SŠ 2 – 3\n\nKorešpondenčný seminár z 
+ rôznych oblastí chémie - analytickej\, anorganickej\, fyzikálnej\, mat
+ eriálovej\, organickej\, teoretickej chémie a toxikológie. Najúspešne
+ jší riešitelia sú počas leta pozvaní na týždňové sústredenie na
+  prírodovedeckej fakulte.\n\nOrganizátor(i): prifuk\nhttps://fns.uniba.s
+ k/chemouk/
+URL:https://fns.uniba.sk/chemouk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHeMoUk
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251207
+DTSTAMP;VALUE=DATE-TIME:20251102T230000Z
+UID:ae5c4b31b98bed645ecbab54927270e98bd9b25d@kockatykalendar.sk
+DESCRIPTION:seminár | CHEM | SŠ 2 – 3\n\nKorešpondenčný seminár z 
+ rôznych oblastí chémie. Najúspešnejší riešitelia sú počas leta p
+ ozvaní na týždňové sústredenie na prírodovedeckej fakulte. Registr
+ ácia je možná do 30. 11. 2025.\n\nOrganizátor(i): prifuk\nhttps://fns.
+ uniba.sk/chemouk/
+URL:https://fns.uniba.sk/chemouk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Druhá séria STEB
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251222
+DTSTAMP;VALUE=DATE-TIME:20251114T230000Z
+UID:b08d124644fc68c5315b59dff97870251235d27c@kockatykalendar.sk
+DESCRIPTION:seminár | BIO\, iné | SŠ 1 – 4\n\nSelected Topics in Evol
+ utionary Biology je korešpondenčný seminár zameraný na aktuálne tém
+ y vedeckých výskumov a na evolučné súvislosti v biológii. Úspešní
+  riešitelia náročnej kategórie sú pozvaní na sústredenie v ISTA bl
+ ízko Viedne.\n\nOrganizátor(i): edub\nhttps://www.edub.sk/steb/aktu%C3%A
+ 1lne-s%C3%A9rie
+URL:https://www.edub.sk/steb/aktu%C3%A1lne-s%C3%A9rie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Štvrtá séria STEB
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260406
+DTSTAMP;VALUE=DATE-TIME:20260228T230000Z
+UID:9f0bda271f381b4ecadfd34ef302b964b7f9dc2b@kockatykalendar.sk
+DESCRIPTION:seminár | BIO\, iné | SŠ 1 – 4\n\nSelected Topics in Evol
+ utionary Biology je korešpondenčný seminár zameraný na aktuálne tém
+ y vedeckých výskumov a na evolučné súvislosti v biológii. Úspešní
+  riešitelia náročnej kategórie sú pozvaní na sústredenie v ISTA bl
+ ízko Viedne.\n\nOrganizátor(i): edub\nhttps://www.edub.sk/steb/aktu%C3%A
+ 1lne-s%C3%A9rie
+URL:https://www.edub.sk/steb/aktu%C3%A1lne-s%C3%A9rie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piata séria STEB
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260518
+DTSTAMP;VALUE=DATE-TIME:20260414T220000Z
+UID:c423977def5ae6003261632554d619c3adeeb561@kockatykalendar.sk
+DESCRIPTION:seminár | BIO\, iné | SŠ 1 – 4\n\nSelected Topics in Evol
+ utionary Biology je korešpondenčný seminár zameraný na aktuálne tém
+ y vedeckých výskumov a na evolučné súvislosti v biológii. Úspešní
+  riešitelia náročnej kategórie sú pozvaní na sústredenie v ISTA bl
+ ízko Viedne.\n\nOrganizátor(i): edub\nhttps://www.edub.sk/steb/aktu%C3%A
+ 1lne-s%C3%A9rie
+URL:https://www.edub.sk/steb/aktu%C3%A1lne-s%C3%A9rie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Registrácia + prvá séria STEB
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251103
+DTSTAMP;VALUE=DATE-TIME:20251002T220000Z
+UID:7e3c05adb1d26408f55ec8f307e834c30e22e866@kockatykalendar.sk
+DESCRIPTION:seminár | BIO\, iné | SŠ 1 – 4\n\nSelected Topics in Evol
+ utionary Biology je korešpondenčný seminár zameraný na aktuálne tém
+ y vedeckých výskumov a na evolučné súvislosti v biológii. Úspešní
+  riešitelia náročnej kategórie sú pozvaní na sústredenie v ISTA bl
+ ízko Viedne.\n\nOrganizátor(i): edub\nhttps://www.edub.sk/steb/aktu%C3%A
+ 1lne-s%C3%A9rie
+URL:https://www.edub.sk/steb/aktu%C3%A1lne-s%C3%A9rie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tretia séria STEB
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260223
+DTSTAMP;VALUE=DATE-TIME:20260114T230000Z
+UID:8a56c723e5762021af5fb30f4d45c66bd57d5d33@kockatykalendar.sk
+DESCRIPTION:seminár | BIO\, iné | SŠ 1 – 4\n\nSelected Topics in Evol
+ utionary Biology je korešpondenčný seminár zameraný na aktuálne tém
+ y vedeckých výskumov a na evolučné súvislosti v biológii. Úspešní
+  riešitelia náročnej kategórie sú pozvaní na sústredenie v ISTA bl
+ ízko Viedne.\n\nOrganizátor(i): edub\nhttps://www.edub.sk/steb/aktu%C3%A
+ 1lne-s%C3%A9rie
+URL:https://www.edub.sk/steb/aktu%C3%A1lne-s%C3%A9rie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSečí půlmaraton
+DTSTART;VALUE=DATE:20251019
+DTSTAMP;VALUE=DATE-TIME:20251018T220000Z
+UID:df2d29041fd996c8fd9878fd1a512f4ac89cfaaa@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT | SŠ 1 – 4\n\nPraSe není jen matika!
+  Pojď si s námi v Praze zaběhnout sám nebo ve štafetě půlmaraton\n\
+ nOrganizátor(i): prase\nhttps://docs.google.com/forms/d/e/1FAIpQLSdwMsqTu
+ 421bj9JzFFk77bOym8Ocg5rdiuGK03RDyixV68gvg/viewform?usp=header
+URL:https://docs.google.com/forms/d/e/1FAIpQLSdwMsqTu421bj9JzFFk77bOym8Ocg
+ 5rdiuGK03RDyixV68gvg/viewform?usp=header
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSe odevzdávání 2. podzimní série
+DTSTART;VALUE=DATE:20251103
+DTSTAMP;VALUE=DATE-TIME:20251102T230000Z
+UID:e82d75404c9b292a9592beaa6804612901cdbbc5@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nPotrénuj svou matematickou de
+ dukci a sepisování logických úvah! Přijatá řešení opravíme a po
+ šleme se zpětnou vazbou zpět. Seminář probíhá celoročně a nejlep
+ ší řešitelé každého pololetí mohou jet na námi pořádaná soust
+ ředění.\n\nOrganizátor(i): prase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSe víkendovka
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251117
+DTSTAMP;VALUE=DATE-TIME:20251113T230000Z
+UID:35c835390a5c091f49f69978d408efd482daf25c@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nNultý ročník PraSečíh
+ o minisoustředění.\n\nOrganizátor(i): prase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSe podzimní soustředění
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250919T220000Z
+UID:cc86efa59e793d128a8b26741cd38c5f39d1c1ec@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPodzimní soustředění p
+ ro nejlepší řešitele jarní části matematického korespondenčního 
+ semináře PraSe.\n\nOrganizátor(i): prase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PraSe odevzdávání 1. podzimní série
+DTSTART;VALUE=DATE:20250930
+DTSTAMP;VALUE=DATE-TIME:20250929T220000Z
+UID:8cbc415f934d6b8f7f4724864dc2180b56d9ee1d@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nPotrénuj svou matematickou de
+ dukci a sepisování logických úvah! Přijatá řešení opravíme a po
+ šleme se zpětnou vazbou zpět. Seminář probíhá celoročně a nejlep
+ ší řešitelé každého pololetí mohou jet na námi pořádaná soust
+ ředění.\n\nOrganizátor(i): prase
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 2. letná séria
+DTSTART;VALUE=DATE:20260413
+DTSTAMP;VALUE=DATE-TIME:20260412T220000Z
+UID:7d88993764c024754bd3396e6a52d63d4b7c819c@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nMalynár sa skladá z 2 semest
+ rov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášm
+ u odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi
+ . Na našej stránke a v časopisoch nájdete vzorové riešenia všetkýc
+ h úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 2. zimná séria
+DTSTART;VALUE=DATE:20251117
+DTSTAMP;VALUE=DATE-TIME:20251116T230000Z
+UID:10a15efceebacbf0241a638aad4fb0ea95ded8bc@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nMalynár sa skladá z 2 semest
+ rov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášm
+ u odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi
+ . Na našej stránke a v časopisoch nájdete vzorové riešenia všetkýc
+ h úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20250927
+DTSTAMP;VALUE=DATE-TIME:20250926T220000Z
+UID:ef8956687023480af3deb1ebc1d97a9f73ea348d@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nDo Košickej šifrovačky
+  sa môžete zapojiť v najviac päťčlenných tímoch\, a to buď v ter
+ éne alebo online. V oboch verziách sú 2 kategórie - začiatočníci a 
+ pokročilí. Hra je lineárna\, teda s tímom budete postupne prechádzať
+  10 šiframi v čase od 9:00 do 20:30.\n\nOrganizátor(i): Strom\nhttps://
+ kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - letné sústredenie
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260627
+DTSTAMP;VALUE=DATE-TIME:20260620T220000Z
+UID:844c32788b34f1293b96cd60de23d34781e7ce8f@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. letná séria
+DTSTART;VALUE=DATE:20260427
+DTSTAMP;VALUE=DATE-TIME:20260426T220000Z
+UID:fe4d22935d41e9f9c6bbdc626438658ab97adfff@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 1. letná séria
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:ef635a0514a9bbacd69cd761b103bf5805e1637f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nMatik sa skladá z 2 semestrov
+ \, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášmu o
+ dovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi. N
+ a našej stránke a v časopisoch nájdete vzorové riešenia všetkých 
+ úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - zimné sústredenie
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260131
+DTSTAMP;VALUE=DATE-TIME:20260125T230000Z
+UID:8dcfb0d763b2cc034b4703c02df6571f2ddfd119@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 4 – 6\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 2. zimná séria
+DTSTART;VALUE=DATE:20251124
+DTSTAMP;VALUE=DATE-TIME:20251123T230000Z
+UID:b8410e553ab1b90ea5807d194d7f6c2406e135c3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Máš problém?!
+DTSTART;VALUE=DATE:20251110
+DTSTAMP;VALUE=DATE-TIME:20251109T230000Z
+UID:20262d865b564a7ba8c9e2d5916081a9bc91c4f0@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 4 – 9\n\nV online súťaži Máš probl
+ ém?! budete mať 60 minút na to\, aby ste zdolali 6 úrovní matematick
+ ých úloh\, pričom na odomknutie novej úrovne je vždy potrebné vyrie
+ šiť istý počet úloh z tej aktuálnej. Následne je možné riešiť v
+ šetky dostupné úlohy.\n\nOrganizátor(i): Strom\nhttps://masproblem.str
+ om.sk/
+URL:https://masproblem.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - letné sústredenie
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260620
+DTSTAMP;VALUE=DATE-TIME:20260613T220000Z
+UID:1e58b955aa1e579f41aa25c062ed4a5fc5c92dab@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 4 – 6\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lomihlav
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:532e356296966807a34c5c6e006befa288d8500c@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 7 – 9\n\nNa Lomihlave si zasúťažíte
+  v štvorčlenných tímoch\, kde budete mať 99 minút na vyriešenie čo
+  najviac zo 40 matematických úloh\, 4 hlavolamov a 4 hádaniek. Súťaž
+  prebieha štafetovo\, teda za správne vyriešený príklad získate zada
+ nie ďalšieho.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik/akcie/lo
+ mihlav
+URL:https://strom.sk/matik/akcie/lomihlav
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamut
+DTSTART;VALUE=DATE:20260529
+DTSTAMP;VALUE=DATE-TIME:20260528T220000Z
+UID:aa8cd717a5722a979078402bc14a34af21f9fa9a@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | ZŠ 4 – 6\n\nNa Mamute si zasúťažíte v 
+ päťčlenných tímoch\, kde budete mať 120 minút na vyriešenie čo na
+ jviac zo 60 matematických úloh. Súťaž prebieha štafetovo\, teda za s
+ právne vyriešený príklad alebo splnenie pripravenej športovej aktivit
+ y získate zadanie ďalšieho.\n\nOrganizátor(i): Strom\nhttps://strom.sk
+ /malynar/akcie/mamut
+URL:https://strom.sk/malynar/akcie/mamut
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 2. zimná séria
+DTSTART;VALUE=DATE:20251117
+DTSTAMP;VALUE=DATE-TIME:20251116T230000Z
+UID:5ff7624fbd332a1aa012acbb7028544c2d53e666@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nMatik sa skladá z 2 semestrov
+ \, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášmu o
+ dovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi. N
+ a našej stránke a v časopisoch nájdete vzorové riešenia všetkých 
+ úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 1. letná séria
+DTSTART;VALUE=DATE:20260330
+DTSTAMP;VALUE=DATE-TIME:20260329T220000Z
+UID:c75e5fb8fb8317ef25534f54f0eca78058377449@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 1. zimná séria
+DTSTART;VALUE=DATE:20251020
+DTSTAMP;VALUE=DATE-TIME:20251019T220000Z
+UID:dfa05d9192eeeb72101e7615131cc2f4bd46b315@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nMalynár sa skladá z 2 semest
+ rov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášm
+ u odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi
+ . Na našej stránke a v časopisoch nájdete vzorové riešenia všetkýc
+ h úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Košický Matboj
+DTSTART;VALUE=DATE:20251024
+DTSTAMP;VALUE=DATE-TIME:20251023T220000Z
+UID:3e8036ba9cd370752aa4290f853997c56a51e533@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT | SŠ 1 – 4\n\nNa Matboji si zasúťažíte v
+   štvorčlenných tímoch v troch 30-minútových kolách. V každom kole
+  obdržíte 12 úloh a odpoveďový hárok\, ktorý sa po ukončení kola 
+ pozbiera a následne oboduje\, teda k úlohám z predchádzajúcich kôl s
+ a vrátiť nedá.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom/akcie/
+ matboj
+URL:https://strom.sk/strom/akcie/matboj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malynár - 1. letná séria
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:38f073bd095de82c3cd44b6fc365cc1373ba8df6@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 4 – 6\n\nMalynár sa skladá z 2 semest
+ rov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášm
+ u odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi
+ . Na našej stránke a v časopisoch nájdete vzorové riešenia všetkýc
+ h úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/malynar
+URL:https://strom.sk/malynar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - jesenné sústredenie
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250912
+DTSTAMP;VALUE=DATE-TIME:20250905T220000Z
+UID:fa91d13bafb3cb95b4dc20f1715dd7c7cb1ae511@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - 1. zimná séria
+DTSTART;VALUE=DATE:20251027
+DTSTAMP;VALUE=DATE-TIME:20251026T230000Z
+UID:3ccbf382204d303e19abcb89e24723fd6c140f13@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | SŠ 1 – 4\n\nSeminár STROM sa skladá z 2 
+ semestrov\, kde vás v každom čakajú 2 série po 6 úloh. Ku každému 
+ vášmu odovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s
+  bodmi. Na našej stránke a v časopisoch nájdete vzorové riešenia vš
+ etkých úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - zimné sústredenie
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260130
+DTSTAMP;VALUE=DATE-TIME:20260124T230000Z
+UID:78ff3eca4e3a415e8c5ba6e7a84f65330063d221@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 7 – 9\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 1. zimná séria
+DTSTART;VALUE=DATE:20251020
+DTSTAMP;VALUE=DATE-TIME:20251019T220000Z
+UID:d15fd9c81f46fab1d4473d59e4e6e4d7208522ff@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nMatik sa skladá z 2 semestrov
+ \, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášmu o
+ dovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi. N
+ a našej stránke a v časopisoch nájdete vzorové riešenia všetkých 
+ úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STROM - zimné sústredenie
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260207T230000Z
+UID:781ace6e0fda75613284fe47ca5c4a0002de45dd@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | SŠ 1 – 4\n\nPre najlepších riešite
+ ľov našich seminárov sú odmenou niekoľkodňové pobytové sústredeni
+ a.  Čakajú vás na ňom prednášky na témy z matematiky\, s ktorými s
+ a v škole len tak nestretnete\, netradičné športy a hry\, ale hlavne k
+ opa zábavy a nových kamarátov.\n\nOrganizátor(i): Strom\nhttps://strom
+ .sk/strom
+URL:https://strom.sk/strom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matik - 2. letná séria
+DTSTART;VALUE=DATE:20260413
+DTSTAMP;VALUE=DATE-TIME:20260412T220000Z
+UID:3000394f41f617457773e41233e90d9ef6806814@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 7 – 9\n\nMatik sa skladá z 2 semestrov
+ \, kde vás v každom čakajú 2 série po 6 úloh. Ku každému vášmu o
+ dovzdanému riešeniu úlohy vám napíšeme spätnú väzbu aj s bodmi. N
+ a našej stránke a v časopisoch nájdete vzorové riešenia všetkých 
+ úloh.\n\nOrganizátor(i): Strom\nhttps://strom.sk/matik
+URL:https://strom.sk/matik
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 3. série
+DTSTART;VALUE=DATE:20260111
+DTSTAMP;VALUE=DATE-TIME:20260110T230000Z
+UID:793454d01bedb7b78aeafcdfbb41834eb65bdaaf@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soustředení FYKOSu
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250919T220000Z
+UID:298ddbff379a607841e02bd18040d6f2ee9c6e54@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): fykos\nht
+ tps://fykos.cz/akce/soustredeni/2025-podzim
+URL:https://fykos.cz/akce/soustredeni/2025-podzim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 4. série
+DTSTART;VALUE=DATE:20260222
+DTSTAMP;VALUE=DATE-TIME:20260221T230000Z
+UID:129f70db518ea2c50b222e4f4a89bf186d4d06d1@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 2. série
+DTSTART;VALUE=DATE:20251116
+DTSTAMP;VALUE=DATE-TIME:20251115T230000Z
+UID:8a1cc8546a98b0bbda8844910f69d5748e949373@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 1. série
+DTSTART;VALUE=DATE:20251005
+DTSTAMP;VALUE=DATE-TIME:20251004T220000Z
+UID:fe515b25fcaa241e9f46d455354aabb957a28a76@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 6. série
+DTSTART;VALUE=DATE:20260511
+DTSTAMP;VALUE=DATE-TIME:20260510T220000Z
+UID:e6e13533227847d84b0b818d5b6e25c5eeaaa6a4@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 5. série
+DTSTART;VALUE=DATE:20260329
+DTSTAMP;VALUE=DATE-TIME:20260328T230000Z
+UID:66999524273dca77ca70351becc12d4a6fa1ae32@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soustředení FYKOSu
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260419
+DTSTAMP;VALUE=DATE-TIME:20260410T220000Z
+UID:f7f298115d229e8ec315544697793dd9b3b18426@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): fykos\nht
+ tps://fykos.cz/akce/soustredeni/2026-jaro
+URL:https://fykos.cz/akce/soustredeni/2026-jaro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MaK - Stretnutie Matematického Klubu
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250926T220000Z
+UID:2e24b04fd34fc87c4f65885e3a17ce6d55c2cc53@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | SŠ 1 – 4\n\nOrganizátor(i): SEZAM\nhtt
+ ps://sezam.sk/
+URL:https://sezam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z1 - Deadline odevzdávání série za třetinu bodů
+DTSTART;VALUE=DATE:20251026
+DTSTAMP;VALUE=DATE-TIME:20251025T220000Z
+UID:51fe293c423231dd9e218af893507fe60a0c4298@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategorie Z je určena za
+ čátečníkům\, kteří se chtějí naučiť programovat. Během roka pr
+ obíhá 5 sérií - každá obsahuje zpravidla tři praktické a jednu teo
+ retickou úlohu. Termín odevzdávání úloh je tradičně 32:00 (8:00 r
+ áno ďalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.
+ cz/z/ulohy/38/zadani1.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/38/zadani1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z2 - Deadline odevzdávání série za třetinu bodů
+DTSTART;VALUE=DATE:20251215
+DTSTAMP;VALUE=DATE-TIME:20251214T230000Z
+UID:25b7425a3f1f29e796d72c0957fb57c707d295b7@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategorie Z je určena za
+ čátečníkům\, kteří se chtějí naučiť programovat. Během roka pr
+ obíhá 5 sérií - každá obsahuje zpravidla tři praktické a jednu teo
+ retickou úlohu. Termín odevzdávání úloh je tradičně 32:00 (8:00 r
+ áno ďalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.
+ cz/z/ulohy/38/zadani2.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/38/zadani2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - H1 - Deadline odevzdávání série
+DTSTART;VALUE=DATE:20251102
+DTSTAMP;VALUE=DATE-TIME:20251101T230000Z
+UID:2930117eaf29dae59d0281a11a0a916efd14627d@kockatykalendar.sk
+DESCRIPTION:seminár | INF | ZŠ 9 – SŠ 4\n\nKategorie H je určena pok
+ ročilým programátorům\, soutěží se o účasť na podzimním soustř
+ edění\, prominutí přijímaček na MFF UK a zajímavé ceny. Sérii zvy
+ kne doprovázet seriál. Termín odevzdávání úloh je tradičně 32:00 
+ (8:00 ráno dalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff
+ .cuni.cz/h/ulohy/38/zadani1.html
+URL:https://ksp.mff.cuni.cz/h/ulohy/38/zadani1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krutá Smršť Přednášek
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251130
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:a7f66fd7fb95d29c5032f19a24ccd18ad52491db@kockatykalendar.sk
+DESCRIPTION:víkendovka | INF | ZŠ 9 – SŠ 4\n\nKrutá Smršť Prědná
+ šek - Smršť - je víkendovka plná prědnášek se zameřením hlavně 
+ (ale nejen) na informatiku. Tešit se můžete kromě přednášek na hodn
+ ě zábavy se starými i novými kamarády. Pozor\, kapacita je omezená.\
+ n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.cz/akce/smrst/
+URL:https://ksp.mff.cuni.cz/akce/smrst/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z1 - Deadline odevzdávání série
+DTSTART;VALUE=DATE:20251019
+DTSTAMP;VALUE=DATE-TIME:20251018T220000Z
+UID:c3b3bacb95134e5593404de82712a6aba75f11b4@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategorie Z je určena za
+ čátečníkům\, kteří se chtějí naučiť programovat. Během roka pr
+ obíhá 5 sérií - každá obsahuje zpravidla tři praktické a jednu teo
+ retickou úlohu. Termín odevzdávání úloh je tradičně 32:00 (8:00 r
+ áno ďalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.
+ cz/z/ulohy/38/zadani1.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/38/zadani1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Z2 - Deadline odevzdávání série
+DTSTART;VALUE=DATE:20251130
+DTSTAMP;VALUE=DATE-TIME:20251129T230000Z
+UID:caa0d171f80ce229d6173c134f5c373e7b76530c@kockatykalendar.sk
+DESCRIPTION:seminár | INF | SŠ 4 a mladší\n\nKategorie Z je určena za
+ čátečníkům\, kteří se chtějí naučiť programovat. Během roka pr
+ obíhá 5 sérií - každá obsahuje zpravidla tři praktické a jednu teo
+ retickou úlohu. Termín odevzdávání úloh je tradičně 32:00 (8:00 r
+ áno ďalšího dne).\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cuni.
+ cz/z/ulohy/38/zadani2.html
+URL:https://ksp.mff.cuni.cz/z/ulohy/38/zadani2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesenné sústredenie Terabio
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250912
+DTSTAMP;VALUE=DATE-TIME:20250905T220000Z
+UID:18b173a4638fd09963a5c29483bd8a4f72fd35e3@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nh
+ ttps://terabio.sk/
+URL:https://terabio.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSP - Jesenné sústredenie
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250920
+DTSTAMP;VALUE=DATE-TIME:20250912T220000Z
+UID:36f3f5680374b48eb19264c99341dad6e900c2fa@kockatykalendar.sk
+DESCRIPTION:sústredenie | INF | SŠ 4 a mladší\n\nJesenné sústredenie
+  je určené pre pokročilých riešiteľov\, pozýva sa najmä na základ
+ e výsledkov hlavnej kategórie. Program je plný zaujímavých informatic
+ kých aj "polnočných" prednášok\, výletov a hier. Nechýba úžasný 
+ kolektív a veľa čaju.\n\nOrganizátor(i): ksp-praha\nhttps://ksp.mff.cu
+ ni.cz/akce/sous/2025-podzimni/
+URL:https://ksp.mff.cuni.cz/akce/sous/2025-podzimni/
+END:VEVENT
+END:VCALENDAR

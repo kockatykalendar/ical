@@ -1,0 +1,384 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Noc Vedy
+DTSTART;VALUE=DATE:20250926
+DTSTAMP;VALUE=DATE-TIME:20250925T220000Z
+UID:23d453aaa63302e51f46269b7d9f5b8afa75a526@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT\, FYZ\, INF | ktokoľvek\n\nKaždoročne
+  Ťa čaká celý deň plný prednášok a stánkov s rôznymi experimentm
+ i a ukážkami z oblasti vedy a techniky. Vstup je voľný a každý si pr
+ íde na svoje. V Bratislave sa môžte tešiť na stánky od vašich obľ
+ úbených organizácii Trojsten\, Riešky\, či P-mat.\n\nOrganizátor(i):
+  sovva\nhttps://nocvedy.sk/
+URL:https://nocvedy.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - regionálne kolo
+DTSTART;VALUE=DATE:20260323
+DTSTAMP;VALUE=DATE-TIME:20260322T230000Z
+UID:511a24301b245ff91ee193a06afe505a436d21be@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | ZŠ 1 – SŠ 4\n\nRegionálne kolo pr
+ ebieha súbežne na viacerých miestach po celom Slovensku. Najlepší rie
+ šitelia zo stredoškolskej kategórie postupujú do celoštátneho kola.\
+ n\nOrganizátor(i): ao\nhttps://www.astronomickaolympiada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - domáce kolo
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20260216
+DTSTAMP;VALUE=DATE-TIME:20251205T230000Z
+UID:c9419f2d349eeb6af648dbd94335ee2dfd884d22@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | ZŠ 1 – SŠ 4\n\nDomáce kolo AO pre
+ bieha online. Na riešenie úloh máte viac než dva mesiace času. Teši
+ ť sa môžete na výpočtové úlohy z astrofyziky aj experimentálne úl
+ ohy ako pozorovania.\n\nOrganizátor(i): ao\nhttps://www.astronomickaolymp
+ iada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - celoštátne kolo
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260505
+DTSTAMP;VALUE=DATE-TIME:20260502T220000Z
+UID:175122cb79349886ddb76c8934bb69e3224202b1@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | SŠ 1 – 4\n\nNajlepší riešitelia 
+ celoštátneho kola dostanú možnosť reprezenotvať Slovensko na medzin
+ árodnej olympiáde z astronómie a astrofyziky (IOAA).\n\nOrganizátor(i)
+ : ao\nhttps://www.astronomickaolympiada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyziklání Online
+DTSTART;VALUE=DATE:20251126
+DTSTAMP;VALUE=DATE-TIME:20251125T230000Z
+UID:1000af5567c581ae5828c990e32c1f0edeed511c@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nFyziklání Online je internet
+ ová týmová soutěž pro každého\, kdo má zájem o fyziku. Až pěti
+ členné týmy se snaží v časovém limitu 3 hodin vyřešit co nejvíce
+  zadaných úloh\, pričemž tým začína se 7 úlohami a za každou spr
+ ávně vyřešenou úlohu dostává novou.\n\nOrganizátor(i): fykos\nhttp
+ s://online.fyziklani.cz/
+URL:https://online.fyziklani.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyziklání
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:c763d8dc0408eb6bf6f4bca8eb35737dca60fe10@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nFyziklání je největší tý
+ mová fyzikální soutěž pro studenty středních škol se zájmem o fyz
+ iku. Maximálně pětičlenné týmy\, skládající se ze studentů až d
+ vou škol\, se snaží vyřešit co nejvíce zadaných fyzikálních úloh
+  v časovém limitu tří hodin.\n\nOrganizátor(i): fykos\nhttps://fyzikl
+ ani.cz/
+URL:https://fyziklani.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálny Náboj
+DTSTART;VALUE=DATE:20251107
+DTSTAMP;VALUE=DATE-TIME:20251106T230000Z
+UID:7631df068c249f9e1d13c4706bb2186a5268cd61@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ | SŠ 1 – 4\n\nFyzikálny Náboj je medzinár
+ odná súťaž päťčlenných tímov v rýchlostnom riešení fyzikálnyc
+ h úloh. Každý tím začína so sadou ôsmich úloh\, po každom odovzda
+ ní správne vyriešenej úlohy dostane ďalšiu. Vyhráva tím\, ktorý i
+ ch za dve hodiny vyrieši najviac.\n\nOrganizátor(i): Trojsten\nhttps://p
+ hysics.naboj.org/sk/sk
+URL:https://physics.naboj.org/sk/sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turnaj mladých fyzikov\, celoštátne kolo
+DTSTART;VALUE=DATE:20260327
+DTSTAMP;VALUE=DATE-TIME:20260326T230000Z
+UID:ec8667054f8f964d6ed7f5dbd7a886c0644230d0@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nTurnaj mladých fyzikov je s
+ úťaž pre stredoškolské tímy\, počas ktorej riešia reálne vedecké
+  problémy\, experimentujú\, tvoria teórie a prezentujú svoje riešenia
+  pred porotou. Úlohou je nasimulovať vedeckú prácu a obhájiť si svoj
+ e výsledky.\n\nOrganizátor(i): nivam\nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turnaj mladých fyzikov\, krajské kolo
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+DTSTAMP;VALUE=DATE-TIME:20260209T230000Z
+UID:e9ac814c2b14a825feb03cf570c539de9ef24155@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 4\n\nTurnaj mladých fyzikov je s
+ úťaž pre stredoškolské tímy\, počas ktorej riešia reálne vedecké
+  problémy\, experimentujú\, tvoria teórie a prezentujú svoje riešenia
+  pred porotou. Úlohou je nasimulovať vedeckú prácu a obhájiť si svoj
+ e výsledky.\n\nOrganizátor(i): nivam\nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260412
+DTSTAMP;VALUE=DATE-TIME:20260408T220000Z
+UID:fa44186daf545e47a7d33f8342f2188460456642@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 4\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória A\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260116
+DTSTAMP;VALUE=DATE-TIME:20260115T230000Z
+UID:d6eca3ebbd3ac985db72e7b78a761e5b0a8055f9@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 4\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategórie B\, C\, D\, krajské kolo
+DTSTART;VALUE=DATE:20260513
+DTSTAMP;VALUE=DATE-TIME:20260512T220000Z
+UID:e36f633127f786b3f6dc6f3789677c55f5ebe471@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 3\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória A\, krajské kolo
+DTSTART;VALUE=DATE:20260128
+DTSTAMP;VALUE=DATE-TIME:20260127T230000Z
+UID:a41760c29f174c0785eafc4392b4c5c0e01678e7@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 4\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategórie B\, C\, D\, koniec domácej pr
+ ípravy
+DTSTART;VALUE=DATE:20260430
+DTSTAMP;VALUE=DATE-TIME:20260429T220000Z
+UID:050acd7e0f303e64c06309d49169331dd3d799d0@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | SŠ 1 – 3\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:252600fc82b35f5b44e079e1485d36786309b9ea@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, krajské kolo
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260604
+DTSTAMP;VALUE=DATE-TIME:20260530T220000Z
+UID:b4bd2abb7241aa17fffa9e082b631e0a498e95a5@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, okresné kolo
+DTSTART;VALUE=DATE:20260421
+DTSTAMP;VALUE=DATE-TIME:20260420T220000Z
+UID:7baf0479ab960417974a04c47dc874628ae4bb7f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 2. kolo letnej časti
+DTSTART;VALUE=DATE:20260413
+DTSTAMP;VALUE=DATE-TIME:20260412T220000Z
+UID:6335404a95875542b26ccc81e2569e489a9c9953@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 3. kolo zimnej časti
+DTSTART;VALUE=DATE:20251208
+DTSTAMP;VALUE=DATE-TIME:20251207T230000Z
+UID:bad1b7c915da86d475a5bb787e322a860c314d63@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 2. kolo zimnej časti
+DTSTART;VALUE=DATE:20251110
+DTSTAMP;VALUE=DATE-TIME:20251109T230000Z
+UID:485fc4da966ce3bd4336b1525ac5fcedfd158684@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 1. kolo zimnej časti
+DTSTART;VALUE=DATE:20251013
+DTSTAMP;VALUE=DATE-TIME:20251012T220000Z
+UID:566b5f7ce0e4de5b29e377a6ed2905c9f1192c04@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 3. kolo letnej časti
+DTSTART;VALUE=DATE:20260511
+DTSTAMP;VALUE=DATE-TIME:20260510T220000Z
+UID:a0fa45b7c29df92eff768d381430ec5be3e5a714@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS - 1. kolo letnej časti
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:885faffb78acb9f758756c555826ea2cd6d49dc1@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFyzikálny korešpondenčný s
+ eminár je súťaž v riešení netradičných fyzikálnych problémov. Po
+ mocou zaujímavých experimentov a situácií z bežného života sa snaž
+ íme ukázať\, že fyzika nie je taká nudná\, ba dokonca ani taká ťa
+ žká\, ako sa občas zdá.\n\nOrganizátor(i): Trojsten\nhttps://fks.sk/
+URL:https://fks.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FKS sústredenie
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260131
+DTSTAMP;VALUE=DATE-TIME:20260123T230000Z
+UID:af6642589846971f49e5120bd38406056356139c@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): Trojsten\
+ nhttps://fks.sk/akcie/sustredenia/
+URL:https://fks.sk/akcie/sustredenia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 3. série
+DTSTART;VALUE=DATE:20260111
+DTSTAMP;VALUE=DATE-TIME:20260110T230000Z
+UID:793454d01bedb7b78aeafcdfbb41834eb65bdaaf@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soustředení FYKOSu
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250919T220000Z
+UID:298ddbff379a607841e02bd18040d6f2ee9c6e54@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): fykos\nht
+ tps://fykos.cz/akce/soustredeni/2025-podzim
+URL:https://fykos.cz/akce/soustredeni/2025-podzim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 4. série
+DTSTART;VALUE=DATE:20260222
+DTSTAMP;VALUE=DATE-TIME:20260221T230000Z
+UID:129f70db518ea2c50b222e4f4a89bf186d4d06d1@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 2. série
+DTSTART;VALUE=DATE:20251116
+DTSTAMP;VALUE=DATE-TIME:20251115T230000Z
+UID:8a1cc8546a98b0bbda8844910f69d5748e949373@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 1. série
+DTSTART;VALUE=DATE:20251005
+DTSTAMP;VALUE=DATE-TIME:20251004T220000Z
+UID:fe515b25fcaa241e9f46d455354aabb957a28a76@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 6. série
+DTSTART;VALUE=DATE:20260511
+DTSTAMP;VALUE=DATE-TIME:20260510T220000Z
+UID:e6e13533227847d84b0b818d5b6e25c5eeaaa6a4@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FYKOS - 5. série
+DTSTART;VALUE=DATE:20260329
+DTSTAMP;VALUE=DATE-TIME:20260328T230000Z
+UID:66999524273dca77ca70351becc12d4a6fa1ae32@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | SŠ 1 – 4\n\nFYKOS (FYzikální KOresponden
+ ční Seminář) je dlouhodobá individuální soutěž\, která středoš
+ kolákům umožňuje si zajímavým způsobem rozšířit chápání fyzik
+ y a světa kolem nás\, a to např. skrze naše úlohy\, vzorová řešen
+ í\, učební texty či účast na našich akcích.\n\nOrganizátor(i): fy
+ kos\nhttps://fykos.cz/
+URL:https://fykos.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soustředení FYKOSu
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260419
+DTSTAMP;VALUE=DATE-TIME:20260410T220000Z
+UID:f7f298115d229e8ec315544697793dd9b3b18426@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | SŠ 1 – 4\n\nOrganizátor(i): fykos\nht
+ tps://fykos.cz/akce/soustredeni/2026-jaro
+URL:https://fykos.cz/akce/soustredeni/2026-jaro
+END:VEVENT
+END:VCALENDAR

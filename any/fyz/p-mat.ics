@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20260122
+DTSTAMP;VALUE=DATE-TIME:20260121T230000Z
+UID:9df0ac407ebe70f359ef73c661c92960c1f7404f@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, CHEM\, BIO | ZŠ 7 – 9\n\nAttoved je 
+ individuálna súťaž z prírodných vied. Na súťažiacich čakajú ved
+ omostné a experimentálne úlohy z biológie\, fyziky a chémie. Okrem t
+ ých sa stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomos
+ ti a logické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat\nht
+ tps://akcie.p-mat.sk/attoved/
+URL:https://akcie.p-mat.sk/attoved/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20250925
+DTSTAMP;VALUE=DATE-TIME:20250924T220000Z
+UID:fc5f26ba8d67e6330cf5838ae7dc6f6ec926381f@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, CHEM\, BIO | ZŠ 5 – 9\n\nAttoved je 
+ individuálna súťaž z prírodných vied. Na súťažiacich čakajú ved
+ omostné a experimentálne úlohy z biológie\, fyziky a chémie. Okrem t
+ ých sa stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomos
+ ti a logické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat\nht
+ tps://akcie.p-mat.sk/attoved/
+URL:https://akcie.p-mat.sk/attoved/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251026
+DTSTAMP;VALUE=DATE-TIME:20251023T220000Z
+UID:3e84ece693e3d522e7a2510f87c2c756d4dca726@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-ma
+ t\nhttps://akcie.p-mat.sk/kockaty-vikend/
+URL:https://akcie.p-mat.sk/kockaty-vikend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260208
+DTSTAMP;VALUE=DATE-TIME:20260202T230000Z
+UID:97c6f0d44a22ff1e97a48c9044d0cb2fe0104e86@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260704
+DTSTAMP;VALUE=DATE-TIME:20260626T220000Z
+UID:c5c9310274d924c374d1d803c58d09fe7e9c7fe1@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20251208
+DTSTAMP;VALUE=DATE-TIME:20251207T230000Z
+UID:b05d7dfbff896207760aa61d95b0e5dc5b77481e@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20250929
+DTSTAMP;VALUE=DATE-TIME:20250928T220000Z
+UID:ca7d3a191d091570a02df7cea8e573a43337f8f0@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20251103
+DTSTAMP;VALUE=DATE-TIME:20251102T230000Z
+UID:68e3c0a6aeddfb693263507e164145b4fd30cc38@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20260330
+DTSTAMP;VALUE=DATE-TIME:20260329T220000Z
+UID:dffda2ed4d496ed143d0d112d0ac8689a4fab5c0@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20260427
+DTSTAMP;VALUE=DATE-TIME:20260426T220000Z
+UID:cbd3ea01c88f03652f47be19dcf423c2198cd321@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20260223
+DTSTAMP;VALUE=DATE-TIME:20260222T230000Z
+UID:284ecedcca1495d2a50a7df5fdf9b73343abead8@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+END:VCALENDAR

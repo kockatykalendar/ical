@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Riešok
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260124
+DTSTAMP;VALUE=DATE-TIME:20260116T230000Z
+UID:67cfc858d1c8e20f550591e536448e1d5e4f50f6@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 9\n\nSústredenie Riešok je 6-
+ dňový pobyt podobný Škole v prírode pre najúspešnejších riešite
+ ľov Riešok. Súčasťou sústredenia je odborný aj neodborný program v
+ o forme matematických prednášok a hier.\n\nOrganizátor(i): Riešky\nht
+ tps://riesky.sk/novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 1. kolo\, letná séria
+DTSTART;VALUE=DATE:20260226
+DTSTAMP;VALUE=DATE-TIME:20260225T230000Z
+UID:467ddaf80fa0063de684852b494a3208f340127e@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deň zo sústredenia Riešok
+DTSTART;VALUE=DATE:20250928
+DTSTAMP;VALUE=DATE-TIME:20250927T220000Z
+UID:6039f6352f2cf1a42d441cf16a1b1c26d25eda4c@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 5 – 9\n\nIde o celodennú akciu\, kt
+ orej cieľom je budúcim riešiteľom ukázať\, ako prebieha deň na sús
+ tredení Riešok a tým ich motivovať k riešeniu. Ukážeme si prednáš
+ ky\, hry a športy\, ktoré hrávame. Samozrejme sa potešíme aj všetký
+ m aktívnym Rieškarom :).\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+ novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky výlet
+DTSTART;VALUE=DATE:20260418
+DTSTAMP;VALUE=DATE-TIME:20260417T220000Z
+UID:1c4b2948aad6b5dd42fea9b52452b772a2c07083@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 5 – 9\n\nRiešky výlet je celodenn
+ á akcia určená hlavne aktuálnym riešiteľom Riešok\, no potešíme s
+ a aj novým tváram. Ide o ľahkú turistiku po okolí Bratislavy\, ktorej
+  súčasťou sú aj sústredkové hry.\n\nOrganizátor(i): Riešky\nhttps:
+ //riesky.sk/novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 2. kolo\, letná séria
+DTSTART;VALUE=DATE:20260326
+DTSTAMP;VALUE=DATE-TIME:20260325T230000Z
+UID:494f74d85e65cacab612202810e130bb42c25a8a@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vianočný čajíček Riešok
+DTSTART;VALUE=DATE:20251218
+DTSTAMP;VALUE=DATE-TIME:20251217T230000Z
+UID:8180bd7ade09cf6c1428a5b19f1f2e4e7d969fdd@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT | ZŠ 5 – 9\n\nIde o predvianočné stretn
+ utie vedúcich a aktuálnych riešiteľov Riešok. Potešíme sa však aj 
+ novým tváram. Koná sa v čajovni v ktorej si zahráme spoločenské hry
+  a stretneme s kamarátmi\, ktorých sme často dlho nevideli.\n\nOrganiz
+ átor(i): Riešky\nhttps://riesky.sk/novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 3. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251204
+DTSTAMP;VALUE=DATE-TIME:20251203T230000Z
+UID:4ae77457ac9520a7dee05ad983aaa83be8dfeb57@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Riešok
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260620
+DTSTAMP;VALUE=DATE-TIME:20260612T220000Z
+UID:0969f35b4baad4df283825df93b745276e2b9f10@kockatykalendar.sk
+DESCRIPTION:sústredenie | MAT | ZŠ 5 – 9\n\nSústredenie Riešok je 6-
+ dňový pobyt podobný Škole v prírode pre najúspešnejších riešite
+ ľov Riešok. Súčasťou sústredenia je odborný aj neodborný program v
+ o forme matematických prednášok a hier.\n\nOrganizátor(i): Riešky\nht
+ tps://riesky.sk/novinky/
+URL:https://riesky.sk/novinky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251113
+DTSTAMP;VALUE=DATE-TIME:20251112T230000Z
+UID:38189c8560b11b7e39add78b37ba9a8f561907f3@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251009
+DTSTAMP;VALUE=DATE-TIME:20251008T220000Z
+UID:3f85dbd154c0127ae3aadcd9ef149c7a37ecacaa@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riešky 3. kolo\, letná séria
+DTSTART;VALUE=DATE:20260423
+DTSTAMP;VALUE=DATE-TIME:20260422T220000Z
+UID:3d792211e11ff2d3252be53fd288f4cebbc1258f@kockatykalendar.sk
+DESCRIPTION:seminár | MAT | ZŠ 5 – 9\n\nRiešky sú individuálna dlho
+ dobá súťaž v riešení netradičných úloh. Pri riešeniach nás zauj
+ íma hlavne postup a myšlienky\, ktoré doviedli riešiteľa k výsledku 
+ a napíšeme k nim spätnú väzbu. Odmenou pre najúspešnejších rieši
+ teľov je sústredenie.\n\nOrganizátor(i): Riešky\nhttps://riesky.sk/
+URL:https://riesky.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 3. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251127
+DTSTAMP;VALUE=DATE-TIME:20251126T230000Z
+UID:32dfb6bd642139dd6af8dba70840b9e87232de04@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251030
+DTSTAMP;VALUE=DATE-TIME:20251029T230000Z
+UID:b789f18ef795a15d158fa71b531bb94e64cd6bbc@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251002
+DTSTAMP;VALUE=DATE-TIME:20251001T220000Z
+UID:48fbb0ee27021fafeab1b8939f433b5435a17581@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+END:VCALENDAR

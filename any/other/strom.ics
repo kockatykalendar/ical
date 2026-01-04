@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20250927
+DTSTAMP;VALUE=DATE-TIME:20250926T220000Z
+UID:ef8956687023480af3deb1ebc1d97a9f73ea348d@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nDo Košickej šifrovačky
+  sa môžete zapojiť v najviac päťčlenných tímoch\, a to buď v ter
+ éne alebo online. V oboch verziách sú 2 kategórie - začiatočníci a 
+ pokročilí. Hra je lineárna\, teda s tímom budete postupne prechádzať
+  10 šiframi v čase od 9:00 do 20:30.\n\nOrganizátor(i): Strom\nhttps://
+ kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,483 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - regionálne kolo
+DTSTART;VALUE=DATE:20260323
+DTSTAMP;VALUE=DATE-TIME:20260322T230000Z
+UID:511a24301b245ff91ee193a06afe505a436d21be@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | ZŠ 1 – SŠ 4\n\nRegionálne kolo pr
+ ebieha súbežne na viacerých miestach po celom Slovensku. Najlepší rie
+ šitelia zo stredoškolskej kategórie postupujú do celoštátneho kola.\
+ n\nOrganizátor(i): ao\nhttps://www.astronomickaolympiada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - domáce kolo
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20260216
+DTSTAMP;VALUE=DATE-TIME:20251205T230000Z
+UID:c9419f2d349eeb6af648dbd94335ee2dfd884d22@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | ZŠ 1 – SŠ 4\n\nDomáce kolo AO pre
+ bieha online. Na riešenie úloh máte viac než dva mesiace času. Teši
+ ť sa môžete na výpočtové úlohy z astrofyziky aj experimentálne úl
+ ohy ako pozorovania.\n\nOrganizátor(i): ao\nhttps://www.astronomickaolymp
+ iada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pekná maďarská reč\, kategórie I\, II\, III\, IV\, krajské k
+ olo
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:b02ceec63837771572f120ebbd097314ff8ab113@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pekná maďarská reč\, kategórie I\, II\, okresné kolo
+DTSTART;VALUE=DATE:20260216
+DTSTAMP;VALUE=DATE-TIME:20260215T230000Z
+UID:fdce5b46cccd26ae8dc0043e99e2e5460df6e5d2@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pekná maďarská reč\, kategórie I\, II\, III\, IV\, školské 
+ kolo
+DTSTART;VALUE=DATE:20260120
+DTSTAMP;VALUE=DATE-TIME:20260119T230000Z
+UID:46d1aca95b18d4b9cbfc8c50cd8f22fc486786fc@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pekná maďarská reč\, kategórie I\, II\, III\, IV\, celoštát
+ ne kolo
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260417
+DTSTAMP;VALUE=DATE-TIME:20260414T220000Z
+UID:21f7764950c9761d1c8f5695aadc03f9fc7ddf58@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v ruskom jazyku\, kategórie A1\, A2\, A3\, B1\, B2\, B
+ 3\, B4\, krajské kolo
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+DTSTAMP;VALUE=DATE-TIME:20260409T220000Z
+UID:4443a72e8d64992033f1e77f9317d091f40adbec@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v ruskom jazyku\, kategórie A1\, A2\, A3\, B1\, B2\, B
+ 3\, B4\, okresné kolo
+DTSTART;VALUE=DATE:20260206
+DTSTAMP;VALUE=DATE-TIME:20260205T230000Z
+UID:ee0c2bbc084058d2b7e0a4f5746878baa7555606@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v ruskom jazyku\, kategórie A1\, A2\, A3\, B1\, B2\, B
+ 3\, B4\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:2cbc2cb69aae02cbf13dbca75ac07f04caddce6a@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategória E\, celoštátne kolo
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+DTSTAMP;VALUE=DATE-TIME:20260514T220000Z
+UID:1eb9d5f14c0c514aaa1b8ed9a3955d12d527e4e6@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie E\, F\, G\, okresné kolo
+DTSTART;VALUE=DATE:20260317
+DTSTAMP;VALUE=DATE-TIME:20260316T230000Z
+UID:d16246a38077c759dc2f38c07fd204b39c6e40ff@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie E\, F\, G\, školské kolo
+DTSTART;VALUE=DATE:20260113
+DTSTAMP;VALUE=DATE-TIME:20260112T230000Z
+UID:f84c1a0cdf3d80e30f6d975cd55db6cbb9769ef4@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 4 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geografická olympiáda\, kategórie E\, F\, krajské kolo
+DTSTART;VALUE=DATE:20260416
+DTSTAMP;VALUE=DATE-TIME:20260415T220000Z
+UID:412d97bf4b84a21aa42c9f11734cd37ac8454968@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 6 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technická olympiáda\, kategória A\, celoštátne kolo
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DTSTAMP;VALUE=DATE-TIME:20260505T220000Z
+UID:8645af2346c49c5a51b31ce9125c2fbe9e1951d1@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technická olympiáda\, kategórie A\, B\, školské kolo
+DTSTART;VALUE=DATE:20251008
+DTSTAMP;VALUE=DATE-TIME:20251007T220000Z
+UID:80e2e7081e6de814e301d8337faa2f17fadd2832@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technická olympiáda\, kategórie A\, B\, okresné kolo
+DTSTART;VALUE=DATE:20251120
+DTSTAMP;VALUE=DATE-TIME:20251119T230000Z
+UID:9b31eb396e67d3f961a6aca52cf6e70fdf7c3fcd@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technická olympiáda\, kategórie A\, B\, krajské kolo
+DTSTART;VALUE=DATE:20260127
+DTSTAMP;VALUE=DATE-TIME:20260126T230000Z
+UID:00d990ddbb9089ca79959af01a1a7fbc25e54360@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2D\,
+  1C\, 2C\, celoštátne kolo
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260314T230000Z
+UID:9078e8e2e73d40b179be8a386978802b4f7e48e9@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1C\, 2C\, školské kolo
+DTSTART;VALUE=DATE:20251210
+DTSTAMP;VALUE=DATE-TIME:20251209T230000Z
+UID:56a2c9e539b8d103a74f06109afadd1bb6abf5e2@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2D\,
+  školské kolo
+DTSTART;VALUE=DATE:20251201
+DTSTAMP;VALUE=DATE-TIME:20251130T230000Z
+UID:f63c59ff5043398d812d6896da223c7eea905b9c@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2D\,
+  1C\, 2C\, krajské kolo
+DTSTART;VALUE=DATE:20260212
+DTSTAMP;VALUE=DATE-TIME:20260211T230000Z
+UID:7c642250bf610e30cbb11bfe328a60c2ed3495f6@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v nemeckom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2D\,
+  okresné kolo
+DTSTART;VALUE=DATE:20260115
+DTSTAMP;VALUE=DATE-TIME:20260114T230000Z
+UID:d12627c0f1e3743d1601d265d960bd47119a606b@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v anglickom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\, 2B\
+ , 2C1\, 2C2\, 2D\, školské kolo
+DTSTART;VALUE=DATE:20251128
+DTSTAMP;VALUE=DATE-TIME:20251127T230000Z
+UID:8ed2f153ce0e3da9edc0e7c5515362298fd6d969@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v anglickom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\, 2B\
+ , 2C1\, 2C2\, 2D\, krajské kolo
+DTSTART;VALUE=DATE:20260211
+DTSTAMP;VALUE=DATE-TIME:20260210T230000Z
+UID:d2c0a01a3b72ed58772d1cf1964ce80814fd2d68@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v anglickom jazyku\, kategórie 1A\, 1B\, 2A\, 2B\, 2C2
+ \, 2D\, okresné kolo
+DTSTART;VALUE=DATE:20260114
+DTSTAMP;VALUE=DATE-TIME:20260113T230000Z
+UID:b895d0d3dc882c02bcb00d1ce66c9f9a373ec469@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda v anglickom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\, 2B\
+ , 2C1\, 2C2\, 2D\, celoštátne kolo
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+DTSTAMP;VALUE=DATE-TIME:20260425T220000Z
+UID:0d72b807b71f391aedd1b489de9e5198390d06d6@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 5 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda vo francúzskom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\,
+  2B\, 2C\, celoštátne kolo
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+DTSTAMP;VALUE=DATE-TIME:20260325T230000Z
+UID:35135794b95f505aee4b3ca5467d912a8693c4f0@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda vo francúzskom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\,
+  2B\, 2C\, školské kolo
+DTSTART;VALUE=DATE:20251212
+DTSTAMP;VALUE=DATE-TIME:20251211T230000Z
+UID:ddd706b980f0ddb6dd4785ac4ad9abb4db9c2b50@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda vo francúzskom jazyku\, kategórie 1A\, 1B\, 1C\, 2A\,
+  2B\, 2C\, krajské kolo
+DTSTART;VALUE=DATE:20260123
+DTSTAMP;VALUE=DATE-TIME:20260122T230000Z
+UID:be4e5c54593650b3d9ec968a307bcb68aee8425c@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie C\, D\, E\, F\, školské kolo
+DTSTART;VALUE=DATE:20251205
+DTSTAMP;VALUE=DATE-TIME:20251204T230000Z
+UID:072e28294120118f71db081b002dfe1825a16227@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 6 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie A\, B\, C\, D\, E\, krajské ko
+ lo
+DTSTART;VALUE=DATE:20260422
+DTSTAMP;VALUE=DATE-TIME:20260421T220000Z
+UID:c67cdc9b678445734e9ded9abb6e24836b9eec8a@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 7 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie A\, B\, C\, D\, celoštátne ko
+ lo
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260610
+DTSTAMP;VALUE=DATE-TIME:20260607T220000Z
+UID:0b1b213f085914f169a22d9233562bf00b7de6e2@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dejepisná olympiáda\, kategórie C\, D\, E\, F\, okresné kolo
+DTSTART;VALUE=DATE:20260204
+DTSTAMP;VALUE=DATE-TIME:20260203T230000Z
+UID:94c0a2ff503d903a7fa4c99c9e786a456355fcd4@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 6 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prečo mám rád slovenčinu\, prečo mám rád Slovensko\, kateg
+ ória 1\, 2A\, 2B\, 3\, 4\, školské kolo
+DTSTART;VALUE=DATE:20260131
+DTSTAMP;VALUE=DATE-TIME:20260130T230000Z
+UID:98b7375fc79e5ec52604b8b083d5b029de4c0764@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prečo mám rád slovenčinu\, prečo mám rád Slovensko\, kateg
+ ória 1\, 2A\, 2B\, 3\, 4\, celoštátne kolo
+DTSTART;VALUE=DATE:20260604
+DTSTAMP;VALUE=DATE-TIME:20260603T220000Z
+UID:0ab4ca6409d6894c774ad57305a45ca2785608da@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 1 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategória C\, 
+ školské kolo
+DTSTART;VALUE=DATE:20251017
+DTSTAMP;VALUE=DATE-TIME:20251016T220000Z
+UID:34f71a7218d842cf9b25ef8830ea98f654265313@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategória C\, o
+ kresné kolo
+DTSTART;VALUE=DATE:20251114
+DTSTAMP;VALUE=DATE-TIME:20251113T230000Z
+UID:1525351214085857e42d260d9efcd8f6ea46f88f@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategórie A\, B
+ \, C\, celoštátne kolo
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+DTSTAMP;VALUE=DATE-TIME:20260419T220000Z
+UID:6ce0ed9228db162e1ba7469f2771b6adcca84ead@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda zo slovenského jazyka a literatúry\, kategórie A\, B
+ \, C\, krajské kolo
+DTSTART;VALUE=DATE:20260203
+DTSTAMP;VALUE=DATE-TIME:20260202T230000Z
+UID:5c395a7593a2f0cb04a77fbf2922bbc6e4dacd1b@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 8 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poznaj slovenskú reč\, kategória 1\, 2\, 3\, 4\, školské kolo
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:a81ccec227bb7bc6a9435fe2de05cf3fb471b4d2@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 3 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poznaj slovenskú reč\, kategória 1\, 2\, 3\, 4\, krajské kolo
+DTSTART;VALUE=DATE:20260414
+DTSTAMP;VALUE=DATE-TIME:20260413T220000Z
+UID:8be8d126c89b9f17264fb46b46e2afa18ff48f6a@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 3 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poznaj slovenskú reč\, kategória 1\, 2\, 3\, okresné kolo
+DTSTART;VALUE=DATE:20260313
+DTSTAMP;VALUE=DATE-TIME:20260312T230000Z
+UID:bf578f11b29ce418a194b936d4a824d039f86c98@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 3 – 7\n\nOrganizátor(i): nivam\nhtt
+ ps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poznaj slovenskú reč\, kategória 1\, 2\, 3\, 4\, celoštátne k
+ olo
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260612
+DTSTAMP;VALUE=DATE-TIME:20260609T220000Z
+UID:ebe7d3beae36a1e979110d20cda61f8a7f98b0bb@kockatykalendar.sk
+DESCRIPTION:olympiáda | iné | ZŠ 3 – SŠ 4\n\nOrganizátor(i): nivam\
+ nhttps://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 3. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251127
+DTSTAMP;VALUE=DATE-TIME:20251126T230000Z
+UID:32dfb6bd642139dd6af8dba70840b9e87232de04@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251030
+DTSTAMP;VALUE=DATE-TIME:20251029T230000Z
+UID:b789f18ef795a15d158fa71b531bb94e64cd6bbc@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251002
+DTSTAMP;VALUE=DATE-TIME:20251001T220000Z
+UID:48fbb0ee27021fafeab1b8939f433b5435a17581@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kôš - Košická šifrovačka
+DTSTART;VALUE=DATE:20250927
+DTSTAMP;VALUE=DATE-TIME:20250926T220000Z
+UID:ef8956687023480af3deb1ebc1d97a9f73ea348d@kockatykalendar.sk
+DESCRIPTION:súťaž | iné | ZŠ 1 – SŠ 4\n\nDo Košickej šifrovačky
+  sa môžete zapojiť v najviac päťčlenných tímoch\, a to buď v ter
+ éne alebo online. V oboch verziách sú 2 kategórie - začiatočníci a 
+ pokročilí. Hra je lineárna\, teda s tímom budete postupne prechádzať
+  10 šiframi v čase od 9:00 do 20:30.\n\nOrganizátor(i): Strom\nhttps://
+ kos.strom.sk/
+URL:https://kos.strom.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesenné sústredenie Terabio
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250912
+DTSTAMP;VALUE=DATE-TIME:20250905T220000Z
+UID:18b173a4638fd09963a5c29483bd8a4f72fd35e3@kockatykalendar.sk
+DESCRIPTION:sústredenie | iné | ZŠ 5 – 9\n\nOrganizátor(i): P-mat\nh
+ ttps://terabio.sk/
+URL:https://terabio.sk/
+END:VEVENT
+END:VCALENDAR

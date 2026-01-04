@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Lupár 3. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251127
+DTSTAMP;VALUE=DATE-TIME:20251126T230000Z
+UID:32dfb6bd642139dd6af8dba70840b9e87232de04@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 2. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251030
+DTSTAMP;VALUE=DATE-TIME:20251029T230000Z
+UID:b789f18ef795a15d158fa71b531bb94e64cd6bbc@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lupár 1. kolo\, zimná séria
+DTSTART;VALUE=DATE:20251002
+DTSTAMP;VALUE=DATE-TIME:20251001T220000Z
+UID:48fbb0ee27021fafeab1b8939f433b5435a17581@kockatykalendar.sk
+DESCRIPTION:seminár | iné | ZŠ 5 – 9\n\nLupár je individuálna dlhod
+ obá súťaž v riešení logických úloh. Obsahuje aj kategóriu Open\, 
+ ktorá nie je vekovo omedzená.\n\nOrganizátor(i): Riešky
+END:VEVENT
+END:VCALENDAR

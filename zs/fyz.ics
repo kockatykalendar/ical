@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KockatyKalendar.sk//v0.1//
+BEGIN:VEVENT
+SUMMARY:Noc Vedy
+DTSTART;VALUE=DATE:20250926
+DTSTAMP;VALUE=DATE-TIME:20250925T220000Z
+UID:23d453aaa63302e51f46269b7d9f5b8afa75a526@kockatykalendar.sk
+DESCRIPTION:iný druh akcie | MAT\, FYZ\, INF | ktokoľvek\n\nKaždoročne
+  Ťa čaká celý deň plný prednášok a stánkov s rôznymi experimentm
+ i a ukážkami z oblasti vedy a techniky. Vstup je voľný a každý si pr
+ íde na svoje. V Bratislave sa môžte tešiť na stánky od vašich obľ
+ úbených organizácii Trojsten\, Riešky\, či P-mat.\n\nOrganizátor(i):
+  sovva\nhttps://nocvedy.sk/
+URL:https://nocvedy.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - regionálne kolo
+DTSTART;VALUE=DATE:20260323
+DTSTAMP;VALUE=DATE-TIME:20260322T230000Z
+UID:511a24301b245ff91ee193a06afe505a436d21be@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | ZŠ 1 – SŠ 4\n\nRegionálne kolo pr
+ ebieha súbežne na viacerých miestach po celom Slovensku. Najlepší rie
+ šitelia zo stredoškolskej kategórie postupujú do celoštátneho kola.\
+ n\nOrganizátor(i): ao\nhttps://www.astronomickaolympiada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomická olympiáda - domáce kolo
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20260216
+DTSTAMP;VALUE=DATE-TIME:20251205T230000Z
+UID:c9419f2d349eeb6af648dbd94335ee2dfd884d22@kockatykalendar.sk
+DESCRIPTION:súťaž | FYZ\, iné | ZŠ 1 – SŠ 4\n\nDomáce kolo AO pre
+ bieha online. Na riešenie úloh máte viac než dva mesiace času. Teši
+ ť sa môžete na výpočtové úlohy z astrofyziky aj experimentálne úl
+ ohy ako pozorovania.\n\nOrganizátor(i): ao\nhttps://www.astronomickaolymp
+ iada.sk/ulohy/
+URL:https://www.astronomickaolympiada.sk/ulohy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20260122
+DTSTAMP;VALUE=DATE-TIME:20260121T230000Z
+UID:9df0ac407ebe70f359ef73c661c92960c1f7404f@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, CHEM\, BIO | ZŠ 7 – 9\n\nAttoved je 
+ individuálna súťaž z prírodných vied. Na súťažiacich čakajú ved
+ omostné a experimentálne úlohy z biológie\, fyziky a chémie. Okrem t
+ ých sa stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomos
+ ti a logické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat\nht
+ tps://akcie.p-mat.sk/attoved/
+URL:https://akcie.p-mat.sk/attoved/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attoved
+DTSTART;VALUE=DATE:20250925
+DTSTAMP;VALUE=DATE-TIME:20250924T220000Z
+UID:fc5f26ba8d67e6330cf5838ae7dc6f6ec926381f@kockatykalendar.sk
+DESCRIPTION:súťaž | MAT\, FYZ\, CHEM\, BIO | ZŠ 5 – 9\n\nAttoved je 
+ individuálna súťaž z prírodných vied. Na súťažiacich čakajú ved
+ omostné a experimentálne úlohy z biológie\, fyziky a chémie. Okrem t
+ ých sa stretnú aj s takzvaným Vedeckým mixom. Ten preverí ich vedomos
+ ti a logické myslenie zo súvisiacich vied.\n\nOrganizátor(i): P-mat\nht
+ tps://akcie.p-mat.sk/attoved/
+URL:https://akcie.p-mat.sk/attoved/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategórie E\, F\, okresné kolo
+DTSTART;VALUE=DATE:20260311
+DTSTAMP;VALUE=DATE-TIME:20260310T230000Z
+UID:b99fcc28d0b511b8ba19ad6a030bcdea90c16065@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória G\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260430
+DTSTAMP;VALUE=DATE-TIME:20260429T220000Z
+UID:004bb5f09dd5d2ccbbd274b9d0aa30ad11151db4@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategórie E\, F\, koniec domácej prípra
+ vy
+DTSTART;VALUE=DATE:20260213
+DTSTAMP;VALUE=DATE-TIME:20260212T230000Z
+UID:4a941561914efe8c079265cadf7351f588371f0d@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 8 – 9\n\nOrganizátor(i): nivam\nhttp
+ s://nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória E \, okresné kolo
+DTSTART;VALUE=DATE:20260415
+DTSTAMP;VALUE=DATE-TIME:20260414T220000Z
+UID:7f1b351adad06485def6b71b61492bf7a858fd68@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 9\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fyzikálna olympiáda\, kategória G\, okresné kolo
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260522
+DTSTAMP;VALUE=DATE-TIME:20260517T220000Z
+UID:d8876564346dc307194d81b4e1addaa01b93a6ec@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ | ZŠ 7\n\nOrganizátor(i): nivam\nhttps://ni
+ vam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, koniec domácej prípravy
+DTSTART;VALUE=DATE:20260316
+DTSTAMP;VALUE=DATE-TIME:20260315T230000Z
+UID:252600fc82b35f5b44e079e1485d36786309b9ea@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, krajské kolo
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260604
+DTSTAMP;VALUE=DATE-TIME:20260530T220000Z
+UID:b4bd2abb7241aa17fffa9e082b631e0a498e95a5@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olympiáda mladých vedcov\, okresné kolo
+DTSTART;VALUE=DATE:20260421
+DTSTAMP;VALUE=DATE-TIME:20260420T220000Z
+UID:7baf0479ab960417974a04c47dc874628ae4bb7f@kockatykalendar.sk
+DESCRIPTION:olympiáda | FYZ\, CHEM\, BIO | ZŠ 5 – SŠ 1\n\nOlympiáda 
+ mladých vedcov (IJSO) je medzinárodná vedomostná súťaž\, ktorá tes
+ tuje vedomosti a zručnosti vo fyzike\, chémii a biológii. Súťaž pozo
+ stáva z teoretických a praktických úloh a jej cieľom je podporovať v
+ edecké talenty mladšie než 16 rokov.\n\nOrganizátor(i): nivam\nhttps:/
+ /nivam.sk/
+URL:https://nivam.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kockatý víkend
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251026
+DTSTAMP;VALUE=DATE-TIME:20251023T220000Z
+UID:3e84ece693e3d522e7a2510f87c2c756d4dca726@kockatykalendar.sk
+DESCRIPTION:víkendovka | MAT\, FYZ | ZŠ 5 – 9\n\nOrganizátor(i): P-ma
+ t\nhttps://akcie.p-mat.sk/kockaty-vikend/
+URL:https://akcie.p-mat.sk/kockaty-vikend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zimné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260208
+DTSTAMP;VALUE=DATE-TIME:20260202T230000Z
+UID:97c6f0d44a22ff1e97a48c9044d0cb2fe0104e86@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letné sústredenie Pikofyzu
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260704
+DTSTAMP;VALUE=DATE-TIME:20260626T220000Z
+UID:c5c9310274d924c374d1d803c58d09fe7e9c7fe1@kockatykalendar.sk
+DESCRIPTION:sústredenie | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nht
+ tps://pikofyz.sk/
+URL:https://pikofyz.sk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20251208
+DTSTAMP;VALUE=DATE-TIME:20251207T230000Z
+UID:b05d7dfbff896207760aa61d95b0e5dc5b77481e@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20250929
+DTSTAMP;VALUE=DATE-TIME:20250928T220000Z
+UID:ca7d3a191d091570a02df7cea8e573a43337f8f0@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20251103
+DTSTAMP;VALUE=DATE-TIME:20251102T230000Z
+UID:68e3c0a6aeddfb693263507e164145b4fd30cc38@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 2.séria
+DTSTART;VALUE=DATE:20260330
+DTSTAMP;VALUE=DATE-TIME:20260329T220000Z
+UID:dffda2ed4d496ed143d0d112d0ac8689a4fab5c0@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 3.séria
+DTSTART;VALUE=DATE:20260427
+DTSTAMP;VALUE=DATE-TIME:20260426T220000Z
+UID:cbd3ea01c88f03652f47be19dcf423c2198cd321@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikofyz 1.séria
+DTSTART;VALUE=DATE:20260223
+DTSTAMP;VALUE=DATE-TIME:20260222T230000Z
+UID:284ecedcca1495d2a50a7df5fdf9b73343abead8@kockatykalendar.sk
+DESCRIPTION:seminár | FYZ | ZŠ 7 – 9\n\nOrganizátor(i): P-mat\nhttps:
+ //pikofyz.sk
+URL:https://pikofyz.sk
+END:VEVENT
+END:VCALENDAR
